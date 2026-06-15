@@ -1,0 +1,31 @@
+name: Ingest RSS
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"      # every 30 minutes
+  workflow_dispatch:            # manual run button
+
+concurrency:
+  group: sheet-writer           # never run two sheet-writers at once
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::googlesheets4
+            any::httr2
+            any::xml2
+      - name: Run ingest.R
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          FEED_URL: ${{ secrets.FEED_URL }}
+        run: Rscript ingest.R
