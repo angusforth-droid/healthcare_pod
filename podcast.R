@@ -131,62 +131,65 @@ stopifnot("Sheet needs a 'podcast_released' header" = !is.na(col_released))
 ready <- dat[(!is.na(dat$enriched) & dat$enriched == "TRUE") &
              (is.na(dat$podcast_released) | dat$podcast_released != "TRUE"), , drop = FALSE]
 
-if (nrow(ready) == 0) { message("No articles ready for the podcast."); quit(save = "no", status = 0) }
-
-`%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
-
-# Prefer the rich AI summary, fall back to the RSS content extract.
-pick_text <- function(r) {
-  s <- r$ai_summary
-  if (is.na(s) || !nzchar(s)) s <- r$content
-  s %||% ""
-}
-
-blocks <- vapply(seq_len(nrow(ready)), function(i) {
-  r <- ready[i, ]
-  sprintf("TITLE: %s\nSOURCE: %s\nSUMMARY: %s\n",
-          r$title %||% "", r$link %||% "", pick_text(r))
-}, character(1))
-
-input_text <- paste(blocks, collapse = "\n---\n")
-
-# ---- Generate briefing, then audio script --------------------------------
-message(sprintf("Building briefing from %d article(s).", nrow(ready)))
-briefing <- chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
-audio_script <- chat(AUDIO_PROMPT, briefing, max_tokens = 4000)
-
-# ---- ElevenLabs text to speech -------------------------------------------
-stamp   <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
 out_dir <- "episodes"
 dir.create(out_dir, showWarnings = FALSE)
 
-mp3_path <- file.path(out_dir, sprintf("Health Daily Download - %s.mp3", stamp))
-tts <- request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_VOICE_ID)) |>
-  req_headers(`xi-api-key` = ELEVEN_API_KEY, `Content-Type` = "application/json") |>
-  req_body_json(list(
-    text = audio_script,
-    model_id = ELEVEN_MODEL,
-    voice_settings = list(stability = 0.5, similarity_boost = 0.6)
-  )) |>
-  req_timeout(300) |>
-  req_perform()
-writeBin(resp_body_raw(tts), mp3_path)
+`%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
 
-# ---- Save transcript next to the audio -----------------------------------
-txt_path <- file.path(out_dir, sprintf("Health Daily Download (read) - %s.txt", stamp))
-writeLines(briefing, txt_path)
-message(sprintf("Saved episode: %s", mp3_path))
-message(sprintf("Saved transcript: %s", txt_path))
+if (nrow(ready) == 0) {
+  message("No new articles ready. Refreshing the feed only, no audio generated.")
+} else {
+  # Prefer the rich AI summary, fall back to the RSS content extract.
+  pick_text <- function(r) {
+    s <- r$ai_summary
+    if (is.na(s) || !nzchar(s)) s <- r$content
+    s %||% ""
+  }
 
-# ---- Mark rows as released -----------------------------------------------
-for (rn in ready$.row) {
-  range_write(SHEET_ID, sheet = WORKSHEET,
-              data = data.frame(x = "TRUE"),
-              range = sprintf("%s%d", col_released, rn), col_names = FALSE)
-  Sys.sleep(0.5)
+  blocks <- vapply(seq_len(nrow(ready)), function(i) {
+    r <- ready[i, ]
+    sprintf("TITLE: %s\nSOURCE: %s\nSUMMARY: %s\n",
+            r$title %||% "", r$link %||% "", pick_text(r))
+  }, character(1))
+
+  input_text <- paste(blocks, collapse = "\n---\n")
+
+  # ---- Generate briefing, then audio script ------------------------------
+  message(sprintf("Building briefing from %d article(s).", nrow(ready)))
+  briefing <- chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
+  audio_script <- chat(AUDIO_PROMPT, briefing, max_tokens = 4000)
+
+  # ---- ElevenLabs text to speech -----------------------------------------
+  stamp <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
+
+  mp3_path <- file.path(out_dir, sprintf("Health Daily Download - %s.mp3", stamp))
+  tts <- request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_VOICE_ID)) |>
+    req_headers(`xi-api-key` = ELEVEN_API_KEY, `Content-Type` = "application/json") |>
+    req_body_json(list(
+      text = audio_script,
+      model_id = ELEVEN_MODEL,
+      voice_settings = list(stability = 0.5, similarity_boost = 0.6)
+    )) |>
+    req_timeout(300) |>
+    req_perform()
+  writeBin(resp_body_raw(tts), mp3_path)
+
+  # ---- Save transcript next to the audio ---------------------------------
+  txt_path <- file.path(out_dir, sprintf("Health Daily Download (read) - %s.txt", stamp))
+  writeLines(briefing, txt_path)
+  message(sprintf("Saved episode: %s", mp3_path))
+  message(sprintf("Saved transcript: %s", txt_path))
+
+  # ---- Mark rows as released ---------------------------------------------
+  for (rn in ready$.row) {
+    range_write(SHEET_ID, sheet = WORKSHEET,
+                data = data.frame(x = "TRUE"),
+                range = sprintf("%s%d", col_released, rn), col_names = FALSE)
+    Sys.sleep(0.5)
+  }
+
+  message(sprintf("Published podcast and marked %d row(s) released.", nrow(ready)))
 }
-
-message(sprintf("Published podcast and marked %d row(s) released.", nrow(ready)))
 
 # ---- Build / refresh the podcast RSS feed --------------------------------
 PODCAST_TITLE <- Sys.getenv("PODCAST_TITLE", "Health Daily Download")
