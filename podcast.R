@@ -1,11 +1,10 @@
 # podcast.R
 # Replaces Zap 3: select enriched, unreleased articles -> build a grouped
-# briefing -> rewrite for audio -> ElevenLabs TTS -> save MP3 + transcript to
-# Drive -> mark podcast_released = TRUE.
+# briefing -> rewrite for audio -> ElevenLabs TTS -> save MP3 + transcript into
+# the repo's episodes/ folder -> mark podcast_released = TRUE.
 
 suppressMessages({
   library(googlesheets4)
-  library(googledrive)
   library(httr2)
 })
 
@@ -17,21 +16,18 @@ LLM_MODEL         <- Sys.getenv("LLM_MODEL", "claude-haiku-4-5")
 ELEVEN_API_KEY    <- Sys.getenv("ELEVENLABS_API_KEY")
 ELEVEN_VOICE_ID   <- Sys.getenv("ELEVENLABS_VOICE_ID", "1hlpeD1ydbI2ow0Tt3EW")
 ELEVEN_MODEL      <- Sys.getenv("ELEVENLABS_MODEL", "eleven_multilingual_v2")
-DRIVE_FOLDER_ID   <- Sys.getenv("DRIVE_FOLDER_ID")          # "00. Daily Digest" folder ID
 MAX_INPUT_CHARS   <- as.integer(Sys.getenv("MAX_INPUT_CHARS", "60000"))
 
 stopifnot("SHEET_ID is not set"           = nzchar(SHEET_ID),
           "ANTHROPIC_API_KEY is not set"  = nzchar(ANTHROPIC_API_KEY),
-          "ELEVENLABS_API_KEY is not set" = nzchar(ELEVEN_API_KEY),
-          "DRIVE_FOLDER_ID is not set"    = nzchar(DRIVE_FOLDER_ID))
+          "ELEVENLABS_API_KEY is not set" = nzchar(ELEVEN_API_KEY))
 
-# ---- Auth (Sheets + Drive share the service account) ---------------------
+# ---- Auth (service account, for Sheets only) -----------------------------
 sa_json <- Sys.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
 stopifnot("GOOGLE_SERVICE_ACCOUNT_JSON is not set" = nzchar(sa_json))
 sa_file <- tempfile(fileext = ".json")
 writeLines(sa_json, sa_file)
 gs4_auth(path = sa_file)
-drive_auth(path = sa_file)
 
 a1col <- function(n) {
   s <- ""
@@ -160,7 +156,11 @@ briefing <- chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
 audio_script <- chat(AUDIO_PROMPT, briefing, max_tokens = 4000)
 
 # ---- ElevenLabs text to speech -------------------------------------------
-mp3_path <- tempfile(fileext = ".mp3")
+stamp   <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
+out_dir <- "episodes"
+dir.create(out_dir, showWarnings = FALSE)
+
+mp3_path <- file.path(out_dir, sprintf("Health Daily Download - %s.mp3", stamp))
 tts <- request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_VOICE_ID)) |>
   req_headers(`xi-api-key` = ELEVEN_API_KEY, `Content-Type` = "application/json") |>
   req_body_json(list(
@@ -172,18 +172,11 @@ tts <- request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_
   req_perform()
 writeBin(resp_body_raw(tts), mp3_path)
 
-# ---- Save to Drive: MP3 + transcript Google Doc --------------------------
-stamp <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
-folder <- as_id(DRIVE_FOLDER_ID)
-
-drive_upload(media = mp3_path, path = folder,
-             name = sprintf("Health Daily Download - %s.mp3", stamp), overwrite = FALSE)
-
-txt_path <- tempfile(fileext = ".txt")
+# ---- Save transcript next to the audio -----------------------------------
+txt_path <- file.path(out_dir, sprintf("Health Daily Download (read) - %s.txt", stamp))
 writeLines(briefing, txt_path)
-drive_upload(media = txt_path, path = folder,
-             name = sprintf("Health Daily Download (read) - %s", stamp),
-             type = "document", overwrite = FALSE)
+message(sprintf("Saved episode: %s", mp3_path))
+message(sprintf("Saved transcript: %s", txt_path))
 
 # ---- Mark rows as released -----------------------------------------------
 for (rn in ready$.row) {
