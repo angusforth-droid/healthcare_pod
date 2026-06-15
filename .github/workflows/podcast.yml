@@ -9,6 +9,9 @@ concurrency:
   group: sheet-writer
   cancel-in-progress: false
 
+permissions:
+  contents: write             # allow committing the episode back to the repo
+
 jobs:
   podcast:
     runs-on: ubuntu-latest
@@ -21,7 +24,6 @@ jobs:
         with:
           packages: |
             any::googlesheets4
-            any::googledrive
             any::httr2
       - name: Run podcast.R
         env:
@@ -30,5 +32,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
-          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
         run: Rscript podcast.R
+      - name: Commit episode to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add episodes/
+          git commit -m "Add episode $(date -u +'%Y-%m-%d %H:%M')" || echo "Nothing to commit"
+          git push
