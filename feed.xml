@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Health Daily Download</title>
+    <link>https://angusforth-droid.github.io/healthcare_pod</link>
+    <description>A weekly spoken briefing on healthcare and life sciences news.</description>
+    <language>en-gb</language>
+    <itunes:author>Health Daily Download</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Health Daily Download - 2026-06-15 1622</title>
+      <pubDate>Mon, 15 Jun 2026 15:22:00 +0000</pubDate>
+      <enclosure url="https://angusforth-droid.github.io/healthcare_pod/episodes/Health%20Daily%20Download%20-%202026-06-15%201622.mp3" length="4898525" type="audio/mpeg"/>
+      <guid isPermaLink="false">Health Daily Download - 2026-06-15 1622.mp3</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
+
