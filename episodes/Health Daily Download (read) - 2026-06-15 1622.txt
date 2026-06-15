@@ -1,0 +1,72 @@
+# HEALTHCARE & LIFE SCIENCES NEWS BRIEFING
+**Week of February 9-15, 2026**
+
+---
+
+## GLOBAL
+
+**Life Sciences - Pharma M&A & Partnerships**
+
+- Eli Lilly acquired Orna Therapeutics for up to $2.4 billion to advance in vivo CAR T cell therapies for autoimmune disease, with Orna's lead program ORN-252 expected to enter clinical trials in early 2026 from Watertown, Massachusetts headquarters. STAT News
+
+- Eli Lilly entered its seventh collaboration with Innovent Biologics, paying $350 million upfront for oncology and immunology programs with potential $8.5 billion in milestone payments, expanding Lilly's Greater China partnership while retaining global commercialization rights. STAT News
+
+- Novo Nordisk filed lawsuit against Hims & Hers alleging the California telehealth company sells unapproved compounded versions of Wegovy and Ozempic, claiming patent infringement and patient safety risks from third-party compounding pharmacy manufacturing. MobiHealthNews
+
+**Life Sciences - Regulatory**
+
+- FDA rejected Regenxbio's RGX-121 gene therapy for mucopolysaccharidosis type II (Hunter syndrome), signalling heightened regulatory scrutiny of biomarker-based efficacy claims in rare disease gene therapies relying on surrogate endpoints rather than clinical outcomes. STAT News
+
+**Healthtech - Funding & Expansion**
+
+- Healthier Capital closed Fund 1 at $220 million, exceeding target through oversubscription, to deploy capital into health-tech companies addressing clinical outcomes, operational efficiency, and financial performance across healthcare systems. Business Wire
+
+- Aerska raised $39 million Series A funding for brain-targeted RNAi therapeutics using brain shuttle technology to cross the blood-brain barrier, with EQT Dementia Fund and age1 leading the round and appointing three new board members including Arno de Wilde and Philip Scheltens. MobiHealthNews
+
+- Hyro, a Cornell Tech Studio startup, raised $45 million in Series B funding to scale voice AI platform for healthcare administrative workflows including patient intake, appointment scheduling, and insurance verification. Cornell Chronicle
+
+**Healthtech - Regulatory & Compliance**
+
+- FDA issued warning letter to MedisourceRx (Hims & Hers-owned compounding pharmacy) in Los Alamitos, California following May-June 2025 inspection, citing failure to report serious adverse event within 15-day mandate after patient hospitalization for severe gastrointestinal complications from compounded semaglutide in January 2025. STAT News
+
+**Healthtech - Clinical Partnerships**
+
+- NYU Langone Health partnered with Isaac Health to launch virtual dementia care model, embedding Isaac's telehealth platform into care pathways for Alzheimer's and memory care patients with typical appointment scheduling within one week versus months for traditional specialty care. MedCity News
+
+---
+
+## UK
+
+**Public Health - Infectious Disease Surveillance**
+
+- UK Health Security Agency reported declining flu circulation in England at medium levels following weeks of stabilisation, with Dr Jamie Lopez-Bernal confirming two consecutive weeks of case decreases in Scotland and early signs of hospital admission decline, contradicting earlier projections of record festive-period hospitalisations. BBC News
+
+---
+
+## UNITED STATES - HEALTH SYSTEMS & OPERATIONS
+
+**Health System Technology Implementation**
+
+- Jefferson Health deployed technology solutions prioritising patient-centered care delivery, though specific healthtech vendors and implementation details remain undisclosed pending full article access. The Wall Street Journal
+
+**Health System Expansion**
+
+- Optima Health is expanding operations and upgrading its technology platform while growing revenues, signalling confidence in digital health service delivery and operational efficiency gains. Proactive Investors
+
+**Sports Medicine & Innovation**
+
+- National Football League launched HealthTECH Challenge to crowdsource next-generation helmet safety innovations from healthtech companies and researchers, acknowledging that current protective equipment cannot prevent rotational forces and diffuse axonal injury mechanisms in traumatic brain injury. NFL.com
+
+---
+
+## PRIORITY SIGNALS IDENTIFIED
+
+**Healthtech Vendors:** Hims & Hers, Isaac Health, MedisourceRx, Hyro, Doximity (referenced in source materials)
+
+**Health Systems:** NYU Langone Health, Jefferson Health, Optima Health
+
+**Life Sciences:** Eli Lilly, Novo Nordisk, Regenxbio, Orna Therapeutics, Innovent Biologics, AstraZeneca, Merck, Bristol Myers Squibb, Vertex Pharmaceuticals
+
+**Regulators:** FDA, UK Health Security Agency, CMS (referenced in policy context)
+
+**Key Themes:** GLP-1 compounding regulation, gene therapy approval standards, voice AI in healthcare administration, virtual specialty care scaling, dementia care access, brain-targeted therapeutics, health system digital transformation
