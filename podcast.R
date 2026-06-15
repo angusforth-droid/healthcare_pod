@@ -187,3 +187,68 @@ for (rn in ready$.row) {
 }
 
 message(sprintf("Published podcast and marked %d row(s) released.", nrow(ready)))
+
+# ---- Build / refresh the podcast RSS feed --------------------------------
+PODCAST_TITLE <- Sys.getenv("PODCAST_TITLE", "Health Daily Download")
+PODCAST_DESC  <- Sys.getenv("PODCAST_DESCRIPTION",
+                            "A weekly spoken briefing on healthcare and life sciences news.")
+COVER_IMAGE   <- Sys.getenv("COVER_IMAGE_URL", "")
+
+site_base <- Sys.getenv("SITE_BASE_URL", "")
+if (!nzchar(site_base)) {
+  repo <- Sys.getenv("GITHUB_REPOSITORY")          # "owner/name", set by Actions
+  if (nzchar(repo)) {
+    parts <- strsplit(repo, "/", fixed = TRUE)[[1]]
+    site_base <- sprintf("https://%s.github.io/%s", parts[1], parts[2])
+  }
+}
+site_base <- sub("/$", "", site_base)
+
+xml_escape <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;",  x, fixed = TRUE)
+  gsub(">", "&gt;",  x, fixed = TRUE)
+}
+
+make_item <- function(path) {
+  fname <- basename(path)
+  size  <- file.info(path)$size
+  m <- regmatches(fname, regexpr("\\d{4}-\\d{2}-\\d{2} \\d{4}", fname))
+  when <- if (length(m) == 1) {
+    as.POSIXct(m, format = "%Y-%m-%d %H%M", tz = "Europe/London")
+  } else file.info(path)$mtime
+  pub <- format(when, "%a, %d %b %Y %H:%M:%S %z", tz = "GMT")
+  url <- sprintf("%s/%s/%s", site_base, out_dir, URLencode(fname, reserved = TRUE))
+  paste0(
+    "    <item>\n",
+    "      <title>", xml_escape(tools::file_path_sans_ext(fname)), "</title>\n",
+    "      <pubDate>", pub, "</pubDate>\n",
+    "      <enclosure url=\"", url, "\" length=\"", size, "\" type=\"audio/mpeg\"/>\n",
+    "      <guid isPermaLink=\"false\">", xml_escape(fname), "</guid>\n",
+    "      <itunes:explicit>false</itunes:explicit>\n",
+    "    </item>"
+  )
+}
+
+mp3s  <- sort(list.files(out_dir, pattern = "\\.mp3$", full.names = TRUE), decreasing = TRUE)
+items <- if (length(mp3s)) paste(vapply(mp3s, make_item, character(1)), collapse = "\n") else ""
+image_tag <- if (nzchar(COVER_IMAGE)) sprintf("    <itunes:image href=\"%s\"/>\n", COVER_IMAGE) else ""
+
+feed <- paste0(
+  "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n",
+  "<rss version=\"2.0\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\">\n",
+  "  <channel>\n",
+  "    <title>", xml_escape(PODCAST_TITLE), "</title>\n",
+  "    <link>", site_base, "</link>\n",
+  "    <description>", xml_escape(PODCAST_DESC), "</description>\n",
+  "    <language>en-gb</language>\n",
+  "    <itunes:author>", xml_escape(PODCAST_TITLE), "</itunes:author>\n",
+  "    <itunes:explicit>false</itunes:explicit>\n",
+  image_tag,
+  items, if (nzchar(items)) "\n" else "",
+  "  </channel>\n",
+  "</rss>\n"
+)
+
+writeLines(feed, "feed.xml")
+message(sprintf("Feed written with %d episode(s): %s/feed.xml", length(mp3s), site_base))
