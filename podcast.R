@@ -93,6 +93,9 @@ Prioritise news involving:
 - Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Blue Cross
 - Life sciences: AstraZeneca, Pfizer, Roche, Novartis, Johnson & Johnson, Merck & Co., Sanofi, GSK, Eli Lilly, Bayer, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
 
+WEIGHTING
+Please spend more time on digital/AI healthcare (roughly 50% on digital/AI healthcare and 50% on other areas)
+
 STYLE
 Avoid abstract language. Do not use phrases like 'the sector', 'stakeholders', 'experts', 'growing trend', 'health systems'."
 
