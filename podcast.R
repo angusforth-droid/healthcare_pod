@@ -75,11 +75,13 @@ Every bullet point must include at least one named entity, such as:
 - A company (e.g. Philips, Epic, Babylon)
 - A health system (e.g. NHS England, Kaiser Permanente)
 - A regulator or government body (e.g. NHS England, FDA, CMS)
-- A named individual (e.g. ministers, CEOs, regulators)
+
 On every bullet point note one of the publications the news is coming from.
+
 Every bullet must describe a concrete event from the past week, such as:
 - A regulatory decision or reform
 - A product launch or pilot
+- A finding like a product creating a certain amount of value
 - A funding round, acquisition, or contract award
 - A policy announcement or implementation milestone
 Always add statistics or relevant data points where available.
@@ -87,8 +89,8 @@ Always add statistics or relevant data points where available.
 PRIORITY SIGNALS
 Prioritise news involving:
 - Healthtech: Epic, Oracle Health, Cerner, Meditech, Dedalus, EMIS, Optum, TPP/SystmOne, Intersystems, Infor, Rhapsody, Mirth, Doccla
-- Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Helios (Fresenius), Asklepios, Blue Cross
-- Life sciences: AstraZeneca, Pfizer, Roche, Novartis, Johnson & Johnson, Merck & Co., Sanofi, GSK, Eli Lilly, Bristol Myers Squibb, Bayer, Takeda, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
+- Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Blue Cross
+- Life sciences: AstraZeneca, Pfizer, Roche, Novartis, Johnson & Johnson, Merck & Co., Sanofi, GSK, Eli Lilly, Bayer,, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
 
 STYLE
 Avoid abstract language. Do not use phrases like 'the sector', 'stakeholders', 'experts', 'growing trend', 'health systems'."
