@@ -88,9 +88,10 @@ Always add statistics or relevant data points where available.
 
 PRIORITY SIGNALS
 Prioritise news involving:
-- Healthtech: Epic, Oracle Health, Cerner, Meditech, Dedalus, EMIS, Optum, TPP/SystmOne, Intersystems, Infor, Rhapsody, Mirth, Doccla
+- Healthtech: Epic, Oracle Health, Cerner, Meditech, Dedalus, EMIS, Optum/UnitedHealth, TPP/SystmOne, Intersystems, Infor, Rhapsody, Mirth, Innovaccer, GE HealthCare, IQVIA, Philips, TCS, Tempus AI, OpenEvidence, Abridge, Aidoc, Viz.ai
+- AI companies: Google Gemini, Anthropic, OpenAI, Deepseek, Nvidia, Microsoft Copilot, Meta AI, xAI, Mistral, Alibaba/Tencent, Amazon Bedrock
 - Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Blue Cross
-- Life sciences: AstraZeneca, Pfizer, Roche, Novartis, Johnson & Johnson, Merck & Co., Sanofi, GSK, Eli Lilly, Bayer,, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
+- Life sciences: AstraZeneca, Pfizer, Roche, Novartis, Johnson & Johnson, Merck & Co., Sanofi, GSK, Eli Lilly, Bayer, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
 
 STYLE
 Avoid abstract language. Do not use phrases like 'the sector', 'stakeholders', 'experts', 'growing trend', 'health systems'."
