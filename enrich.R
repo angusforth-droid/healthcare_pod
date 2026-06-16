@@ -62,8 +62,9 @@ Your summary MUST include:
 PRIORITY SIGNALS
 Flag if the article mentions:
 - Healthtech: Epic, Oracle Health, Cerner, Meditech, Dedalus, EMIS, Optum, TPP/SystmOne, Intersystems, Infor, Rhapsody, Mirth, Doccla
-- Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Helios, Asklepios, Blue Cross
+- Health systems: Ramsay, HCA, Kaiser Permanente, Bupa, IHH, Mayo Clinic, Cleveland Clinic, Nuffield, Spire, Helios, Asklepios, Blue Cross, Vitality
 - Life sciences: AstraZeneca, Pfizer, Roche, Novartis, J&J, Merck, Sanofi, GSK, Eli Lilly, BMS, Bayer, Takeda, Amgen, Moderna, Novo Nordisk, Boehringer Ingelheim
+- AI companies: Google Gemini, Anthropic, OpenAI, Deepseek, Nvidia, Microsoft Copilot, Meta AI, xAI, Mistral, Alibaba/Tencent, Amazon Bedrock
 - Topics: digital health, health tech, AI in healthcare, health data infrastructure, virtual care/wards
 
 STYLE
