@@ -1,0 +1,88 @@
+# HEALTHCARE & LIFE SCIENCES NEWS BRIEFING
+**Week of February 2-9, 2026**
+
+---
+
+## UNITED STATES
+
+**REGULATORY & POLICY**
+
+• NIH shifts away from primate testing: Oregon Health and Science University board unanimously authorized negotiations with the National Institutes of Health to convert the Oregon National Primate Research Center into an animal sanctuary, signalling federal acceptance of computational and AI-based alternatives to animal models in biomedical research. STAT News
+
+• California court hears landmark tech liability case: A California trial is testing whether Meta, TikTok, and Snapchat can be held liable for mental health harms to teenagers, potentially establishing precedent for platform accountability in algorithmic design and challenging Section 230 protections. Virginia Lawyers Weekly
+
+**HEALTHTECH PARTNERSHIPS & LAUNCHES**
+
+• athenahealth and b.well embed patient consent at point of care: athenahealth integrated b.well Connected Health's patient data-sharing technology into its EHR platform, enabling patients to control health information access during clinical encounters in real-time rather than through separate administrative processes. This operationalizes 21st Century Cures Act interoperability mandates for athenahealth's ambulatory practice and health system customers. Business Wire
+
+• GoodRx becomes operational backbone for TrumpRx: The Trump administration launched TrumpRx, a federal prescription discount program leveraging GoodRx's existing pharmacy discount network, positioning the commercial platform as the mechanism for government drug pricing affordability initiatives. Axios
+
+**DIGITAL MENTAL HEALTH**
+
+• One Mind Accelerator selects mental health startups: One Mind announced cohort selection for its accelerator program supporting early-stage mental health technology companies, providing funding and mentorship to advance brain health innovation. Fierce Healthcare
+
+**PAEDIATRIC AI READINESS**
+
+• UK and Ireland paediatric emergency leaders express cautious optimism on machine learning: Survey of 65 clinician leaders across paediatric emergency departments found 83.1% willing to use ML decision support tools, but 67.7% cited inadequate IT infrastructure as a barrier and 61.5% expressed bias concerns. Antimicrobial stewardship ranked highest application priority at 90.8%. PLOS Digital Health
+
+---
+
+## GLOBAL
+
+**ASIA-PACIFIC**
+
+**India**
+
+• Elevate Now secures ₹18 crore for weight management platform: Indian digital health startup Elevate Now raised ₹18 crore (~$2.1 million USD) to expand its weight management and metabolic health platform, signalling continued venture capital confidence in India's preventive health technology sector. Inc42
+
+• India and Sri Lanka launch health technology assessment cooperation: India and Sri Lanka initiated a knowledge-exchange workshop to strengthen regional HTA capacity, enabling both nations to harmonise assessment methodologies for medical technologies and reduce duplication in pharmaceutical evaluation. ANI News
+
+**EUROPE**
+
+**Spain**
+
+• MINDxYOU web-based intervention reduces healthcare worker stress through resilience: A stepped-wedge cluster randomized trial across 357 healthcare professionals in Aragon and Málaga found that an 8-week self-guided mindfulness and cognitive behavioural therapy program reduced stress, anxiety, and depression primarily through resilience-building (β=-1.41; P=.02 for stress mediation). Resilience identified as the key psychological mechanism rather than compassion or acceptance alone. JMIR Mental Health
+
+**Germany**
+
+• DiGA Fast Track barriers identified in stakeholder analysis: Qualitative research of 21 expert interviews across German statutory health insurance system revealed three critical problem areas in digital health app adoption: admission process complexity, financing model misalignment with actual patient usage, and insufficient provider and patient knowledge regarding DiGA prescription and activation. Journal of Medical Internet Research
+
+**Sweden**
+
+• Interaktor app improves nurse-patient communication in prostate cancer radiotherapy: Qualitative study of nurses using Interaktor, a digital patient-reported outcomes app, found that symptom monitoring enhanced nurse-patient contact frequency and emotional expression capture, though organizational workflow redesign remains necessary for effective implementation. Computers, Informatics, Nursing
+
+**EUROPE (MULTI-COUNTRY)**
+
+• Digital health inequalities persist across European public systems: Systematic review of 18 observational studies found consistent social gradients in eHealth adoption—older adults, lower socioeconomic status, ethnic minorities, and those with limited digital skills showed significantly lower uptake of online appointment booking, teleconsultations, and electronic health records across European public systems. Journal of Medical Internet Research
+
+**UNITED STATES (CANCER CARE)**
+
+• Telehealth acceptance high among older cancer patients with digital literacy support: Mixed-methods study of 128 patients and 106 clinicians at a comprehensive cancer center found 73.5% of patients and 70.2% of clinicians agreed telehealth suits discussing treatment side effects, with digital literacy gaps identified as the primary barrier to expansion. JMIR Cancer
+
+---
+
+## LIFE SCIENCES
+
+**ONCOLOGY**
+
+**Canada**
+
+• Digital PCR-based ctDNA detection validates risk stratification in triple-negative breast cancer: TRICIA trial clinical validation of digital droplet PCR-based circulating tumour DNA detection in 92 TNBC patients with residual disease after neoadjuvant chemotherapy demonstrated 95% distant-disease relapse-free survival when ctDNA absent post-treatment, with 100% sensitivity and specificity in highest-burden disease. Capecitabine treatment cleared ctDNA in 41% of cases; clearance associated with improved prognosis. This enables precision treatment decisions for historically poor-prognosis TNBC population. Clinical Cancer Research
+
+**CHINA**
+
+• Blackstone and TPG acquisition of Hologic approved by Chinese regulator: China's State Administration for Market Regulation approved the private equity acquisition of Hologic, a major medical technology company in diagnostic imaging and women's health, signalling continued consolidation in medtech diagnostics. MarketScreener
+
+---
+
+## KEY THEMES
+
+**Digital Health Infrastructure Gaps:** Across Europe, Asia, and North America, studies identify consistent barriers: inadequate IT infrastructure (67.7% of UK paediatric emergency leaders), digital literacy gaps (primary barrier in US cancer telehealth), and insufficient organizational readiness (Germany DiGA implementation, Indonesia hospital discharge planning). Technology deployment alone is insufficient without addressing individual, team, and organizational factors simultaneously.
+
+**Patient Data Interoperability Advancing:** athenahealth-b.well integration operationalizes point-of-care patient consent, addressing fragmented health information exchange mandated by 21st Century Cures Act. Parallel research on computable guideline representation identifies that current systems cannot yet distinguish clinically warranted deviations from inappropriate ones due to lack of contextual sensitivity.
+
+**Mental Health Technology Scaling:** MINDxYOU trial identifies resilience as the key mechanism for digital mental health interventions targeting healthcare worker burnout. One Mind Accelerator and multiple startup funding rounds signal sustained venture capital confidence in mental health technology despite broader economic uncertainty.
+
+**AI in Healthcare Readiness Mixed:** Paediatric emergency leaders show willingness (83.1%) but infrastructure constraints and bias concerns (61.5%) limit near-term deployment. Generative AI chatbots (ChatGPT, Claude, Copilot, Gemini) demonstrate LGBTQI+-inclusive communication for sexual health information, though contextual inaccuracies persist.
+
+**Regulatory Shifts:** NIH's pivot away from primate testing toward computational alternatives, California's tech liability trial, and Germany's DiGA implementation challenges all signal evolving regulatory frameworks around technology accountability and animal welfare.
