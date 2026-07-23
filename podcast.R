@@ -17,15 +17,14 @@ ELEVEN_API_KEY    <- Sys.getenv("ELEVENLABS_API_KEY")
 ELEVEN_VOICE_ID   <- Sys.getenv("ELEVENLABS_VOICE_ID", "1hlpeD1ydbI2ow0Tt3EW")
 ELEVEN_MODEL      <- Sys.getenv("ELEVENLABS_MODEL", "eleven_multilingual_v2")
 MAX_INPUT_CHARS   <- as.integer(Sys.getenv("MAX_INPUT_CHARS", "60000"))
+TTS_MAX_CHARS     <- as.integer(Sys.getenv("TTS_MAX_CHARS", "9000"))
 
 stopifnot("SHEET_ID is not set"           = nzchar(SHEET_ID),
           "ANTHROPIC_API_KEY is not set"  = nzchar(ANTHROPIC_API_KEY),
           "ELEVENLABS_API_KEY is not set" = nzchar(ELEVEN_API_KEY))
 
-# CHANGED: surface the resolved config so an empty or NA value is visible in
-# the Actions log rather than showing up later as an opaque HTTP 400.
-message(sprintf("Config: model='%s', max_input_chars=%s, voice='%s'",
-                LLM_MODEL, MAX_INPUT_CHARS, ELEVEN_VOICE_ID))
+message(sprintf("Config: model='%s', max_input_chars=%s, tts_max_chars=%s",
+                LLM_MODEL, MAX_INPUT_CHARS, TTS_MAX_CHARS))
 
 # ---- Auth (service account, for Sheets only) -----------------------------
 sa_json <- Sys.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
@@ -40,11 +39,8 @@ a1col <- function(n) {
   s
 }
 
-# CHANGED: moved up from further down the file so chat() can use it.
 `%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
 
-# CHANGED: added a model argument, an empty-input guard, error body extraction
-# and retries.
 chat <- function(system_prompt, user_text, max_tokens = 3000, model = LLM_MODEL) {
   user_text <- substr(user_text, 1, MAX_INPUT_CHARS)
   stopifnot("chat() called with empty user_text" = nzchar(trimws(user_text %||% "")))
@@ -70,8 +66,67 @@ chat <- function(system_prompt, user_text, max_tokens = 3000, model = LLM_MODEL)
   out$content[[1]]$text
 }
 
-# CHANGED: batched briefing helpers. Must come after chat() and MAX_INPUT_CHARS.
+# Batched briefing helpers. Must come after chat() and MAX_INPUT_CHARS.
 source("R/batched_briefing.R")
+
+# ---- Text to speech ------------------------------------------------------
+# ElevenLabs caps a single request well below the length of a 15 minute
+# script, so the audio is generated in sentence-aligned chunks and the MP3
+# frames appended into one file. previous_text and next_text keep the
+# prosody continuous across the joins.
+split_for_tts <- function(txt, max_chars = TTS_MAX_CHARS) {
+  parts <- unlist(strsplit(txt, "(?<=[.!?])\\s+", perl = TRUE))
+  parts <- parts[nzchar(trimws(parts))]
+  chunks <- character(0)
+  cur <- ""
+  for (p in parts) {
+    if (nchar(p) > max_chars) p <- substr(p, 1, max_chars)
+    if (nzchar(cur) && nchar(cur) + nchar(p) + 1 > max_chars) {
+      chunks <- c(chunks, cur)
+      cur <- p
+    } else {
+      cur <- if (nzchar(cur)) paste(cur, p) else p
+    }
+  }
+  if (nzchar(cur)) chunks <- c(chunks, cur)
+  chunks
+}
+
+speak <- function(text, previous_text = NULL, next_text = NULL) {
+  body <- list(text = text,
+               model_id = ELEVEN_MODEL,
+               voice_settings = list(stability = 0.5, similarity_boost = 0.6))
+  if (!is.null(previous_text)) body$previous_text <- previous_text
+  if (!is.null(next_text))     body$next_text     <- next_text
+
+  request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_VOICE_ID)) |>
+    req_headers(`xi-api-key` = ELEVEN_API_KEY, `Content-Type` = "application/json") |>
+    req_body_json(body) |>
+    req_error(body = function(resp) resp_body_string(resp)) |>
+    req_retry(max_tries = 3, backoff = ~ 2 ^ .x) |>
+    req_timeout(300) |>
+    req_perform() |>
+    resp_body_raw()
+}
+
+synthesise <- function(audio_script, mp3_path) {
+  chunks <- split_for_tts(audio_script)
+  message(sprintf("Audio script %d chars, %d TTS chunk(s).",
+                  nchar(audio_script), length(chunks)))
+
+  con <- file(mp3_path, "wb")
+  on.exit(close(con), add = TRUE)
+  for (i in seq_along(chunks)) {
+    message(sprintf("  TTS chunk %d of %d (%d chars)",
+                    i, length(chunks), nchar(chunks[i])))
+    writeBin(speak(chunks[i],
+                   previous_text = if (i > 1) chunks[i - 1] else NULL,
+                   next_text     = if (i < length(chunks)) chunks[i + 1] else NULL),
+             con)
+    if (i < length(chunks)) Sys.sleep(1)
+  }
+  invisible(mp3_path)
+}
 
 # ---- Prompts (ported from Zap 3 steps 4 and 5) ---------------------------
 BRIEFING_PROMPT <- "ROLE
@@ -176,25 +231,13 @@ if (nrow(ready) == 0) {
   }, character(1))
 
   # ---- Generate briefing, then audio script ------------------------------
-  # CHANGED: was a single truncated call over all articles pasted together.
-  # build_briefing() digests them in batches so nothing is silently dropped.
   briefing     <- build_briefing(blocks)
   audio_script <- chat(AUDIO_PROMPT, briefing, max_tokens = 4000)
 
   # ---- ElevenLabs text to speech -----------------------------------------
-  stamp <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
-
+  stamp    <- format(Sys.time(), "%Y-%m-%d %H%M", tz = "Europe/London")
   mp3_path <- file.path(out_dir, sprintf("Health Daily Download - %s.mp3", stamp))
-  tts <- request(sprintf("https://api.elevenlabs.io/v1/text-to-speech/%s", ELEVEN_VOICE_ID)) |>
-    req_headers(`xi-api-key` = ELEVEN_API_KEY, `Content-Type` = "application/json") |>
-    req_body_json(list(
-      text = audio_script,
-      model_id = ELEVEN_MODEL,
-      voice_settings = list(stability = 0.5, similarity_boost = 0.6)
-    )) |>
-    req_timeout(300) |>
-    req_perform()
-  writeBin(resp_body_raw(tts), mp3_path)
+  synthesise(audio_script, mp3_path)
 
   # ---- Save transcript next to the audio ---------------------------------
   txt_path <- file.path(out_dir, sprintf("Health Daily Download (read) - %s.txt", stamp))
@@ -203,9 +246,8 @@ if (nrow(ready) == 0) {
   message(sprintf("Saved transcript: %s", txt_path))
 
   # ---- Mark rows as released ---------------------------------------------
-  # CHANGED: was one write per row at two per second, which exceeds the Sheets
-  # quota of 60 writes per minute once the backlog is large. Consecutive rows
-  # are now written as a single range.
+  # Consecutive rows are written as a single range, since one write per row
+  # exceeds the Sheets quota of 60 writes per minute on a large backlog.
   rows <- sort(unique(ready$.row))
   runs <- split(rows, cumsum(c(1, diff(rows) != 1)))
   message(sprintf("Marking %d row(s) released in %d write(s).",
