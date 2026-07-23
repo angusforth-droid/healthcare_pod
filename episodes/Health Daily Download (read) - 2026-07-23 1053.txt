@@ -1,0 +1,145 @@
+# HEALTHCARE AND LIFE SCIENCES NEWS BRIEFING
+
+---
+
+## UNITED KINGDOM
+
+- Former Palantir executive raised £9.7 million for NHS-focused AI venture (Health Tech World). Palantir and NHS England backing signals acceleration of AI adoption across English health systems.
+
+- MHRA announces record-high medical device testing volumes with explicit backing for brain technology and AI-enabled devices as growth priorities (GOV.UK). Medicines and Healthcare products Regulatory Agency prioritising neurological and AI-enabled device pathways.
+
+- MHRA publishes new regulatory guidance for mental health apps and digital technologies, clarifying classification criteria distinguishing clinical apps (regulated as medical devices) from wellness products (unregulated) (GOV.UK). Medicines and Healthcare products Regulatory Agency establishing clear regulatory pathways for digital mental health.
+
+- MHRA and NICE receive £2 million from Wellcome Trust to improve safety and effectiveness of digital mental health technologies (GOV.UK). Wellcome Trust funding regulatory framework development for digital mental health apps.
+
+- South West London and St George's Mental Health NHS Trust deploying AI, avatar technology, and virtual reality across mental health services (HTN Health Tech News). NHS Trust implementing immersive technology for mental health service delivery.
+
+- Bristol NHS Group and Highland deploy health tech innovation to staff across Bristol, North Somerset and South Gloucestershire (North Bristol NHS). Bristol NHS Group and Highland expanding digital health infrastructure across Southwest England.
+
+- NHS Strathclyde launched digital mental health procurement to identify and implement technology solutions for mental health service delivery (Health Tech World). NHS Strathclyde initiating competitive procurement for digital mental health platforms.
+
+- University of Strathclyde opened procurement for digital mental health interventions (HTN Health Tech News). University of Strathclyde seeking digital mental health technology solutions.
+
+- Traffic to NHS hay fever advice page doubled to 12,990 visits (14-17 June) versus 5,632 visits the previous week—a 131% increase attributed to rising temperatures (NHS England). NHS England digital services experiencing surge in seasonal health information demand.
+
+---
+
+## UNITED STATES
+
+### Digital Health and AI Healthcare
+
+- Opmed and Mayo Clinic unveil multimodal AI platform to optimise surgical scheduling efficiency (Digital Health News). Mayo Clinic deploying AI-driven surgical scheduling to improve operational efficiency.
+
+- Lantern and Marathon Health launch integrated care management model combining Marathon's primary care services with Lantern's digital health platform (Digital Health News). Lantern integrating primary care with digital health platform for coordinated care delivery.
+
+- Signos expands market position in weight loss sector by leveraging AI-powered health data tracking alongside GLP-1 medications (CNBC). Signos combining continuous glucose monitoring and AI analytics with pharmaceutical weight loss interventions.
+
+- American Medical Association and U.S. lawmakers push back against artificial intelligence algorithms used by insurers to deny or delay patient care through automated prior authorization without physician oversight (STAT News). AMA opposing insurer use of AI algorithms for prior authorization without physician review.
+
+- Centers for Medicare & Medicaid Services announces creation of Office of Health Technology and Products to consolidate oversight of health technology adoption, digital health infrastructure, and product evaluation across Medicare and Medicaid programs (American Hospital Association). CMS establishing dedicated office for health technology oversight and product evaluation.
+
+- Mental health chatbots perceived by patients as judgmental, prompting industry reassessment of AI conversational tools in mental healthcare (TechTarget). Industry reassessing AI chatbot design for mental health applications following patient feedback.
+
+- Elation Health acquires Aster, a Black women-founded health-tech startup (People of Color in Tech). Elation Health expanding platform through acquisition of Aster health technology startup.
+
+- Rocapine raises US$13 million in funding for wellness apps (Health Tech World). Rocapine securing Series funding for wellness application development.
+
+- Inova Health System modernized its data architecture to prepare for AI applications (TechTarget). Inova Health System (Northern Virginia) restructuring data infrastructure for enterprise-scale AI deployment.
+
+- One Medical Seniors reports data breach of third-party vendor impacting limited number of patients (Fierce Healthcare). One Medical Seniors (Amazon subsidiary) disclosing security incident involving third-party vendor.
+
+- Vali Health raised $6 million for home care AI agents platform (Axios). Vali Health securing funding for AI-powered home care technology.
+
+- Hinge Health received FDA clearance for a new migraine management device (STAT News). Hinge Health obtaining FDA clearance for migraine management technology.
+
+- CMS unveiled first wave of health technology tools supporting data sharing and interoperability under 21st Century Cures Act information blocking provisions (Healthcare Dive). CMS releasing initial suite of interoperability tools under Cures Act.
+
+- Cornell Tech appointed Dr. Wanda Wilson as Chief of Health Innovation and launched Health Tech Hub Advisory Committee to advance healthcare technology research and commercialisation (Cornell Chronicle). Cornell Tech establishing dedicated health innovation leadership and advisory structure.
+
+- Waystar Holding completed IPO and began public trading as revenue cycle management software company (Ad Hoc News). Waystar going public as revenue cycle management software provider.
+
+- Enzo Health raised $20 million in Series B funding for home health technology platform (Home Health Care News). Enzo Health securing Series B for home health technology expansion.
+
+- Humana, Noom, Welldoc partnered with b.well to expand health data access under CMS 21st Century Cures Act information blocking rules (Fierce Healthcare). Humana, Noom, and Welldoc partnering with b.well for CMS Cures Act compliance.
+
+- ECRI Institute ranked misuse of AI chatbots as the top health technology hazard in its annual Top 10 Health Technology Hazards list (Healthcare Dive). ECRI Institute identifying AI chatbot misuse as leading health technology risk.
+
+- CMS announced creation of Health Tech Ecosystem to improve patient access to health data (Wilson Sonsini). CMS establishing Health Tech Ecosystem initiative for patient data access.
+
+- Anthropic signed CMS Health Tech Ecosystem Pledge to advance healthcare interoperability (Anthropic announcement). Anthropic committing to CMS Health Tech Ecosystem pledge for interoperability advancement.
+
+- White House and Centers for Medicare & Medicaid Services announced launch of Health Tech Ecosystem Initiative to expand digital health adoption with consumer focus (CMS). White House and CMS launching Health Tech Ecosystem Initiative for digital health expansion.
+
+- Health Tech Investment Act proposes Medicare reimbursement pathways for algorithm-based clinical services separate from physician billing codes (CMS). U.S. Congress proposing new Medicare reimbursement pathway for AI-enabled clinical services.
+
+- Illinois Institute of Technology established Health Tech Talent Institute to address healthcare AI workforce shortage through training programs and curriculum development (Illinois Institute of Technology). Illinois Institute of Technology launching workforce development program for healthcare AI.
+
+- U.S. Department of Defense deployed behavioral health technology platform to support sailor mental health and operational readiness (U.S. Navy). U.S. Navy deploying behavioral health technology for sailor mental health support.
+
+- NBC News reports mental health technology company conducted AI chatbot experiment with real users, raising informed consent and ethical oversight concerns (NBC News). Mental health technology company facing scrutiny over AI chatbot research ethics.
+
+- Key digital health and device leaders have departed the FDA, creating potential regulatory delays for healthtech product reviews and device approvals (STAT News). FDA experiencing leadership departures in digital health and device divisions.
+
+- Medtronic launched the Medtronic Spark Scholarship to fund students pursuing careers in health technology and healthcare innovation, partnering with IIE (Institute of International Education) (IIE). Medtronic establishing scholarship program for health technology workforce development.
+
+- Kansas Blue Cross and Blue Shield and Hawaii Medical Service Association invested in Castlight Health, a digital health platform owned by Cambia Health Solutions (Healthcare Dive). Kansas Blue Cross and Hawaii Medical Service Association investing in Castlight Health digital platform.
+
+- Proposed legislation—the Health Tech Investment Act—would establish a new Medicare payment pathway specifically for AI-enabled medical devices, creating an expedited reimbursement mechanism (Hogan Lovells). U.S. Congress proposing expedited Medicare reimbursement for AI-enabled medical devices.
+
+- AtlantiCare participated in the White House "Make Health Tech Great Again Summit" alongside national healthcare leaders addressing digital health innovation (AtlantiCare press release). AtlantiCare participating in White House digital health innovation summit.
+
+- CMS showcased first wave of digital health tools; questions remain about provider adoption barriers at implementation level (Fierce Healthcare). CMS releasing digital health tools with ongoing provider adoption challenges.
+
+- American Medical Association calls for federal regulatory framework governing chatbots and wellness AI applications in healthcare (STAT News). AMA calling for federal regulation of healthcare chatbots and wellness AI.
+
+- Epic Systems expanding into healthcare operations technology, beginning with appointment and staff scheduling systems (Fierce Healthcare). Epic Systems expanding beyond EHR into healthcare operations and scheduling technology.
+
+- ARPA-H launched dedicated sleep research program as part of federal initiative to address sleep disorders and public health impact (Fierce Healthcare). Advanced Research Projects Agency for Health launching sleep disorder research initiative.
+
+- Medtronic awarded first 100 Medtronic Spark Scholarships to students pursuing health technology careers globally (Investing News Network). Medtronic awarding inaugural Spark Scholarships for health technology careers.
+
+- K Health expands virtual care partnership with Hartford HealthCare to include endocrinology services (MobiHealthNews). K Health expanding virtual care partnership with Hartford HealthCare for endocrinology.
+
+- St. Luke's launches telemedicine program connecting critical access hospitals in rural Idaho with forensic nursing specialists for sexual assault survivor care (Healthcare IT News). St. Luke's deploying telemedicine for forensic nursing services in rural Idaho.
+
+- Prosper AI raised $30 million from Andreessen Horowitz to scale its agentic AI platform automating healthcare administrative tasks including patient scheduling, insurance verification, and patient billing (Fierce Healthcare). Prosper AI securing Series funding from Andreessen Horowitz for healthcare automation platform.
+
+- ChartSpan acquires Validic to integrate remote care management platform with health data aggregation capabilities; combined entity operates under ChartSpan brand offering clinical services, medical devices, health data infrastructure (MobiHealthNews). ChartSpan acquiring Validic for remote care management and health data integration.
+
+- Patient portal messages to physicians more than doubled between 2020-2025; Epic EHR systems show 153% increase; NYU Langone Health research documents uncompensated "pajama time" workload (Healthcare IT News). Epic EHR systems showing 153% increase in patient portal messages, creating uncompensated physician workload.
+
+- 65% of US healthcare leaders prioritize automation as strategic priority but majority report lagging behind in actual AI implementation (CXOToday.com). Majority of US healthcare leaders prioritising automation but lagging in implementation.
+
+- Seven rural Kansas hospitals formed clinically integrated network to advance value-based care participation and standardize clinical practices across sites (Digital Health News). Seven rural Kansas hospitals forming integrated network for value-based care.
+
+---
+
+### Life Sciences and Pharmaceuticals
+
+- Biogen acquires RayThera for $1 billion to expand immune-modulating drug portfolio (Biopharm Dive). Biogen acquiring RayThera for 1 billion dollars to expand immune-modulating therapeutics.
+
+- Hims & Hers Health Inc. reported $33 million revenue impact from strategic pivot to GLP-1 weight loss medications, reducing full-year guidance (STAT News). Hims & Hers reporting 33 million dollar revenue impact from GLP-1 weight loss medication pivot.
+
+- WuXi Biologics extended Massachusetts manufacturing facility completion timeline to 2028 following redesign (endpoints.news). WuXi Biologics delaying Massachusetts facility completion to 2028.
+
+- FDA announced pilot program to accelerate early-stage clinical trials with goal of reducing development timelines by 6-12 months, requesting Congress establish permanent expedited Investigational New Drug pathway in 2027 fiscal budget (STAT News). FDA launching pilot program to reduce clinical trial timelines by 6-12 months.
+
+- MapLight Therapeutics' ML-004 autism drug failed to meet primary endpoints in Phase 2 trial; company to discuss path forward with FDA (Endpoints News). MapLight Therapeutics reporting Phase 2 failure for autism drug ML-004.
+
+- Merck's Phase 3 trial success for lead program acquired in $10.8 billion Prometheus Biosciences deal; drug met primary endpoint versus placebo (Endpoints News). Merck reporting Phase 3 success for Prometheus Biosciences acquisition.
+
+- AbbVie to acquire immune disease drug portfolio including Dupixent competitor in deal characterised as largest AbbVie acquisition in 5+ years; portfolio projected to achieve "mega-blockbuster" sales (BiopharmaDive). AbbVie acquiring immune disease drug portfolio in largest acquisition in 5+ years.
+
+- AbbVie acquired Apogee Therapeutics for $10.9 billion to gain zumilokibart, a long-acting IL-13 inhibitor in Phase 3 development for atopic dermatitis and asthma (STAT News). AbbVie acquiring Apogee Therapeutics for 10.9 billion dollars for zumilokibart IL-13 inhibitor.
+
+- Definium Therapeutics reported positive Phase 3 results for DT120, an LSD-based therapy for major depressive disorder, showing 13.3-point reduction on Montgomery-Åsberg Depression Rating Scale at 6 weeks versus 5.2-point reduction in placebo, with sustained 11-point reduction at 12 weeks (STAT News). Definium Therapeutics reporting Phase 3 success for LSD-based depression therapy with 13.3-point MADRS reduction.
+
+- Regenxbio announced plans to resubmit its Hunter syndrome gene therapy application following FDA feedback, characterizing the move as another regulatory reversal following recent FDA leadership departures (Endpoints News). Regenxbio resubmitting Hunter syndrome gene therapy following FDA feedback.
+
+- Bionyra Pharma launched with $165 million in funding to develop TL1A-targeting therapies for inflammatory disorders, advancing two drug candidates with experienced ex-Sanofi executive leadership (MedCity News). Bionyra Pharma launching with 165 million dollars for TL1A inhibitor development led by ex-Sanofi executive Frédéric Marrache.
+
+- FDA reconsidering approval of experimental gene therapy for rare childhood brain disorder rejected four months prior; UniQure received clearance to submit application for Huntington's disease gene therapy previously rejected by FDA (STAT News). FDA reconsidering UniQure Huntington's disease gene therapy previously rejected.
+
+- Pfizer's sigvotatug vedotin fails primary endpoint in Phase 3 trial for non-small cell lung cancer, missing superiority target versus docetaxel; drug acquired via $43 billion Seagen acquisition (2023) (STAT News). Pfizer reporting Phase 3 failure for Seagen-acquired lung cancer drug sigvotatug vedotin.
+
+- Trump administration DOJ Office of Legal Counsel issues memo challenging Olmstead integration mandate for disability services, arguing integration requirement not legally binding; signals potential rollback of community-based care protections (
