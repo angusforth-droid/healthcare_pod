@@ -141,3 +141,4 @@ build_briefing <- function(blocks) {
 
   chat(BRIEFING_PROMPT, combined, max_tokens = 3500)
 }
+
