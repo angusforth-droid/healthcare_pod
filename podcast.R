@@ -35,13 +35,13 @@ a1col <- function(n) {
   s
 }
 
-chat <- function(system_prompt, user_text, max_tokens = 3000) {
+chat <- function(system_prompt, user_text, max_tokens = 3000) model = "claude-haiku-4-5-20251001") { 
   user_text <- substr(user_text, 1, MAX_INPUT_CHARS)
   req <- request("https://api.anthropic.com/v1/messages") |>
     req_headers(`x-api-key` = ANTHROPIC_API_KEY,
                 `anthropic-version` = "2023-06-01") |>
     req_body_json(list(
-      model = LLM_MODEL,
+      model      = model,     
       max_tokens = max_tokens,
       temperature = 0.3,
       system = system_prompt,
@@ -49,7 +49,9 @@ chat <- function(system_prompt, user_text, max_tokens = 3000) {
         list(role = "user", content = user_text)
       )
     )) |>
-    req_timeout(120)
+    req_error(body = function(resp) resp_body_json(resp)$error$message) |>  # (1)
+    req_retry(max_tries = 3, backoff = ~ 2 ^ .x) |>                         # (2)
+    req_timeout(300)                                                        # (3)
   out <- resp_body_json(req_perform(req))
   out$content[[1]]$text
 }
