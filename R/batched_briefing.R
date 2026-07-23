@@ -1,40 +1,57 @@
 # ---------------------------------------------------------------------------
-# Batched briefing generation
+# Batched briefing generation for podcast.R
 #
-# Replaces the single call:
-#     chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
+# Replaces:
+#     input_text <- paste(blocks, collapse = "\n---\n")
+#     briefing   <- chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
 #
 # with a two-pass map-reduce:
-#   1. Condense articles into digests, a batch at a time.
-#   2. Synthesise the final briefing from the combined digests.
+#   1. Compress articles into dense digest lines, a batch at a time.
+#   2. Build the final briefing from the combined digests.
 #
-# Assumes an existing chat(prompt, input_text, max_tokens) helper and a
-# BRIEFING_PROMPT constant, both as used in podcast.R.
+# Every article now reaches the model, rather than only whatever fitted
+# inside the first MAX_INPUT_CHARS characters.
+#
+# Depends on chat(), BRIEFING_PROMPT and MAX_INPUT_CHARS from podcast.R.
 # ---------------------------------------------------------------------------
 
-MAX_CHARS_PER_BATCH    <- 40000  # roughly 10k tokens of input per call
 MAX_ARTICLES_PER_BATCH <- 25
 
-DIGEST_PROMPT <- paste(
-  "You are condensing healthcare news articles for a weekly audio briefing.",
-  "For each article below, return at most three short bullet points covering:",
-  "the substantive development, any named organisations or people, and why it",
-  "matters to an NHS or health tech audience.",
-  "Drop anything promotional, speculative, or duplicated across articles.",
-  "If an article contains no concrete development, omit it entirely.",
-  "Return plain text bullets only, with no preamble or closing remarks.",
-  sep = " "
-)
+# Stay clear of the substr() truncation inside chat(). If a batch exceeded
+# MAX_INPUT_CHARS it would be silently cut, which is the bug this replaces.
+BATCH_CHAR_BUDGET <- function() {
+  cap <- MAX_INPUT_CHARS
+  if (is.na(cap) || cap < 5000) {
+    stop("MAX_INPUT_CHARS is unset, NA or implausibly small: ", cap)
+  }
+  floor(cap * 0.65)
+}
 
-# Group texts into batches bounded by both character count and item count.
-chunk_texts <- function(texts,
-                        max_chars = MAX_CHARS_PER_BATCH,
-                        max_items = MAX_ARTICLES_PER_BATCH) {
+DIGEST_PROMPT <- "ROLE
+You are compressing healthcare and life sciences news articles ahead of a briefing for health system leaders, investors and policymakers.
+
+TASK
+For each article below, write one or two lines capturing:
+- The concrete event: a regulatory decision, product launch, pilot, funding round, acquisition, contract award, policy milestone, or a published finding
+- Every named entity involved: companies, health systems, regulators, government bodies
+- The publication the story comes from
+- Any statistics or data points
+- Where the event is happening (the country of the event, not the country of the publication)
+
+RULES
+- Omit any article with no concrete event. Do not pad.
+- Omit duplicates. Where several articles cover the same event, keep one line.
+- Preserve names, numbers and dates exactly. Do not generalise them away.
+- No URLs, no asterisks, no preamble, no closing remarks.
+- Plain lines only. This is intermediate working, not finished copy."
+
+# Group blocks into batches bounded by both character count and item count.
+chunk_texts <- function(texts, max_chars, max_items = MAX_ARTICLES_PER_BATCH) {
 
   texts <- texts[!is.na(texts) & nzchar(trimws(texts))]
   if (length(texts) == 0) return(list())
 
-  # Guard against a single oversized article blowing the batch on its own.
+  # Guard against one oversized article filling a batch on its own.
   texts <- vapply(texts, function(t) substr(t, 1, max_chars), character(1),
                   USE.NAMES = FALSE)
 
@@ -58,59 +75,68 @@ chunk_texts <- function(texts,
   batches
 }
 
-# Run one batch through the model, returning NA rather than halting on failure.
+# Run one batch, returning NA rather than halting the whole episode.
 digest_batch <- function(batch, index, total) {
-  message(sprintf("Digesting batch %d of %d (%d item(s), %d chars)...",
+  message(sprintf("  Batch %d of %d: %d article(s), %d chars",
                   index, total, length(batch), sum(nchar(batch))))
 
-  input_text <- paste(batch, collapse = "\n\n---\n\n")
-
   tryCatch(
-    chat(DIGEST_PROMPT, input_text, max_tokens = 1500),
+    chat(DIGEST_PROMPT, paste(batch, collapse = "\n---\n"), max_tokens = 2000),
     error = function(e) {
       warning(sprintf("Batch %d failed: %s", index, conditionMessage(e)),
-              call. = FALSE)
+              call. = FALSE, immediate. = TRUE)
       NA_character_
     }
   )
 }
 
-digest_all <- function(texts) {
-  batches <- chunk_texts(texts)
+digest_all <- function(texts, max_chars) {
+  batches <- chunk_texts(texts, max_chars)
   if (length(batches) == 0) return(character(0))
 
   out <- vapply(seq_along(batches), function(i) {
     result <- digest_batch(batches[[i]], i, length(batches))
-    if (i < length(batches)) Sys.sleep(1)  # be polite between calls
+    if (i < length(batches)) Sys.sleep(1)
     result
   }, character(1))
 
   out[!is.na(out)]
 }
 
-build_briefing <- function(article_texts) {
+build_briefing <- function(blocks) {
 
-  message(sprintf("Building briefing from %d article(s).", length(article_texts)))
+  max_chars <- BATCH_CHAR_BUDGET()
+  total_chars <- sum(nchar(blocks))
 
-  digests <- digest_all(article_texts)
+  message(sprintf("Building briefing from %d article(s), %d chars total.",
+                  length(blocks), total_chars))
+  message(sprintf("Batch budget %d chars (chat() truncates at %d).",
+                  max_chars, MAX_INPUT_CHARS))
+
+  digests <- digest_all(blocks, max_chars)
   if (length(digests) == 0) {
-    stop("All digest batches failed; nothing to build a briefing from.")
+    stop("Every digest batch failed. No briefing produced.")
   }
 
-  combined <- paste(digests, collapse = "\n\n")
-  message(sprintf("First pass produced %d digest(s), %d chars.",
+  combined <- paste(digests, collapse = "\n")
+  message(sprintf("Pass 1: %d digest(s), %d chars.",
                   length(digests), nchar(combined)))
 
-  # If the combined digest is still too large, fold it again.
-  # The length check prevents looping when no further reduction is possible.
-  while (nchar(combined) > MAX_CHARS_PER_BATCH && length(digests) > 1) {
-    message("Digest still large, folding again.")
-    folded <- digest_all(digests)
+  # Fold again if the combined digest is still too large for one call.
+  # The length comparison prevents looping when no reduction is possible.
+  while (nchar(combined) > max_chars && length(digests) > 1) {
+    message("Digest still over budget, folding again.")
+    folded <- digest_all(digests, max_chars)
     if (length(folded) == 0 || length(folded) >= length(digests)) break
     digests  <- folded
-    combined <- paste(digests, collapse = "\n\n")
+    combined <- paste(digests, collapse = "\n")
     message(sprintf("Folded to %d digest(s), %d chars.",
                     length(digests), nchar(combined)))
+  }
+
+  if (nchar(combined) > MAX_INPUT_CHARS) {
+    warning("Combined digest still exceeds MAX_INPUT_CHARS and will be truncated.",
+            call. = FALSE, immediate. = TRUE)
   }
 
   chat(BRIEFING_PROMPT, combined, max_tokens = 3500)
