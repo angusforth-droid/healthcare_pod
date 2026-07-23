@@ -22,6 +22,11 @@ stopifnot("SHEET_ID is not set"           = nzchar(SHEET_ID),
           "ANTHROPIC_API_KEY is not set"  = nzchar(ANTHROPIC_API_KEY),
           "ELEVENLABS_API_KEY is not set" = nzchar(ELEVEN_API_KEY))
 
+# CHANGED: surface the resolved config so an empty or NA value is visible in
+# the Actions log rather than showing up later as an opaque HTTP 400.
+message(sprintf("Config: model='%s', max_input_chars=%s, voice='%s'",
+                LLM_MODEL, MAX_INPUT_CHARS, ELEVEN_VOICE_ID))
+
 # ---- Auth (service account, for Sheets only) -----------------------------
 sa_json <- Sys.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
 stopifnot("GOOGLE_SERVICE_ACCOUNT_JSON is not set" = nzchar(sa_json))
@@ -35,13 +40,19 @@ a1col <- function(n) {
   s
 }
 
-chat <- function(system_prompt, user_text, max_tokens = 3000) model = "claude-haiku-4-5-20251001") { 
+# CHANGED: moved up from further down the file so chat() can use it.
+`%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
+
+# CHANGED: added a model argument, an empty-input guard, error body extraction
+# and retries.
+chat <- function(system_prompt, user_text, max_tokens = 3000, model = LLM_MODEL) {
   user_text <- substr(user_text, 1, MAX_INPUT_CHARS)
+  stopifnot("chat() called with empty user_text" = nzchar(trimws(user_text %||% "")))
   req <- request("https://api.anthropic.com/v1/messages") |>
     req_headers(`x-api-key` = ANTHROPIC_API_KEY,
                 `anthropic-version` = "2023-06-01") |>
     req_body_json(list(
-      model      = model,     
+      model = model,
       max_tokens = max_tokens,
       temperature = 0.3,
       system = system_prompt,
@@ -49,12 +60,18 @@ chat <- function(system_prompt, user_text, max_tokens = 3000) model = "claude-ha
         list(role = "user", content = user_text)
       )
     )) |>
-    req_error(body = function(resp) resp_body_json(resp)$error$message) |>  # (1)
-    req_retry(max_tries = 3, backoff = ~ 2 ^ .x) |>                         # (2)
-    req_timeout(300)                                                        # (3)
+    req_error(body = function(resp) {
+      msg <- try(resp_body_json(resp)$error$message, silent = TRUE)
+      if (inherits(msg, "try-error") || is.null(msg)) resp_body_string(resp) else msg
+    }) |>
+    req_retry(max_tries = 3, backoff = ~ 2 ^ .x) |>
+    req_timeout(120)
   out <- resp_body_json(req_perform(req))
   out$content[[1]]$text
 }
+
+# CHANGED: batched briefing helpers. Must come after chat() and MAX_INPUT_CHARS.
+source("R/batched_briefing.R")
 
 # ---- Prompts (ported from Zap 3 steps 4 and 5) ---------------------------
 BRIEFING_PROMPT <- "ROLE
@@ -142,8 +159,6 @@ ready <- dat[(!is.na(dat$enriched) & dat$enriched == "TRUE") &
 out_dir <- "episodes"
 dir.create(out_dir, showWarnings = FALSE)
 
-`%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
-
 if (nrow(ready) == 0) {
   message("No new articles ready. Refreshing the feed only, no audio generated.")
 } else {
@@ -160,11 +175,10 @@ if (nrow(ready) == 0) {
             r$title %||% "", r$link %||% "", pick_text(r))
   }, character(1))
 
-  input_text <- paste(blocks, collapse = "\n---\n")
-
   # ---- Generate briefing, then audio script ------------------------------
-  message(sprintf("Building briefing from %d article(s).", nrow(ready)))
-  briefing <- chat(BRIEFING_PROMPT, input_text, max_tokens = 3500)
+  # CHANGED: was a single truncated call over all articles pasted together.
+  # build_briefing() digests them in batches so nothing is silently dropped.
+  briefing     <- build_briefing(blocks)
   audio_script <- chat(AUDIO_PROMPT, briefing, max_tokens = 4000)
 
   # ---- ElevenLabs text to speech -----------------------------------------
@@ -189,11 +203,20 @@ if (nrow(ready) == 0) {
   message(sprintf("Saved transcript: %s", txt_path))
 
   # ---- Mark rows as released ---------------------------------------------
-  for (rn in ready$.row) {
+  # CHANGED: was one write per row at two per second, which exceeds the Sheets
+  # quota of 60 writes per minute once the backlog is large. Consecutive rows
+  # are now written as a single range.
+  rows <- sort(unique(ready$.row))
+  runs <- split(rows, cumsum(c(1, diff(rows) != 1)))
+  message(sprintf("Marking %d row(s) released in %d write(s).",
+                  length(rows), length(runs)))
+  for (run in runs) {
     range_write(SHEET_ID, sheet = WORKSHEET,
-                data = data.frame(x = "TRUE"),
-                range = sprintf("%s%d", col_released, rn), col_names = FALSE)
-    Sys.sleep(0.5)
+                data = data.frame(x = rep("TRUE", length(run))),
+                range = sprintf("%s%d:%s%d", col_released, min(run),
+                                col_released, max(run)),
+                col_names = FALSE)
+    Sys.sleep(1.1)
   }
 
   message(sprintf("Published podcast and marked %d row(s) released.", nrow(ready)))
