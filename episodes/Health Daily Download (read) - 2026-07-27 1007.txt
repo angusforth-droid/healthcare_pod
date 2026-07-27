@@ -1,0 +1,175 @@
+# HEALTHCARE & LIFE SCIENCES NEWS BRIEFING
+
+---
+
+## UNITED STATES
+
+**DIGITAL HEALTH & AI**
+
+- Prosper AI secured $30 million Series A funding led by Andreessen Horowitz with Base10, Emergence Capital, Y Combinator, and Company Ventures for healthcare voice AI agents. MobiHealthNews.
+
+- Cadence closed $100 million Series C funding led by Spark Capital with co-investment from Duke Health, Memorial Hermann, and Corewell Health Ventures for chronic care management platform. MobiHealthNews.
+
+- Subtle Medical secured $33 million Series C funding and appointed new CEO; AI-powered medical imaging startup expanding deployment across hospital networks and imaging centers. Fierce Healthcare.
+
+- Midtown AI raised $30 million Series A led by Andreessen Horowitz for healthcare billing automation. Crain's New York Business.
+
+- Epic Systems rolling out enterprise resource planning system integrating financial management, supply chain, human resources, and revenue cycle management alongside existing EHR capabilities. Axios.
+
+- Reid Health deployed Abridge AI documentation technology for nursing staff; after-shift charting reduced by up to 45 minutes per shift, RN vacancy rate cut by more than 50 percent. MedCity News.
+
+- Innovaccer and Amazon Web Services announced strategic partnership integrating Innovaccer's healthcare data platform with AWS cloud infrastructure; Mount Sinai Health System adopted Signal 1 AI-powered clinical management platform for operational decision-making. Fierce Healthcare.
+
+- TriNetX LIVE Network surpassed 300 million patient records, expanding real-world evidence capabilities globally. TriNetX.
+
+- FDA closed enforcement action against Whoop after it removed clinical-grade blood pressure claims and repositioned feature as relative trend indicator. STAT News.
+
+**HEALTH SYSTEMS & OPERATIONS**
+
+- Thoreau Group acquired Ensemble Health Partners for approximately $12 billion in healthcare revenue cycle management and clinical documentation consolidation. Bloomberg.
+
+- Kaiser Permanente Colorado and Nymbl published retrospective cohort study (3,735 Nymbl users versus 114,219 non-users, aged 60 and older, February 2018 to September 2024) showing self-guided balance exercise app associated with 3.83 percentage point reduction in acute fall-related injuries in older adults with prior fall history. Journal of the American Geriatrics Society.
+
+- LucyRx and Abarca Health announced merger to build scale amid pharmacy benefit management industry consolidation. Fierce Healthcare.
+
+- Lown Institute research findings reveal top-ranked hospitals underperforming on health equity initiatives and accountability measures. Lown Institute.
+
+**FRAUD & ENFORCEMENT**
+
+- U.S. Department of Justice announced criminal charges against 455 defendants for participation in healthcare fraud schemes including fraudulent amniotic wound allograft sales and Medicaid billing for services never delivered. FierceHealthcare.
+
+**POLICY & RESEARCH**
+
+- Kevin Schulman, Stanford University School of Medicine Clinical Excellence Research Center, published opinion in STAT News proposing FDA policy shift to encourage independent laboratory testing of generic drugs; generic drugs represent 90 percent of U.S. prescriptions. STAT News.
+
+- West Health-Gallup Affordability Index survey finds 49 percent of U.S. adults classified as "Cost Secure," down 2 percentage points from 2024 and 12 points from 2022. FierceHealthcare.
+
+- Columbia University Medical Center and NPR published peer-reviewed study on movement break frequency recruiting 20,000 participants across all 50 U.S. states over three years in British Journal of Sports Medicine. STAT News.
+
+---
+
+## UNITED KINGDOM
+
+**DIGITAL HEALTH & AI**
+
+- Cambridge University researchers conducted first human clinical trial of vaccine designed using artificial intelligence. BBC News.
+
+**HEALTH SYSTEMS & OPERATIONS**
+
+- King's College Hospital launched rooftop outdoor ward to monitor impact on recovery outcomes for seriously ill patients. BBC News.
+
+- Stockport NHS Foundation Trust successfully launched a Laboratory Information Management System. HTN Health Tech News.
+
+**CLINICAL OUTCOMES**
+
+- Emergency caesarean section rate in England reached 25 percent of all births over five-year period; NHS England and Royal College of Obstetricians and Gynaecologists documented the trend. BBC News.
+
+**POLICY**
+
+- Department of Health and Social Care hosted engagement sessions on Value-Based Procurement frameworks for NHS healthcare procurement. Med-Tech Insights.
+
+- UK resident doctors paused strike action to evaluate revised government pay proposal; British Medical Association, NHS, and UK Government involved. BBC News.
+
+**RESEARCH & EVIDENCE**
+
+- Systematic review found 70 percent or more of IVF patients in UK, Australia, and New Zealand pay for add-on treatments including acupuncture and endometrial scratching, with only EmbryoGlue and endometrial scratching showing potential benefit. The Guardian.
+
+---
+
+## GLOBAL
+
+**LIFE SCIENCES & THERAPEUTICS**
+
+- Eli Lilly and Abbisko Therapeutics expanded drug discovery collaboration with up to $1.9 billion in potential milestone payments. Endpoints News.
+
+- Osanni Bio raised $190 million Series B to establish ophthalmology and cardiology affiliate companies. Endpoints News.
+
+- Abiologics, backed by Flagship Pioneering, demonstrated AI-driven design of mirror-image proteins using D-amino acids for novel therapeutic proteins with enhanced durability. Endpoints News.
+
+- LivaNova's VITARIA vagus nerve stimulator failed to meet efficacy endpoints in FDA breakthrough-designated pivotal trial for heart failure; independent monitoring committee determined in 2022 that trial signals insufficient to warrant early stopping after enrolling 500 of 1,000 planned patients. STAT News.
+
+- Oura and LillyDirect announced partnership providing free Oura Ring sizing kits to customers using GLP-1 therapies. MobiHealthNews.
+
+**DIGITAL HEALTH & PLATFORMS**
+
+- Ladder Health raised $7 million seed round led by Nina Capital for virtual-first pediatric therapy model. MedCity News.
+
+- Prosus invested $460 million in Alan, a French digital health platform, valuing the company at $6.3 billion. Digital Health News.
+
+- Dassault Systèmes launching virtual twin and sovereign cloud platform for European health-tech startups. DigiTimes.
+
+- Xolis healthtech firm suffered data breach impacting 1.4 million people. BleepingComputer.
+
+**PUBLIC HEALTH & POLICY**
+
+- WHO released guidance calling for scale-up of newborn screening programmes; 8 million babies born annually with birth defects, 90 percent of serious cases in low- and middle-income countries; case studies from Argentina, Brazil, Egypt, India showing India's three-year programme identified 900,000 children with defects. WHO.
+
+- Julie Richard, France Ministry of Health, identified data normalization between EU member states as critical need for cross-border health data sharing under European Health Data Space framework. France Ministry of Health.
+
+**RESEARCH & EVIDENCE**
+
+- World Happiness Report research finds increased social media usage correlates with reduced individual wellbeing scores. BBC News.
+
+- Medtronic awarded first 100 Medtronic Spark Scholarships to students pursuing health technology careers in inaugural year of program. Medtronic.
+
+- Systematic scoping review of 681 randomised controlled trials registered 2018-2025 across WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, European Union Clinical Trials Register examining digital psychotherapies for adults with depression; 51.8 percent completed, 34.1 percent published results, 78.1 percent prospectively registered, 8.5 percent industry-funded, 61.8 percent excluded patients with suicidal ideation. BMJ Mental Health.
+
+---
+
+## CANADA
+
+**RESEARCH & DEVELOPMENT**
+
+- McMaster University awarded $1.2 million for diagnostic technology development targeting mental health medication dosage optimization. Faculty of Health Sciences.
+
+---
+
+## SOUTH KOREA
+
+**DIGITAL HEALTH & WEARABLES**
+
+- Wearable electroencephalography devices detected early Alzheimer's disease through olfactory bulb recordings with 83.1 percent accuracy across cognitive stages in 71-participant study. JMIR mHealth and uHealth.
+
+- Miri-Alimi patient-generated health data platform integrated with electronic medical records via KakaoTalk messaging achieved 38.5 percent survey response rate with 82.9 to 92.1 percent patient satisfaction in 751-patient prospective observational study. JMIR Medical Informatics.
+
+- Severance Hospital leading government-funded clinical research on AI-enabled wearable exoskeleton for quadriplegic patients; South Korean government funding 20.25 billion won ($13 million), total project investment 30 billion won ($19 million) over 7 years. MobiHealthNews.
+
+---
+
+## CHINA
+
+**DIGITAL HEALTH & MENTAL HEALTH**
+
+- FocusZen Mindfulness Stress Reduction System with EEG biofeedback demonstrated significant efficacy for late-life depression in 54-participant randomized controlled trial. Journal of Psychiatric Research.
+
+---
+
+## SAUDI ARABIA
+
+**DIGITAL HEALTH & TELEHEALTH**
+
+- Digital health literacy significantly predicted positive telehealth attitudes among 273 Saudi Arabian nursing students (adjusted odds ratio 1.48, 95 percent confidence interval 1.28-1.71; P less than 0.001). JMIR Nursing.
+
+---
+
+## INDIA
+
+**DIGITAL HEALTH & EDUCATION**
+
+- Rule-based Digital Case-Based Learning module evaluated for antibiotic stewardship decision-making among 271 third and fourth-phase MBBS learners at South Indian tertiary-care teaching hospital; Script Concordance Test scores showed minimal overall improvement (5.65 to 6.05; p equals 0.33); System Usability Scale score 62.4 out of 100. BMC Medical Education.
+
+---
+
+## FRANCE
+
+**POLICY & INFRASTRUCTURE**
+
+- Julie Richard, France Ministry of Health, identified data normalization between EU member states as critical need for cross-border health data sharing under European Health Data Space framework. France Ministry of Health.
+
+---
+
+## NIGERIA
+
+**POLICY & INFRASTRUCTURE**
+
+- President Bola Tinubu appointed Obi Adigwe as Coordinator of newly established Health Tech Data Analytics Office to integrate health technology and data analytics into Nigeria's healthcare infrastructure. Business Post Nigeria.
