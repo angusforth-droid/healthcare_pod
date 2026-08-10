@@ -1,0 +1,182 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of [Current Week]
+
+---
+
+## UNITED KINGDOM
+
+**Diagnostics and Cancer Screening**
+- NICE recommended two diagnostic technologies for endometriosis to reduce the average 7-10 year diagnostic delay and improve diagnostic pathways. Digital Health.
+- NHS trusts launched trial of AI blood test for endometrial cancer detection. The Guardian.
+- North Thames Mainstreaming of Breast Cancer Genetic Testing programme completed pilot of BRCA-DIRECT pathway across 14 NHS breast oncology units, testing 3,515 newly-diagnosed breast cancer patients with 4.7% pick-up rate of germline pathogenic variants (166 variants identified). NPJ Breast Cancer.
+- NHS urged people in their 50s to return bowel cancer screening kits, with 56.2% participation rate among 54-year-olds (April 2024–March 2025). United Kingdom.
+
+**Oncology**
+- AstraZeneca and Daiichi Sankyo finalized UK pricing deal for Enhertu (trastuzumab deruxtecan) breast cancer antibody-drug conjugate showing approximately six-month survival extension. STAT News.
+
+**Digital Health Infrastructure**
+- Leeds Teaching Hospitals NHS Trust, University of Leeds, and Leeds City Council established healthtech innovation hub at Old Medical School building in Leeds city centre. Building Better Healthcare.
+- National Institute of Health Research NHS CAMHS completed digital referral tool development through co-design with Pan-Disability Digital Accessibility Group for Enhancing Child and Adolescent Mental Health Service Referrals 2 project. Frontiers in Digital Health.
+
+**Testosterone Research**
+- Researchers presented data at ESHRE annual meeting in London showing 54% decline in total testosterone levels in men between 1972 and 2019. The Guardian.
+
+---
+
+## UNITED STATES
+
+**Digital Health and AI Clinical Decision Support**
+- UC San Diego established the Institute for Applied Health Intelligence to translate AI research into clinical practice. Healthcare IT News.
+- Mass General Brigham deployed RECTIFIER AI tool to identify eligible clinical trial participants from patient records, with Dr. Alexander Blood leading implementation at Brigham and Women's Hospital. Healthcare IT News.
+- OpenEvidence integrated real-time evidence quality grading into AI clinical decision support platform. TechTarget.
+- OpenEvidence announced collaboration to expand AI-driven clinical support tools across NewYork-Presbyterian's network and affiliated academic medical centers Columbia University Vagelos College of Physicians and Surgeons and Weill Cornell Medicine. MobiHealthNews.
+- RediMinds earned URAC AI accreditation for its medical review platform. Beinsure.
+- Clalit Health Services deployed AI generating 250,000+ care management recommendations monthly for clinical decision support across 4.7 million member population. Healthcare IT News.
+- Brook.ai partnered with SRHO (Strategic Regional Healthcare Organizations) to deploy AI-enabled remote care platform across 275+ hospitals in 20 states. MobiHealthNews.
+- ENHANCE Ontario developing Safe Use of AI framework for standardized evaluation and implementation of artificial intelligence across seven member hospitals. Healthcare IT News.
+
+**Wearables and Remote Monitoring**
+- Oura Health launched Oura Ring 4, a smaller wearable device with expanded health monitoring capabilities. Metro.co.uk.
+- Oura Health Oura Ring Gen 3 tracked 15 older adults (mean age 73.2) during January 2025 Eaton Fire in Los Angeles, showing sedentary time increased 41 minutes (p=0.007) and sleep decreased 34 minutes (p=0.002) during fire. Environmental Research & Health.
+- Cumulus Neuroscience NeuLogiq platform completed 52-week home-based feasibility study in mild Alzheimer's Disease with 77% adherence rate among dementia participants and 16.1% technical issues during initial setup. Frontiers in Digital Health.
+
+**Mental Health and Behavioral Health**
+- Compass Pathways announced Phase 2b trial data showing six-month durability of response for COMP360 (psilocybin therapy) in treatment-resistant depression, supporting NDA filing trajectory. Endpoints News.
+- Handspring Health raised $19 million Series B for virtual pediatric mental healthcare, bringing cumulative funding to $37 million, led by RPS Ventures with participation from Angelini Ventures, Cobalt Ventures, NextView Ventures, nvp capital, Hyde Park Angels, Cornucopian Capital. MobiHealthNews.
+- Zeta Surgical received FDA 510(k) clearance for robotic transcranial magnetic stimulation (TMS) system for depression and neuropsychiatric treatment. MobiHealthNews.
+
+**GLP-1 and Obesity Management**
+- Crux and eMed announced partnership to expand employer access to GLP-1 medications through integrated benefits offering combining medication access, at-home blood testing, and side-effect management. MobiHealthNews.
+- UnitedHealthcare launched Lifestyle Spending Account (LSA), new employer-sponsored benefit for flexible health and wellness expense funding. MedCity News.
+
+**Regulatory and Policy**
+- FDA Center for Drug Evaluation and Research (CDER) achieved net positive staffing for first time since April 2025 workforce reductions under Trump administration. Endpoints News.
+- HHS Office for Civil Rights postponed HIPAA Security Rule modernization compliance deadline to July 2027 from originally planned date. United States.
+- FDA posted 14 Complete Response Letters to pharmaceutical companies following temporary halt in CRL releases. United States.
+- Sean Kaufman nominated Assistant Secretary for Preparedness and Response under HHS Secretary Robert F. Kennedy Jr. STAT News.
+- Jason Klomp appointed HHS Deputy Secretary; Dr. Mehmet Oz appointed HHS Secretary. Fierce Healthcare.
+
+**Health System M&A and Transactions**
+- Ascension outbid HCA Healthcare and Optum Health to acquire Williamson Health in competitive auction process. Modern Healthcare.
+- Avid Health at Home acquired Tech Medical Home Care Services, expanding into 2 additional states. Home Health Care News.
+
+**Litigation and Regulatory Challenges**
+- Tampa General Hospital filed lawsuit against Eli Lilly challenging 340B drug discount program restrictions and manufacturer-imposed data requirements as prerequisites for continued pricing. Endpoints News.
+- Elevance Health sued HHS and CMS challenging refusal to recalculate 2026 Medicare Advantage Star Ratings using methodology applied to Clover Health following court ruling. MedCity News.
+- Pharmacy group representing thousands of pharmacies filed antitrust suit against Prime Therapeutics alleging price-fixing collusion with Express Scripts. Fierce Healthcare.
+- Meta faces potential $1.4 trillion in penalties in teen mental health litigation; penalty amount equals Meta's current market valuation. New York Post.
+
+**Medicare and Payment Models**
+- ACO REACH program generated $987 million in net savings during 2024. Centers for Medicare & Medicaid Services (CMS). Fierce Healthcare.
+- UnitedHealth released audit findings showing 97% of diagnoses documented during HouseCalls home visits substantiated by patients' existing medical records, responding to accusations of diagnosis inflation for Medicare reimbursement. Healthcare Dive.
+- Pearl Health raised $110 million Series C funding led by Bessemer Venture Partners and Insight Partners for AI and technology expansion serving Medicare providers. Fierce Healthcare.
+
+**Opioid Prescribing**
+- Prospective cohort study in JAMA Network Open tracking opioid prescribing patterns in 1,708 opioid-naive patients across 5 US health systems (Sept 2020–March 2023) found median time to pain resolution 20 days; 69.6% used opioids with median discontinuation 7 days; 10.0% used ≥90 days; 66.9% reported leftover opioids; median daily dose 10 morphine milligram equivalents. United States.
+
+**Telemedicine and Virtual Care**
+- Teladoc Health named preferred virtual care provider for National Basketball Players Association, covering active and retired NBA players and families. Teladoc Health.
+
+**Fraud and Criminal Justice**
+- Founder/CEO and Clinical President of unnamed digital health company sentenced to 72 months and 24 months respectively for $90 million scheme distributing 37+ million Adderall pills via telemedicine. U.S. Department of Justice.
+
+**Labor Actions**
+- Approximately 4,500 workers at Mass General Brigham initiated strike action; Mount Nittany Medical Center announced planned strike action later in month. Healthcare Dive.
+
+**Other Digital Health**
+- NueHealth founder returned as CEO with mandate to accelerate AI-powered healthcare technology platform. The Business Journals.
+- Surgical Safety Technologies rebranded to Aimbient, repositioning from surgical safety point solution to broader healthcare AI platform. FierceHealthcare.
+- WhidbeyHealth terminated relationship with HealthTech, healthcare technology vendor. South Whidbey Record / Whidbey News-Times.
+- Apnimed filed for Nasdaq IPO following strong operational performance period. Endpoints News.
+
+---
+
+## GLOBAL (MULTI-COUNTRY AND INTERNATIONAL)
+
+**Open Source and Vendor-Neutral Platforms**
+- Open Health Stack Software Foundation established as vendor-neutral, community-governed platform for open-source digital health development; Google and WHO named as key collaborators. HealthcareITNews.
+
+**Medical Devices and Robotics**
+- Medicaroid (joint venture of Kawasaki Heavy Industries and Sysmex Corporation) won CE mark for Hinotori surgical robot, enabling European market entry following Asia-Pacific expansion. MedTech Dive.
+- Leo Cancer Care secured $65 million Series D funding to advance upright radiotherapy system. Fierce Healthcare.
+
+**Life Sciences Funding**
+- MeiraGTx secured $135 million in milestone and royalty payments plus $10 million equity investment from Oberland Capital in royalty financing deal. Endpoints News.
+
+**Biotech M&A**
+- Vertex Pharmaceuticals acquired Crinetics Pharmaceuticals for approximately $10 billion, Vertex's largest M&A deal; deal provides access to Palsonify acromegaly treatment and endocrine disorder pipeline. MedCity News.
+
+---
+
+## UNITED KINGDOM (LIFE SCIENCES)
+
+**Gene Therapy**
+- Cyllene Therapeutics raised €33 million for HSV-based gene therapy platform following Krystal Biotech's blueprint. Endpoints News.
+
+---
+
+## SOUTH KOREA
+
+**Cardiovascular and Metabolic Safety Data**
+- GLP-1 receptor agonists semaglutide and liraglutide associated with increased psychiatric, gastrointestinal, and hepatic adverse events in 13 South Korean hospitals (2018-2025); semaglutide cohort 2,357 initiators showed depression HR 3.42, anxiety HR 2.39, gastrointestinal dysmotility HR 3.91; liraglutide cohort 6,953 initiators showed depression HR 1.51, hepatic impairment HR 1.46, pancreatitis/cholangitis/cholelithiasis HR 1.40. Diabetes, Obesity and Metabolism.
+
+**Cardiovascular Outcomes**
+- Multicentre retrospective cohort study of 5,405 acute coronary syndrome patients undergoing percutaneous coronary intervention across five Korean hospitals found laboratory-based frailty index (FI-Lab ≥0.4) associated with 1.95x increased hospital readmission hazard ratio (95% CI 1.635–2.316) and 3.68x increased all-cause mortality (95% CI 2.680–5.038); 25.2% of cohort classified as frail. European Journal of Cardiovascular Nursing.
+
+---
+
+## CHINA
+
+**Digital Health and Rehabilitation**
+- Clinical trial results from Cangnan County Hospital of Traditional Chinese Medicine in British Journal of Hospital Medicine: 147 post-operative lumbar disc herniation patients (72 intervention, 75 control) receiving three-month empowerment-based rehabilitation with WeChat digital support showed lower pain (VAS 3.00 vs 4.00, p<0.001), better function (ODI 28.00 vs 32.00, p=0.005), higher self-efficacy (p<0.001), improved quality of life (p<0.001), and higher nursing satisfaction (93.06% vs 78.67%, p=0.013). British Journal of Hospital Medicine.
+
+**Oncology**
+- Hansoh Pharmaceuticals announced Phase 3 trial success for risvutatug rezetecan (Ris-Rez), an antibody-drug conjugate developed with GSK, meeting primary endpoint in small cell lung cancer. Endpoints News.
+- Hengrui Pharma and Kailera Therapeutics announced Phase III trial results for oral GLP-1 receptor agonist in obesity and type 2 diabetes with positive efficacy but high side effect rates. Endpoints News.
+
+---
+
+## INDIA
+
+**Digital Health and Telemedicine**
+- DUSQ became fastest Indian healthtech company to raise USD 1 million on Kickstarter. India Gazette.
+- Centre for Human Genetics Bangalore implemented hub-and-spoke telemedicine model for Epidermolysis Bullosa diagnosis (January 2020–August 2025); 271 patients enrolled across 3,125 km radius; median cost savings Rs 2,625 per patient (p=0.0225). Frontiers in Digital Health.
+
+---
+
+## MALAYSIA
+
+**Health Economics**
+- Malaysia's Department of Statistics reported health inflation increased 3% in 2025 driven by higher service costs. Media Selangor.
+
+---
+
+## FRANCE/US
+
+**Gene Therapy Funding**
+- Cyllene Therapeutics raised €33 million for HSV-based gene therapy platform following Krystal Biotech's blueprint. Endpoints News.
+
+---
+
+## FINLAND
+
+**Personalized Medicine**
+- CurifyLabs raised $14 million Series A led by Sandwater and HealthCap with participation from Tesi, Finnish Industry Investment Ltd., Lifeline Ventures, and customer-employees for personalized medicine compounding platform expansion. MobiHealthNews.
+
+---
+
+## AUSTRALIA
+
+**Health Tech Stocks**
+- Compumedics Limited (ASX: CMP) share price increased amid renewed investor interest in ASX health-tech growth stocks. Kalkine.
+- BlinkLab (ASX:BB1) share price declined amid volatile early-stage health-tech sector sentiment. Kalkine.
+
+**Digital Health**
+- Dangudbila pregnancy support app launched as pilot in Northern Territory Top End through partnership between Menzies School of Health Research and Monash University Faculty of Information Technology Action Lab. MobiHealthNews.
+
+---
+
+## CANADA
+
+**AI Governance**
+- ENHANCE Ontario developing Safe Use of AI framework for standardized evaluation and implementation of artificial intelligence across seven member
