@@ -1,0 +1,196 @@
+# HEALTHCARE & LIFE SCIENCES NEWS BRIEFING
+**Week of July 2026**
+
+---
+
+## UNITED KINGDOM
+
+**Regulatory and Enforcement**
+
+- Gencore Global, UK-based wellness company, revealed operating illegal steroid and experimental peptide distribution through Telegram channels via fitness influencers; company sponsored FitXpo North West (Greater Manchester) and National Running Show (Birmingham) while distributing controlled substances (The Guardian)
+
+- UK regulatory gap identified: experimental peptides and unregulated steroids sold through Telegram and social media with fitness influencer promotion; Prof Channa Jayasena (Imperial College London, Hammersmith and St Mary's hospitals) warns UK becoming wild west for experimental peptides with daily patient encounters (The Guardian)
+
+- Care Quality Commission progressing regulatory model and assessment frameworks for AI in healthcare (HTN Health Tech News)
+
+- NHS Digital released new Technology Assessment Criteria establishing procurement standards for health tech suppliers (Burges Salmon)
+
+**NHS Technology Deployment**
+
+- IBM awarded £160 million contract for NHS App development and maintenance (HTN Health Tech News)
+
+- Bristol NHS Group partnering with Highland to deploy health technology innovation across Bristol, North Somerset, and South Gloucestershire (Med-Tech Insights)
+
+- United Lincolnshire Teaching Hospitals NHS Trust procuring Electronic Patient Record implementation delivery partner (HTN Health Tech News)
+
+- Gateshead Health NHS Trust planning cancer management system implementation (HTN Health Tech News)
+
+**Digital Health Funding**
+
+- TympaHealth secured £2 million funding to scale ear and hearing health technology platform (UKTN)
+
+- Pulmatrix secured £2 million Scottish Enterprise grant to advance inhalation medicine delivery technology (Scottish Enterprise Media Centre)
+
+**Research Implementation**
+
+- South Central Ambulance Service and National Institute of Health and Care Research launching ACCESS D feasibility study recruiting 100 adults aged 50-90 with mild cognitive impairment or dementia across Hampshire, Oxfordshire, Buckinghamshire, and Berkshire; 12-18 community outreach events delivered by SCAS research paramedics and nurses over 12 months (Southwest-Frenchay Research Ethics Committee)
+
+---
+
+## UNITED STATES
+
+**Digital Health and AI**
+
+- Digital health venture funding reached $7.4 billion in H1 2026, representing $1 billion year-over-year increase from H1 2025, with capital concentrating in megarounds of $100 million and higher (Rock Health via Endpoints News)
+
+- Google establishing evidence-building framework for healthcare AI applications to support regulatory submissions and clinical adoption (Modern Healthcare)
+
+- Corner Health completed combined seed and Series A funding round totalling $32.5 million, with Oak HC/FT leading Series A alongside First Round Capital and Zigg Capital, to expand AI-enabled nurse practitioner platform across additional US states (MobiHealthNews)
+
+- Autoset, IIT-founded healthtech startup, deploying AI-powered nursing assistants in US skilled nursing facilities to address staffing shortages; technology automates routine clinical tasks and patient monitoring (The AI Journal)
+
+- American Medical Association survey finds physicians want wearable device data integration but healthcare infrastructure lacks standardized EHR integration protocols, clinical workflows, regulatory frameworks, and reimbursement models to operationalize wearable data (Fierce Healthcare)
+
+- Text message support for HIV PrEP adherence increases adherence by approximately 10% versus standard care; direct provider recommendation identified as strongest driver of digital health adoption in US PrEP clinics (PLOS Digital Health)
+
+- PROVISION-AF study from Erasmus University Medical Center and Beth Israel Deaconess Medical Center validates deep learning ECG model for atrial fibrillation prediction; AUROC 0.79 (EUMC internal), 0.74 (BIDMC external), 0.87 (EUMC Holter), 0.75 (PROVISION-AF prospective); 70-physician survey shows AI assistance improves AUROC from 0.573 to 0.650 (NPJ Digital Medicine)
+
+**Regulatory and Policy**
+
+- HHS under Robert F. Kennedy Jr. developing clinical guidance on deprescribing SSRIs and psychiatric medications; dozens of mental health professionals meeting with federal officials to address research gaps in antidepressant discontinuation protocols (STAT News)
+
+- FDA authorized Zyn nicotine pouches following four-year review; FDA toxicologist Christy Leppanen raised concerns about microplastics exposure and product dissolution characteristics (STAT News)
+
+- HHS Office of Inspector General removed 1,200+ people and entities from federal healthcare programs between October and March (Healthcare Dive)
+
+- Delaware expands payer and provider HIE access under RHTP; State of Delaware allocates Rural Health Transformation funding to expand health information exchange with prior authorization and insurance verification capabilities (Healthcare IT News)
+
+- TruBridge signed CMS Health Tech Ecosystem Pledge committing to health data interoperability standards for rural healthcare systems (Business Wire)
+
+**Pharmaceutical and Medical Device**
+
+- Sanofi wearable injector for Sarclisa (isatuximab) cleared by FDA for multiple myeloma; reduces infusion time from 3 hours to 13 minutes; first cancer drug approved via on-body injector device (STAT News)
+
+- Settlement reached between US government and Gilead Sciences over HIV prevention drug patents (Truvada, Descovy); includes R&D agreement after six-year lawsuit alleging patent infringement on taxpayer-funded research; AIDS activists criticize deal as insufficient (STAT News)
+
+- AstraZeneca acquires worldwide development and commercialisation rights to Zegfrovy (gefitinib) from Dizal Pharmaceutical for $600 million upfront (Endpoints News)
+
+- Draig Therapeutics raised $65 million Series B funding for depression drug targeting AMPA receptor modulation to rebuild synapses (Endpoints News)
+
+- Lyora Therapeutics launches with genetic eye disease programs acquired from Editas Medicine and Biogen; co-founders Luk Vandenberghe and Eric Pierce (Harvard Medical School) (Endpoints News)
+
+- Chai Discovery raised $400 million in Series C funding, tripling its valuation (Endpoints News)
+
+- Avere Therapeutics launched by former Akero executives (Andrew Cheng, Kitty Yale, William White) backed by Fairmount, developing oral IL-23 therapy licensed from Chinese firm (STAT News)
+
+- HistoSonics initiating phased commercial rollout of Edison histotripsy system for hepatic oncology (MedTech Dive)
+
+- Medtronic recalled heart valve delivery catheter for risk of tip detaching (MedTech Dive)
+
+**Health System Operations**
+
+- Kaiser Permanente nurses protested CEO Greg Adams' appearance at AHA Leadership Summit in Denver over exclusion from AI implementation decision-making (MedCity News)
+
+- HCA Healthcare cut 2026 earnings forecast by $400 million due to ACA plan enrollment losses (Healthcare Dive)
+
+- Martin General Hospital reopening initiative in Martin County, North Carolina with state funding and ECU Health partnership; facility closed 2023, serves approximately 24,000 residents (Fierce Healthcare)
+
+**Regulatory Enforcement**
+
+- Carbon Health settled with California Attorney General over violations of state's non-compete ban (Endpoints News)
+
+**Clinical Research**
+
+- Glucagon-like peptide-1 receptor agonists reduce cardiovascular and mortality risk in dialysis patients with type 2 diabetes; real-world propensity score-matched study of 1,688 matched pairs (2013-2022) from TriNetX US Collaborative Network showed GLP-1 RA users had 16% lower all-cause mortality (HR 0.84), 16% lower myocardial infarction (HR 0.84), 13% lower heart failure (HR 0.87), and 19% lower sepsis (HR 0.81) versus DPP-4 inhibitor users (Clinical Kidney Journal)
+
+- OpenADMET AI competition shows drug developers prioritizing practical metabolic prediction over academic benchmarks; PXR-regulated enzymes metabolize approximately 50% of marketed drugs (STAT News)
+
+- Investigative series The Deadliest Drug reports 178,000 Americans die annually from alcohol-related causes; US has implemented no coordinated public health measures to reduce heavy drinking since Prohibition ended 1933; alcohol-related emergency department visits nearly doubled between 2003-2022 with approximately 5.4 million alcohol-related ED visits recorded in 2022; alcohol kills more Americans annually than all illicit drugs combined (STAT News)
+
+- Supportive text messaging reduced post-discharge psychiatric hospitalization costs by $7,147 (95% CI -$12,388 to -$1,906; p=0.01) at six months in stepped-wedge cluster-randomized trial (NCT05133726) conducted by University of Alberta researchers (JMIR Mental Health)
+
+---
+
+## GLOBAL
+
+**Life Sciences and Pharmaceutical**
+
+- Massive Bio and Sequence Me Now partner to expand cancer clinical trial access; partnership links organizations' websites to increase oncology and hematology trial awareness and accessibility through AI-enabled patient-trial matching (Global)
+
+- AST-120 demonstrated superior renal protection versus Lactobacillus probiotics in chronic kidney disease: retrospective TriNetX cohort of 680 matched patients showed AST-120 reduced stage 4 CKD progression risk by 70.6%, stage 5 CKD by 51.2%, ESKD by 66.7%, and all-cause mortality by 49.2% over 2.3-year follow-up (Science Progress)
+
+- WHO reports 80% of new Ebola cases in eastern Democratic Republic of Congo originate from unknown transmission chains (STAT News)
+
+**Digital Health Research and Implementation**
+
+- Nursing leadership for digital NICU transformation systematic review of 18 studies (January 2013-January 2025) found nurse-led governance in NICU digital health implementation associated with 60% reduction in device-related pressure injuries, 30-day readmission rates of 13.8% (nurse-led telehealth) versus 30.9% (non-enrolled), and approximately 12-day shorter length of stay in developmental care trials; organizational/leadership support documented in 94% of studies, structured training in 44%, funding/IT infrastructure in 22%, clinical champions in 17% (SAGE Open Nursing)
+
+- FDA and EMA approved 60 DHT-related drugs (39 EMA, 23 FDA) from September 2021 to March 2025, with ePRO tools dominating at 70% and smartphones at 66%, but no approvals based solely on DHT-derived primary endpoints (Therapeutic Innovation & Regulatory Science)
+
+- Umbrella review of 161 systematic reviews identified 1,333 telemedicine barriers versus 504 facilitators (2.6:1 ratio); top barriers: high costs (n=106), technical issues (n=94), training gaps (n=91); zero systematic reviews from low-income countries (PLoS One)
+
+- Systematic review of 16 studies identified AI/ML models predicting neonatal respiratory outcomes; only 2 studies included external validation; critical gaps in calibration reporting and post-discharge outcome prediction (Advances in Neonatal Care)
+
+- Qualitative study of 14 individuals with eating disorder history or subclinical symptoms examined remote measurement technology risks; self-tracking supported recovery in those with greater distance from active illness but risked reinforcing compulsive patterns in those with residual symptoms (JMIR Form Res)
+
+**Healthcare Ransomware**
+
+- Healthcare ransomware attacks rose 14% in first half of 2026 (DOTmed)
+
+---
+
+## CHINA
+
+**Digital Health and AI**
+
+- Five large language models (ChatGPT, DeepSeek, Doubao, Wenxin Yiyan, Tongyi Qianwen) evaluated for tuberculosis patient education across 100 text responses generated October 5-11, 2025; ChatGPT achieved highest C-PEMAT-P scores with Doubao ranked second; significant differences in readability indices between models identified (Digital Health)
+
+- Forecasting seasonal allergic rhinitis through integrated analysis of Baidu search queries and Meituan online antihistamine sales data; study period March 1, 2022 to October 15, 2024 in Beijing showed combined ARIMAX model achieved 1-day RMSE 3.80, MAPE 7.68%, Pearson correlation 0.89, with 47% of pollen's effect on antihistamine purchases transmitted via search activity (World Allergy Organization Journal)
+
+- CardioCare system deployed at health checkup center in Guangzhou identified 2,069 older adults as high-risk (≥10% 10-year CVD risk); only 181 patients (8.7%) attended follow-up cardiovascular risk management clinic visits (JMIR Medical Informatics)
+
+- Media exposure associated with lower intrinsic capacity impairment among 269 community-dwelling adults aged ≥60 in Wuhan (B = -0.804; 95% CI -1.53 to -0.08; p = 0.031) (Journal of Visualized Experiments)
+
+**Pharmaceutical**
+
+- AstraZeneca acquires COPD drug rights from Sino Biopharmaceutical using dual-mechanism approach (MedCity News)
+
+**Research and Innovation**
+
+- Chinese Methane Emissions Database (CMED) launched covering 2018-2024 monthly source-level inventory with ±3.57% uncertainty; supports China's 2025 Nationally Determined Contributions climate commitments (Scientific Data)
+
+- SMART-ECHO cluster-randomized controlled trial (NCT07117149) launched by Peking University and Shandong Maternal and Child Health Hospital evaluating digital health-assisted obesity prevention for approximately 980 preschool children aged 4-6 across 14 kindergartens (7 intervention, 7 control) in Jinan; 9-month intervention with 12-month post-intervention follow-up; Smart Health Platform delivers personalized health education and real-time feedback (Peking University)
+
+---
+
+## INDIA
+
+**Health System Expansion**
+
+- IHH Healthcare scaling investments across India; Malaysian health system operator expanding capital deployment in Indian private healthcare market (MSN)
+
+---
+
+## SINGAPORE
+
+**Digital Health and AI**
+
+- National Heart Centre Singapore announces CARDIA-GM, an AI platform reducing cardiac risk assessment to 60 seconds post-myocardial infarction; funded by National Health Innovation Centre Singapore (National Heart Centre Singapore)
+
+- Raffles Medical adopts AI-based brain imaging analysis software from unnamed South Korean developer for Alzheimer's disease diagnosis (Raffles Medical)
+
+---
+
+## AUSTRALIA
+
+**Digital Health Tools**
+
+- Therapeutic Guidelines Limited launches 10th edition of Australian Injectable Drugs Handbook with redesigned web and mobile app featuring Infusion Rate Calculator tool (Therapeutic Guidelines Limited)
+
+---
+
+## CANADA
+
+**Digital Mental Health**
+
+- HEARTSMAP-U digital mental health screening tool validated at Canadian university with 536 participants aged 17-
