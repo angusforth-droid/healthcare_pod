@@ -1,0 +1,164 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of July 15, 2026
+
+---
+
+## UNITED KINGDOM
+
+**Parliamentary oversight of NHS data governance escalates**
+- UK Parliamentary Science, Innovation and Technology Committee recommended government terminate Palantir's £330 million NHS contract, citing misalignment with UK values on surveillance technology and data governance. The Guardian.
+
+**Obesity policy framework advances**
+- UK Commons Health Committee issued formal recommendations including restrictions on fast food chain openings near schools, ban on junk food advertising on billboards and public transport, and mandatory prominent fruit and vegetable display in supermarkets; obesity costs UK £74 billion annually. The Guardian.
+
+**Harm reduction policy shift**
+- Bristol City Council declared Bristol a "city of harm reduction" and pledged to establish drugs-consumption facility where users can access treatment and support services. The Guardian.
+
+---
+
+## UNITED STATES
+
+**Pharmacy benefit manager regulatory enforcement continues**
+- CVS Caremark reached FTC settlement requiring cessation of formulary practices that prefer higher-cost drug versions; follows similar Express Scripts settlement in 2024. Healthcare Dive.
+- Federal Trade Commission announced second settlement with major pharmacy benefit manager over insulin pricing practices addressing PBM formulary manipulation affecting drug affordability. Fierce Healthcare.
+
+**340B Drug Discount Program spending surge documented**
+- HRSA reported 340B Drug Discount Program spending reached $100 billion in 2025, up 22.8% year-over-year, with $8.9 billion on Merck's Keytruda and $4.47 billion on Gilead's Biktarvy; 62% of spending concentrated on expensive medicines. STAT News.
+
+**Medicare Advantage AI oversight demanded**
+- Senators Richard Blumenthal and Josh Hawley issued bipartisan letters demanding internal records from UnitedHealth Group, Humana, and CVS Health regarding AI use in Medicare Advantage claim denials for rehabilitative care. STAT News.
+
+**Health system financial pressures intensify**
+- HCA Healthcare revised 2026 profit guidance downward, increasing projected financial impact from ACA enhanced premium tax credit expiration from $600-900 million to $1.0-1.2 billion, citing higher-than-anticipated uninsured patient volumes in Q2 2024. STAT News.
+- Fairview Health Services presented financial recovery strategy, achieving approximately $915 million swing from $315 million annual loss to approximately $600 million positive position within two years through workforce redesign and frontline process improvements; CEO James Hereford presented at American Hospital Association Leadership Summit. MedCity News.
+
+**Surprise billing opposition campaign launched**
+- Coalition Against Surprise Medical Billing launched public campaign opposing No Surprises Act Enforcement Act, citing concerns about Independent Dispute Resolution process abuse. MedCity News.
+
+**Biotech IPO momentum returns**
+- More than a dozen biotech startups completed IPOs in 2026, marking shift from failed attempts in 2024-2025; Parabilis and Kailera announced as panelists for live discussion on July 15 at 12 p.m. ET. Endpoints News.
+- Attovia Therapeutics filed for IPO; biotech listings momentum builds with three biotechs waiting to list in coming weeks. Endpoints News.
+
+**Preventive health technology expansion**
+- Sonata launched preventive healthcare membership integrating AI with clinical decision-making, offering unlimited continuous care with licensed physicians, in-home blood testing, clinical AI and genome sequencing. FierceHealthcare.
+- Neko Health raised $700 million Series C funding with backing from Mark Zuckerberg/Meta, Norwest Venture Partners, and Khosla Ventures ahead of US market launch; preventive health technology platform. Multiple sources.
+
+**Digital therapeutics consolidation accelerates**
+- XR Health acquired Swing Therapeutics, an FDA-cleared digital therapeutic for fibromyalgia; XR Health's sixth acquisition in two years as it pivots toward comprehensive digital therapeutics platform; delivered 1 million user sessions in 2025. STAT News.
+
+**Healthcare IT services consolidation**
+- IKS Health acquired TruBridge for $557 million, combining revenue cycle management and healthcare IT services. Fierce Healthcare.
+
+**AI integration into insurance operations**
+- Anthropic expanded healthcare presence through partnership with Optum to embed Claude AI into claims management workflows; UST implementing Claude into CarePath operational platform for health insurers and providers. Multiple sources.
+
+**Revenue cycle technology innovation**
+- SignalRx launched revenue intelligence platform built natively in Salesforce for healthtech companies. EIN News.
+
+**Cyclospora outbreak reaches record levels**
+- Cyclospora outbreak in United States exceeded previous record of 4,700 cases set in 2019, with 1,645 lab-confirmed cases, 145 hospitalizations, and 5,100 cases pending analysis; CDC investigation identified lettuce as suspected contamination source; Michigan Department of Health identified lettuce and salad greens as potential source affecting nearly 7,000 people across 34 states; outbreak expected to continue through August. STAT News.
+
+**Cardiovascular disease prevention digital intervention**
+- Feasibility study of bidirectional automated texting program for cardiovascular disease prevention in people living with HIV across 8 practice sites enrolled 471 participants; 60.3% engaged with program at least once; 94% owned smartphones. JMIR Cardio.
+
+**Mental health risk detection in healthcare workers**
+- NIH-funded research (R01HL156134) demonstrated computer vision and digital phenotyping can identify mental health risk in emergency department healthcare workers; 240 healthcare workers across 278 assessments; machine learning models achieved 83% accuracy and F1-score of 0.87 in classifying at-risk (57.6%) versus resilient/adaptive (42.4%) phenotypes through facial expression analysis. NPP Digital Psychiatry and Neuroscience.
+
+**Cybersecurity threats escalate**
+- Healthcare sector experienced 14% surge in ransomware attacks amid growing cybersecurity threats. TechTarget.
+
+**Government advisory committee scrutiny**
+- Democratic senators Jeff Merkley and Ron Wyden sent formal letter to Health Secretary Robert F. Kennedy Jr. and CMS Administrator Mehmet Oz questioning credentials and financial conflicts of 18 members on Kennedy's Healthcare Advisory Committee established in March 2025, citing concerns including motivational coach Tony Robbins' membership and venture capitalist ties to Kennedy's son. STAT News.
+
+**Medicare payment reform proposals**
+- Trump administration proposed sweeping Medicare payment and value-based care program reforms including ACO expansion and shift toward prevention-focused models. FierceHealthcare.
+
+**Major health insurer earnings**
+- Elevance Health reported Q2 net income of $1.5 billion, initiating quarterly earnings cycle for major US health insurers. FierceHealthcare.
+
+**Pharmacy benefit management rebranding**
+- Judi Health rebranded pharmacy benefit management arm to Judi Rx. FierceHealthcare.
+
+---
+
+## GLOBAL
+
+**Dementia prevention trial launches with major funding**
+- PROTECT-Cog three-year dementia prevention trial launched with $100 million funding at Alzheimer's Association International Congress in London; compares intensive versus standard lifestyle interventions with and without GLP-1 agonist treatment in older adults at cognitive decline risk. STAT News.
+
+**Alzheimer's therapeutic advances**
+- Biogen's diranersen (anti-tau monoclonal antibody) slowed Alzheimer's cognitive decline at rates comparable to approved therapies in Phase 2 trial; results support Phase 3 progression. STAT News.
+
+**Immunology market entry**
+- Spero Therapeutics licensed antibody from Innovent Biologics to enter immunology space, targeting rare autoimmune indication where Amgen currently holds sole approved treatment. MedCity News.
+
+**Generic drug litigation escalates**
+- US appeals court revived Teva Pharmaceuticals lawsuit against Eli Lilly over 2018 settlement breach; Teva alleges Lilly's 2020 FDA exclusivity grant unlawfully delayed generic Forteo launch from 2019 to 2023 despite patent expiration. Reuters/STAT News.
+
+**Fibrotic interstitial lung disease guidance updated**
+- International working group released updated clinical guidance on acute exacerbations in fibrotic interstitial lung disease, revising 2016 AE-IPF framework to apply across all fILD types. American Journal of Respiratory and Critical Care Medicine.
+
+**Unvalidated surgical techniques identified**
+- Instagram-based analysis identified 76 unvalidated dental and surgical techniques promoted across 77 healthcare professional accounts; 17 techniques explicitly prohibited by professional councils. European Journal of Dental Education.
+
+**Patient-centered AI clinical decision support design**
+- Qualitative study established seven patient and caregiver-informed design considerations for generative AI-supported patient-centered clinical decision support tools; 16 patient and caregiver advocates participated in 6 group discussions across two phases. Journal of Medical Internet Research.
+
+**Telemedicine adoption barriers for older adults**
+- Scoping review of 30 studies identified four primary trust barriers preventing older adults from adopting telemedicine: technophobia, privacy concerns, negative emotional impacts, and preference for in-person care. Interactive Journal of Medical Research.
+
+**AI literacy and life satisfaction correlation**
+- Population-based survey of 1,800 Hong Kong adults (spring 2024) found 38.5% reported generative AI use in past year; AI literacy mediated relationship between GenAI use and life satisfaction with indirect effect coefficient 0.186 (95% CI 0.134-0.242), with stronger effects in men (0.260) versus women (0.112) and older adults (0.227) versus young adults (0.124). Journal of Medical Internet Research.
+
+**Digital phenotyping for mental health prediction**
+- Smartphone-based digital phenotyping study (n=95, 2-week monitoring) predicted depression symptom changes with 70% accuracy (AUC 0.74) and anxiety changes with 65% accuracy (AUC 0.69) using random forest classifiers; structured daytime-focused smartphone use with lower temporal entropy correlated with greater depression improvement. JMIR Formative Research.
+
+**AI-generated lifestyle recommendations adoption**
+- Scoping review of 21 studies (81% published 2025-2026) mapping user acceptability and adoption of AI-generated lifestyle recommendations identified large language model-centered systems as most common (57.1%); research gap exists between measuring acceptability perceptions versus real-world adoption behaviors. Journal of Medical Internet Research.
+
+**Multimodal AI fairness evaluation gaps**
+- Systematic review identified critical fairness evaluation gaps in multimodal AI clinical decision support systems; of 160 articles examining fairness in CDS systems, only 11% used multimodal data; across 88 multimodal CDS studies on chest X-rays and sepsis, fairness evaluations appeared in 8% despite 83% including sensitive attribute data; 29 different fairness measurement techniques identified. NPJ Digital Medicine.
+
+**Multimodal AI for sleep disorder detection**
+- Researchers developed multimodal AI framework to detect REM sleep behavior disorder comorbid with major depressive disorder using video analysis of facial dynamics and speech features; 329-patient cohort, 80.5% accuracy, 261 video clips from 31 patients (19 MDD-RBD, 12 MDD-only controls); identified biomarkers including lower-face tension and brow lowering; predicted risk correlated with RBDQ score (r=0.53, p=0.005). NPJ Digital Medicine.
+
+**Heritage diet research initiative**
+- World Diet Initiative launched framework to document heritage diets and study biological effects on immunity, metabolism, and microbiome before dietary traditions disappear. Nature Medicine.
+
+**ALS therapeutic development**
+- Oligonucleotide-siRNA conjugate targeting SOD1 showed favorable safety profile in phase 1 trial of 6 SOD1-ALS patients with repeated administration. Nature Medicine.
+
+**Smartwatch acceptance for dialysis monitoring**
+- Multicentre pilot study evaluated smartwatch acceptance for haemodialysis patient monitoring; 137 participants (83 haemodialysis patients with chronic kidney disease, 54 nursing staff) demonstrated high acceptance levels of clinical smartwatch prototype; patients prioritised perceived ease of use while nursing staff weighted perceived usefulness more heavily; smartwatch measurements not clinically validated or integrated into workflow. Scientific Reports.
+
+**WHO immunization coverage data**
+- WHO and UNICEF released 2025 immunization coverage data: DTP first dose 90% (116 million infants), full three-dose series 85% (110 million infants); measles coverage MCV1 84%, MCV2 77%; 13.5 million zero-dose children; 57 countries reported large measles outbreaks in 2025; 100 of 195 countries maintained ≥90% DTP coverage since 2019. WHO-UNICEF.
+
+**Ebola outbreak escalates**
+- Ebola outbreak in Democratic Republic of Congo reached 2,011 confirmed cases with 754 deaths; health workers at Bunia General Hospital struck over unpaid compensation. STAT News.
+
+---
+
+## LIFE SCIENCES
+
+**Biotech innovation institute established**
+- Bar-Ilan University and Sheba Medical Center (Israel) established joint biotech innovation institute with $120 million investment to accelerate drug discovery and medical device development. Jewish Journal.
+
+**Obesity drug market differentiation**
+- Mwyngil Therapeutics, led by CEO Luba Greenwood, developed weight loss therapeutics targeting mechanisms other than GLP-1 receptor, positioning as differentiated player in obesity drug market. STAT News.
+
+**Hair loss therapeutic advancement**
+- Veradermics announced positive efficacy data from mid-stage trial of oral minoxidil for female pattern hair loss. Endpoints News.
+
+**Digital medical device regulatory trends**
+- Ministry of Food and Drug Safety (MFDS), Republic of Korea regulatory analysis of 1,556 clinical investigation plan approvals (2003–mid 2024) showed digital medical devices surpassed traditional devices in approval numbers for first time in 2023; digital devices: 68% pivotal clinical investigations; digital devices showed significantly shorter time from approval to marketing authorization; major categories: cognitive therapy and diagnostic assistance software. NPJ Digital Medicine.
+
+**Pathology AI tool deployment**
+- QIMR Berghofer (Queensland Institute of Medical Research Berghofer) trialling STimage, machine learning tool for pathology labs to identify cancer biomarkers in H&E-stained tissue slides with confidence scoring and explainability features. MobiHealthNews.
+
+---
+
+## REGIONAL DEVELOPMENTS
+
+**Germany**
+- German digital health application (DiGA) for erectile dysfunction conducted quasi-experimental study (n=470) evaluating inactivity-triggered support; SMS reminders increased active weeks from 5.79 to 6.80 weeks (P=.049 unadjusted) and telephone outreach increased intention to continue therapy from 38% to 49% (P=.04), though clinical outcomes showed no significant differences over 12 weeks. JMIR mHealth and uHealth.
