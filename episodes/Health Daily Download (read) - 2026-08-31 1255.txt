@@ -1,0 +1,51 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+
+---
+
+## UNITED STATES
+
+### DIGITAL HEALTH & AI
+
+- Mount Sinai Health System deployed Clearstep AI-driven self-triage integrated with Epic's MyMountSinai app, completing 60,000+ visits with 88-96% concordance with physician triage and zero safety incidents (NEJM Catalyst Innovations in Care Delivery)
+
+- FDA shifted regulatory stance to actively encourage continuous real-time data sharing in clinical trials, moving from theoretical concept to practical expectation in neurology drug development (MedCity News)
+
+- Medicare proposed banning remote monitoring vendors from providing services, requiring healthcare providers to manage RPM programs directly—a significant policy shift affecting the remote patient monitoring market (STAT News)
+
+- Eli Lilly partnered with Oura to integrate wearable ring technology with GLP-1 receptor agonist therapy monitoring for patients on obesity and diabetes treatments (Endpoints News)
+
+### LIFE SCIENCES
+
+- Eli Lilly's Zepbound (tirzepatide) study identified potential frailty signals in older adults, prompting enhanced monitoring recommendations as Medicare expands obesity therapy access (STAT News/Reuters)
+
+- Biogen's diranersen showed Phase 2 trial results with cognitive decline reduction comparable to approved Alzheimer's treatments, supporting progression to Phase 3 (STAT News)
+
+- Nava Therapeutics emerged with 89 million dollar Series B funding for next-generation lipid nanoparticles targeting bone marrow, immune cells, and kidneys (Endpoints News)
+
+### VENTURE & CORPORATE
+
+- Neko Health secured 700 million dollar Series C funding to enter U.S. market with planned New York City clinic opening (Fierce Healthcare)
+
+- Corner Health secured 32.5 million dollar in seed and Series A funding (Health Tech World)
+
+---
+
+## GLOBAL
+
+### LIFE SCIENCES
+
+- Insilico Medicine and Bora Pharmaceuticals launched joint venture AI-driven biologics manufacturing company to compete with Chinese CDMOs (Endpoints News)
+
+- Multi-omics analysis of pig-to-human extracorporeal liver cross-circulation published in Nature Medicine revealed immune activation, complement cascade dynamics, and thrombocytopenia mechanisms in xenotransplantation (Nature Medicine)
+
+- Phase 1b trial of IBC Pharmaceuticals' IBC-Ab002, short-lived anti-PD-L1 antibody for early Alzheimer's disease, demonstrated safety and tolerability with positive biomarker trends (Nature Medicine)
+
+- Ex vivo gene editing therapies targeting fetal hemoglobin reactivation showed positive efficacy in sickle cell disease and beta-thalassemia clinical trials across multiple completed trials (Nature Medicine)
+
+---
+
+## CORPORATE APPOINTMENTS
+
+- Outcomes Matter Innovations appointed Joseph H. Davi as board observer (AOL.com)
+
+- Ash appointed Jon Stout to Board of Directors and promoted Matt Benton to Chief Financial Officer (Business Wire)
