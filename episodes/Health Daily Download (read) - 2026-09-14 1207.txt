@@ -1,0 +1,143 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of July 15, 2026
+
+---
+
+## UNITED STATES
+
+### DIGITAL HEALTH & AI
+
+**Revenue Cycle & Utilization Review**
+- Mercy Health System deployed CareNow Navigator, an Epic-integrated AI triage tool in MyMercy patient portal, achieving nearly 100,000 visits booked within 10 months and generating $150 million in hard savings plus $600 million in soft savings from 300 deployed AI models. Healthcare IT News.
+
+- McKinsey published "Agentic AI and the race to a touchless revenue cycle" report documenting pilots of agentic AI in healthcare revenue cycle management moving into early production stages with potential 30-60% cost-to-collect reduction. Healthcare Finance News.
+
+- Michelle Mello at Stanford School of Medicine published Health Affairs analysis "The AI Arms Race In Health Insurance Utilization Review" documenting escalating AI deployment by payers in utilization review and providers in revenue cycle management. MobiHealthNews.
+
+- Centers for Medicare and Medicaid Services proposed regulatory ban preventing vendors from providing remote patient monitoring services on behalf of physicians; Medicare RPM payments reached over $500 million in 2024. STAT News.
+
+**AI Clinical Deployment**
+- OpenEvidence and Boston Children's Hospital launched multi-year research collaboration evaluating correlation between provider use of OpenEvidence's AI-powered medical copilot and clinical practice patterns; January 2025 Series D funding $250 million at $12 billion valuation with total raised approximately $700 million in 12 months; participants include Cedars-Sinai, Mount Sinai, Sutter Health, NewYork-Presbyterian, Columbia University, Weill Cornell Medicine. MobiHealthNews.
+
+- Lark Health and Samsung announced multi-year partnership integrating Lark's 12 AI-powered chronic disease management programs into Samsung Health with zero out-of-pocket costs for eligible Medicare beneficiaries; programs include CDC-recognized Medicare Diabetes Prevention Program; launch Q3 2026 and early 2027 with 400 million device footprint. Fierce Healthcare.
+
+- TytoCare closed $25 million-plus oversubscribed growth round led by Insight Partners with participation from OliveTree, HOOP, Qumra Capital, Qualcomm Ventures, and OrbiMed; appointed Adam Pellegrini as CEO and Greg Orr as COO; company operates 2,500+ schools across 31 states and received FDA De Novo classification in May for Tyto Insights for ENT Suite. MobiHealthNews.
+
+**Cybersecurity & Infrastructure**
+- White House announced Gold Eagle, government-wide cybersecurity initiative coordinated by federal agencies and open source software companies to detect and patch vulnerabilities across critical infrastructure using AI capabilities; coordinated by National Cyber Director Sean Cairncross, Department of Homeland Security Secretary Markwayne Mullin, Department of the Treasury, Cybersecurity and Infrastructure Security Agency (CISA); Microsoft and Google mentioned for prior rural healthcare security collaboration. Healthcare IT News.
+
+**Medical Devices & Diagnostics**
+- GE HealthCare secured $500 million contract to modernise imaging technology infrastructure across Long Island health system. Crain's Chicago Business.
+
+- Abbott Laboratories reported Q2 2024 diagnostics revenue of $3.09 billion (up 42% year-over-year) following $21 billion Exact Sciences acquisition; Cologuard colorectal cancer screening sales grew mid-teens; cancer diagnostics segment generated $919 million (up 13%); Cologuard Plus launched March 2024; Amulet 360 left atrial appendage device FDA submission pending; Volt pulsed field ablation catheter full US market release planned Q3 2024; dual glucose-ketone sensor received CE mark with international rollout planned fall 2024. MedTech Dive.
+
+---
+
+### HEALTH SYSTEMS & PAYERS
+
+**UnitedHealth Group & Optum**
+- UnitedHealth Group reported Q2 2024 earnings exceeding Wall Street expectations with net income spiking 62% to $5.5 billion on flat $112 billion revenue; raised 2026 adjusted earnings per share guidance to $19.50-$20.00 from previous $18.25+ forecast; UnitedHealthcare earnings rose 86% year-over-year to $3.9 billion; Medicare Advantage membership declined 965,000 in Q2; Optum Health reported $1.2 billion earnings (more than double consensus) by cutting unprofitable provider contracts and risk-based membership (700,000 value-based patient losses year-over-year); Optum division operating income grew 29% year-over-year to $4 billion on $65.7 billion revenue. Healthcare Dive.
+
+**Elevance Health**
+- Elevance Health announced exit from Washington, D.C. Medicaid market effective August 1, 2026, and plans to exit additional Medicaid markets within 12-18 months; Medicaid operating margin projected at negative 1.75% for 2026; D.C. contract covers 250,000 enrollees valued at $8.8 billion over five years; Q2 net income $1.5 billion (down 16% year-over-year); medical loss ratio 89.7%; membership losses 470,000 in Q2; CMS settlement $342 million refund for improperly supported Medicare Advantage claims. Healthcare Dive.
+
+- Federal judge in Georgia's northern district dismissed Blue Cross Blue Shield Healthcare Plan of Georgia (Elevance/Anthem) lawsuit against HaloMD and two provider groups; HaloMD, Team Health, SCP Health accounted for approximately 44% of Independent Dispute Resolution disputes H1 2025; judge ruled courts cannot second-guess arbiter decisions under No Surprises Act framework. Healthcare Dive.
+
+**Providence Health & Services**
+- Amanda Chawla appointed Chief Supply Chain Officer at Providence Health & Services effective August 24, 2026, replacing interim CSCO Allison Corry; Providence supply expenses surged 9% year-over-year to $5.3 billion in 2025 (from $4.9 billion in 2024); drug spending up 11%; medical supply costs up 9%; Providence reduced operating loss to $132 million in 2025 from $363 million in 2024. Healthcare Dive.
+
+**Mayo Clinic**
+- Whistleblower lawsuit filed against Mayo Clinic alleging health system forced out employee who raised concerns about unethical AI and technology deployment practices, specifically citing issues with consent and privacy procedures. STAT News.
+
+---
+
+### REGULATORY & POLICY
+
+**Medicare Reimbursement**
+- CMS released proposed Medicare reimbursement rule establishing physician payment changes effective 2027: 1.68% conversion factor drop for non-alternative payment model physicians; 1.19% for alternative payment model participants; 2.5% Medicare pay reduction due to Congressional reimbursement increase expiration; MSSP Level E shared savings rate increase from 50% to 60%; MIPS transition to MVPs by 2029. Healthcare Dive.
+
+**Public Health**
+- Global Burden of Disease study published in JAMA Cardiology reveals ischemic heart disease deaths in United States fell 53% from 1990 to 2023, yet 88.8% of 2023 deaths (419,000 of 473,000) remained preventable; smoking-related deaths down 33.3%; particulate air pollution deaths down 74.9% since 1990; body mass index increased 12.5%; blood glucose levels up 10.5% since 1990. STAT News.
+
+**Defense & Public Health**
+- Defense Secretary Pete Hegseth announced mandatory annual testosterone deficiency screenings for U.S. service members aged 30 and older with elective testing for younger personnel; Health Secretary Robert F. Kennedy Jr. and Admiral Brian Christine support the initiative; FDA recently revised testosterone product labels removing warnings about prostate cancer risk. STAT News.
+
+---
+
+### LIFE SCIENCES
+
+**Pharmaceutical M&A & Licensing**
+
+- Eli Lilly acquiring AtaiBeckley for $6.75 per share upfront ($2.8 billion equity value) plus contingent value rights up to $2.50 per share based on clinical milestones; total deal value approximately $3.8 billion; closing expected before end of September 2026; Lilly gains three experimental psychedelic programs including BPL-003 (mebufotenin analog) in late-stage testing for treatment-resistant depression, plus MDMA and DMT-based compounds; Johnson & Johnson's Spravato (ketamine) generated $1.1 billion in H1 2026 (up 43% year-over-year); Lilly has acquired 11 drugmakers in 2026. BioPharma Dive.
+
+- AstraZeneca agreed to acquire Zegfrovy (EGFR exon 20-targeted lung cancer) from Shanghai-based Dizal for $600 million upfront, potentially $1.5 billion total; Zegfrovy generated approximately $85 million 2025 sales; approved US and China for non-small cell lung cancer. BioPharma Dive.
+
+- Spero Therapeutics licensed IBI355 (anti-CD40L antibody) from China-based Innovent Biologics for immune disease treatment; Spero conducting Phase 2 in IgG4-related disease 2027; Innovent pursuing Sjögren's syndrome trials; deal worth up to $1.1 billion. BioPharma Dive.
+
+- Summit Therapeutics sold ridinilazole (C. difficile antibiotic) to Toronto-based Biossil for $500,000 guaranteed plus $104.5 million potential milestones; Summit refocusing on cancer immunotherapy ivonescimab. BioPharma Dive.
+
+**Regulatory Approvals**
+
+- Celcuity received FDA approval for Revtorpyk (breast cancer, ER-positive HER2-negative advanced, second-line) on July 15, 2026; VIKTORIA-1 trial showed 9.3-month median PFS versus 2 months for fulvestrant alone; commercial launch expected late Q3 2026; Celcuity shares fell 20% post-announcement. BioPharma Dive.
+
+**Earnings & Guidance**
+
+- Johnson & Johnson raised 2026 sales guidance to $100.8–$101.4 billion; innovative medicines division grew 6.8% Q2 2026 driven by Darzalex, Carvykti, Tremfya, Caplyta, Spravato; oncology underperformed (Erleada, Imbruvica missed expectations); shares fell 3%. BioPharma Dive.
+
+- J&J's Icotyde achieved 18,000 prescriptions in Q2 2026, first full quarter on market. Endpoints News.
+
+**Manufacturing & Operations**
+
+- Johnson & Johnson restructuring pharmaceutical manufacturing footprint at cost of up to $750 million. Endpoints News.
+
+**Strategic Investments**
+
+- Eli Lilly made equity investment in Oura, wearable ring manufacturer, to support patients taking company's GLP-1 drugs. Endpoints News.
+
+**Biotech Funding & IPOs**
+
+- Chai Discovery raised $400 million Series C led by Index Ventures, valuing AI drug discovery platform at $3.8 billion; partnerships with Pfizer, Eli Lilly, Novartis. BioPharma Dive.
+
+- Attovia Therapeutics and Braveheart Bio announced IPO plans July 15, 2026; Attovia (spun from Alamar Biosciences 2023) developing ATTO-1310 for IL-31 chronic pruritus and atopic dermatitis (Phase 1 ongoing, Phase 2 H1 2027), raised $256 million privately from Frazier Life Sciences, Alamar, venBio, Goldman Sachs, Deep Track Capital; Braveheart advancing BHB-1893 cardiac myosin inhibitor for hypertrophic cardiomyopathy licensed from Hengrui Pharma, raised $185 million Series A from Andreessen Horowitz and Forbion. BioPharma Dive.
+
+- AdvanCell raised $315 million Series D funding to advance lead-based prostate cancer therapeutic and expand US manufacturing capacity for radioactive treatments. Endpoints News.
+
+**Regulatory Settlements**
+
+- Glenmark Pharmaceuticals agreed to pay $29.6 million to settle price-fixing allegations from dozens of US states regarding generic medicines conspiracy; follows previous settlements by Lannett ($29.6 million), Bausch, Apotex, Heritage Pharmaceuticals totaling $67 million. STAT News.
+
+---
+
+### CLINICAL RESEARCH & INNOVATION
+
+**Neurotechnology**
+
+- Stanford University research team demonstrated first-in-human clinical trial of "double neural bypass" hybrid neuroprosthetic system over 3 plus years combining intracortical brain-computer interface with targeted spinal cord and cortical stimulation to restore hand movement and sensation in 42-year-old male with complete C4 sensory/C5 motor tetraplegia; 61% increase in right elbow flexion force within 15 weeks of transcutaneous spinal cord stimulation alone; 86% increase in right elbow flexion force over 35 weeks (13.25N baseline to 24.65N); 62% increase in left elbow flexion force over 35 weeks (24.03N baseline to 38.90N); participant achieved functional abilities including self-feeding and hand-to-face movement. Nature.
+
+**Genetic Research**
+
+- Hebrew University researchers published findings in Nature describing a new synthetic gene circuit platform reducing genetic complexity in human cells for disease detection and response, with proof-of-concept demonstrated using IL-15 in human embryonic kidney cells. Healthcare IT News.
+
+---
+
+## CHINA
+
+**Oncology Clinical Trials**
+
+- Kelun-Biotech announced Phase 3 results for sac-TMT (antibody-drug conjugate) combined with immunotherapy in locally advanced and metastatic non-squamous non-small cell lung cancer with low PD-L1 expression; statistically significant PFS improvement versus chemotherapy; first ADC to succeed in Phase 3 for this population with immunotherapy; Merck has 17 Phase 3 studies underway for sac-TMT across multiple cancer types. BioPharma Dive.
+
+---
+
+## CANADA
+
+**Emergency Medicine**
+
+- PHONE-CONNECT pilot distributed mobile phones to 309 marginalized emergency department patients (67.6% unhoused) across two Toronto emergency departments from November 2019 to May 2022, reducing mental health-related ED visits proportionally and lowering appointment no-show rates when paired with intensive case management. Canadian Journal of Emergency Medicine.
+
+---
+
+## UGANDA & DEMOCRATIC REPUBLIC OF CONGO
+
+**Infectious Disease**
+
+- World Health Organization formally inv
