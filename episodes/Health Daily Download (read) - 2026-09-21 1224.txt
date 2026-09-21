@@ -1,0 +1,92 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of July 14-21, 2026
+
+---
+
+## UNITED KINGDOM
+
+**Digital Health & AI**
+- University Hospitals Plymouth NHS Trust implementing electronic patient record system go-live this week (HTN Health Tech News)
+- Ashford and St. Peter's NHS Trust published strategy to 2031 prioritising EPR implementation, AI integration, patient prioritisation systems, and innovation initiatives (HTN Health Tech News)
+- Greater Manchester Integrated Care Board maintained nine-year rejection of Palantir's federated data platform, instead developing homegrown data infrastructure in partnership with UK universities, NHS clinicians, and domestic technology companies (The Guardian)
+- Craneware disclosed cyber attack resulting in theft of customer and staff data (Yahoo Finance UK)
+
+**Pharmaceuticals & Clinical**
+- NHS England approved dabrafenib tablet formulation for histiocytic neoplasms; approximately 200 patients per year will benefit (NHS England)
+- Imperial College London published 10-year NHS study showing focal therapy for prostate cancer achieves equivalent cancer control to surgery and radiotherapy with less than 50% side effect risk; UK government commits £2.8 million to expand focal therapy provision in England; 3,500 men studied, 2 deaths from prostate cancer, currently approximately 1,000 men per year receive treatment with potential for 15,000 to benefit (BBC News)
+- Fampridine approved for NHS England funding for multiple sclerosis; up to 5,000 eligible annually; 40% of patients showed improved walking speed and duration (BBC News)
+- UCL Live Well with Parkinson's toolkit randomised controlled trial published in The Lancet; 346 participants across NHS England sites showed no significant quality-of-life improvement but £1,282 lower annual healthcare costs and 99% cost-effectiveness at £20,000 per QALY threshold (The Lancet)
+
+**Public Health**
+- UK Health Security Agency evacuated and isolated healthcare worker with potential Ebola exposure from Democratic Republic of Congo at London specialist hospital; worker asymptomatic, being monitored throughout 2-21 day incubation period; no confirmed UK cases (The Guardian)
+
+**Policy & Regulation**
+- UK Health and Social Care Secretary Andy Burnham considering exempting hundreds of thousands of care workers from Home Secretary Shabana Mahmood's immigration settlement reforms requiring 15-year indefinite leave to remain (The Guardian)
+
+---
+
+## UNITED STATES
+
+**Digital Health & AI Infrastructure**
+- Catholic Health Partners partners with GE HealthCare to implement digital health solutions across its network (Digital Health News)
+- GE HealthCare secures $500 million contract to upgrade imaging technology infrastructure for Long Island health system (Modern Healthcare)
+- Catholic Health and GE HealthCare announced $500 million, 10-year technology partnership spanning imaging, clinical workflow, and data analytics solutions across Catholic Health's hospital network (LinkedIn Press)
+- DaVita implementing "Center Without Walls" connected care platform integrating clinical, operational, and patient-generated data with AI tools; generates over 1 billion data points annually from approximately 30 million treatments; 70% of patient population has three or more chronic conditions (Healthcare IT News)
+- OpenAI reports 10 million users of Codex and ChatGPT Work; ChatGPT for Healthcare deployed across 8 US health systems including HCA Healthcare, Cedars-Sinai Medical Center, Boston Children's Hospital, Stanford Medicine Children's Health, and Memorial Sloan Kettering Cancer Center (Healthcare IT News)
+- Digital Medicine Society (DiMe) launched "Operationalizing AI Governance in Healthcare" with 30 health systems including Mass General Brigham, Stanford Health, UPMC, Children's Nebraska, Louisiana Children's Medical Center Health and technology partners Qualified Health, Credo AI, Onboard AI, Intel, Ferrum Health; FDA and American Psychological Association participating; open-access governance tools expected within two months (Healthcare IT News)
+- Johns Hopkins Medicine benchmarking agentic AI agents found frontier AI agents completed only 28% of complex healthcare administrative tasks on first attempt with fewer than 8% maintaining consistent success across 25 healthcare applications and 77 tools (Healthcare IT News)
+- Nabla appoints Brian Manning, former President and Chief Revenue Officer at Bamboo Health, as CEO to lead scaling of AI clinical documentation platform (Healthcare Dive)
+- Assured Health closed $19 million Series A led by Insight Partners with First Round Capital and Kindred Ventures; total fundraising $25 million; AI provider credentialing platform; customers include Houston Methodist and Tono Health (MedCity News)
+- Anterior and Stellarus announced strategic partnership to automate prior authorizations using AI (Endpoints News)
+
+**AI & Drug Discovery**
+- Bristol Myers Squibb expanded three-year collaboration with NVIDIA to deploy two AI systems for drug development (BioPharma Dive)
+- Bristol Myers Squibb and NVIDIA expand AI infrastructure partnership with DGX SuperPOD deployment delivering 10x performance improvement for drug discovery; Eli Lilly investing up to $1 billion over five years in parallel NVIDIA AI co-innovation lab in San Francisco (MobiHealthNews)
+- Argenx partners with Chai Discovery for AI-enabled antibody drug discovery; Chai Discovery closes $400 million Series C funding round and announces Novartis collaboration (BiopharmaDive)
+- Hemispheric raised $52 million in early-stage funding led by OneMind/Awareness Capital, with participation from Protocol Labs, L Catterton, Hanaco Ventures, Arkin Capital; company launched Descartes, a six-billion-parameter foundation model trained on 250,000 hours of brain activity data; cofounded by Hagai Lalazar and Gidi Littwin; targeting FDA approval for CNS drug discovery and clinical diagnosis (MobiHealthNews)
+- Dimension closed $800 million Series III venture fund, bringing total AUM to $1.65 billion across 35 portfolio companies focused on AI-driven drug discovery; portfolio includes exits: Coefficient Labs acquired by Anthropic for $400 million, Odyssey Therapeutics IPO $279 million, Earendil Labs Series C $787 million (BiopharmaDive)
+
+**Healthtech Funding & M&A**
+- Neko Health raised $700 million funding to accelerate United States market presence (MedCity News)
+- Tempus acquiring Personalis for $1.5 billion enterprise value at $16.25 per share; Personalis Q2 2026 preliminary revenue $22.4 million; 10,384 clinical tests in Q2 representing 33% quarter-over-quarter growth (FierceBiotech)
+- Plazza healthtech startup raised $15 million in Series A funding to expand AI-driven pharmacy network operations (eHealth Magazine)
+- Karoo Health secured $16.2 million Series A funding to expand value-based cardiology platform; network spans 600+ cardiology providers across 11 US states with 40% reduction in ED visits and admissions and 10% reduction in total cost of care; lead investors Allumia Ventures and 7wire Ventures (FierceHealthcare)
+- Cardinal Health agreed to acquire AdaptHealth Corp's diabetes health business unit for $235 million and Strive Medical for undisclosed amount; AdaptHealth diabetes unit serves 225,000+ people annually, Strive Medical serves 20,000+ people annually (Healthcare Dive)
+- Abbott disclosed unauthorized access to internal systems within its cancer diagnostics business (Exact Sciences subsidiary, acquired for $21 billion in 2024) following cyberattack; no disruption to operations or product availability (MedTech Dive)
+
+**Regulatory & Policy**
+- Senate Democrats' measure to halt WISeR AI prior authorization pilot in original Medicare fails along party lines 46-50 (STAT News)
+- U.S. Senate voted 46-50 along party lines to preserve WISeR pilot program, defeating Democratic resolution to end AI-backed prior authorization experiment; CMS Innovation Center operates pilot in six states mandating prior authorization for skin and tissue substitutes and epidural steroid injections (Healthcare Dive)
+- Judge Brendan Hurson (Maryland District Court) issued temporary stay July 17, 2025, blocking eight CMS provisions scheduled for July 20 affecting ACA marketplaces, including expanded catastrophic coverage, tightened income verification, and increased out-of-pocket maximums; plaintiffs included Baltimore, Chicago, Columbus, Pima County, Doctors for America, Main Street Alliance, Democracy Forward (Healthcare Dive)
+- Trump administration HHS deferred $1.067 billion in Medicaid payments: $867.5 million to California, $199 million to Minnesota, citing suspected fraud and noncompliance; Health Secretary Robert F. Kennedy Jr. and CMS Administrator Dr. Mehmet Oz announced deferrals reversible with documentation; CMS flagged California home care program 24% spending growth over two years (STAT News/Healthcare Dive)
+- HRSA released 2025 data showing 340B drug discount program spending reached $100 billion, a 23% increase from 2024; Trump administration proposed slashing Medicare payment for 340B drugs by one-third beginning 2027; top drugs included Keytruda, Biktarvy, Darzalex Faspro; specialty drugs represented 38% of purchases but 62% of spending; 60,000+ entities participate in program (Healthcare Dive)
+- Defense Secretary Pete Hegseth announces testosterone deficiency screening policy for US military service members aged 30+ during annual physicals (STAT News)
+- 988 Suicide & Crisis Lifeline specialized LGBTQ+ youth services returning by year-end amid compliance concerns with executive order (STAT News)
+- American Medical Association releases National Physician Comparison Report showing aggregate physician burnout declined to 41.9% in 2025 from 48.2% in 2023; emergency medicine approaching 50%, obstetrics/gynecology, family medicine, radiology, and anesthesiology exceeding national average; physician replacement cost $500,000 to $1,000,000 per departure (MedCity News)
+- American Medical Association announced deployment of SNOMED CT to CPT terminology mappings to enable automated translation between clinical coding systems (Medical Buyer)
+- American Medical Association eliminating global bundled maternity payment codes effective end-2026, replacing with itemized fee-for-service billing; American College of Obstetricians and Gynecologists advocated change (STAT News)
+- FDA planning to announce permanent leadership appointments for Center for Drug Evaluation and Research and Center for Biologics Evaluation and Research concurrent with new FDA Commissioner nomination (Endpoints News)
+- FDA will complete review of Scholar Rock's apitegromab (spinal muscular atrophy) once Indiana fill-finish facility receives FDA sanction; FDA decision deadline September 30 (BioPharma Dive)
+- FDA advisory panel convening to decide whether compounding pharmacies can manufacture seven peptides currently restricted (STAT News)
+- Dexcom selected as first participant in FDA/CMS joint digital health technology pilot program to streamline regulatory pathways and reimbursement (Pharmaphorum)
+- White House Office of Science and Technology Policy, HHS, and FDA convening one-month expert sprint to establish consensus principles for benchmarking and evaluating clinical artificial intelligence systems (STAT News)
+- Public Citizen petitioned FDA to ban direct-to-consumer prescription drug advertising (STAT News)
+- ONC named nine EHIgnite Challenge phase one winners; competition designed to accelerate health information technology innovation and interoperability (TechTarget)
+
+**Pharmaceuticals & Clinical Trials**
+- Sonothera ultrasound gene therapy for Duchenne muscular dystrophy shows 290% increase in monkey calf muscle and nearly 4x dystrophin levels in preclinical studies (STAT News)
+- Keith Thomas patient regains hand and arm function and sensation through experimental brain-computer interface combined with spinal cord stimulator, with gains retained 2 years post-study; study published in Nature Medicine (STAT News)
+- Insmed reports positive open-label extension data for treprostinil palmitil inhalation powder in pulmonary arterial hypertension with 54-56 meter improvement on six-minute walk tests after one year; initiates Phase 3 trials (BiopharmaDive)
+- Eli Lilly's Phase 3 trial of retatrutide showed 22.6% weight loss at 80 weeks versus 3.2% placebo but failed to demonstrate statistically significant cardiovascular risk reduction in nearly 2,000 participants with severe obesity and heart disease (STAT News)
+- Eli Lilly's retatrutide demonstrated 22.6% weight loss over 80 weeks in 1,970 patients with severe obesity and heart disease versus 3.2% placebo, but showed no statistically significant cardiovascular benefit; Medicare launched 18-month pilot covering Novo Nordisk Wegovy, Eli Lilly Foundayo and Zepbound at $50 per month for beneficiaries 65+ (STAT News)
+- Novo Nordisk filed lawsuit against Eli Lilly alleging deceptive advertising regarding GLP-1 drug dose comparisons (Endpoints News)
+- LifeMD telehealth company pressured clinicians to increase patient volume and accelerate GLP-1 prescription issuance with minimal screening; five former employees and two former top leaders filed lawsuits alleging providers reviewed approximately 25 patient cases per hour based solely on electronic forms (STAT News)
+- International Foundation of Employee Benefit Plans research shows GLP-1 drugs for weight loss represented 11.4% of annual corporate claims in 2025 (up from 6.9% in 2023); only 36% of employers cover GLP-1s for weight loss; Gallup survey (5,065 adults, May-June 2026) found 11% currently use GLP-1s for weight loss; U.S. adult obesity rate fell to 36.4% in 2026 from 39.9% in 2022 (Healthcare Dive)
+- Agios Pharmaceuticals discontinued development of tebapivat for sickle cell disease following disappointing mid-stage trial results (BiopharmaDive)
+- Amgen submitted new FDA analysis supporting continued market authorization of Tavneos for C3 glomerulopathy and post-infectious glomerulonephritis (Endpoints News)
+- Silvia Luque appointed Head of US Marketing at Zealand Pharma after 13 years at Eli Lilly (Endpoints News)
+- Bexorg hires Chief Scientific Officer from Biohaven (Endpoints News)
+- Alembic Pharmaceuticals received FDA warning letter for failure to obtain informed consent from clinical study participants (Endpoints News)
+
+**Health System Operations & M&A**
+- AdventHealth and Intermountain Health signed letter of intent to form Denver-area joint venture combining five AdventHealth hospitals and three Intermountain hospitals with affiliated practices; AdventHealth to hold majority membership and operational control; definitive agreement expected within weeks, closure targeted early 2027 (Healthcare
