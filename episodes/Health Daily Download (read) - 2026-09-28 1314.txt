@@ -1,0 +1,153 @@
+# HEALTHCARE & LIFE SCIENCES BRIEFING
+## Week of July 2026
+
+---
+
+## UNITED KINGDOM
+
+**Respiratory AI Platform Expansion**
+TidalSense raised $19 million Series B funding from Cross-Border Impact Ventures, BGF, Airstream Capital, and Foresight Group to expand its N-Tidal Diagnose platform across Europe and prepare US market entry. The platform received Class IIa CE mark in March 2025 and has been deployed across NHS England, Wales, and Scotland since September 2025, with diagnostic models trained on 2.5 million patient breaths achieving over 90% accuracy. Mobihealthnews.
+
+**Emergency Contraception Access Expansion**
+NHS England expanded emergency contraceptive pills through high street pharmacies at no cost, supplying 304,800 doses between October 2025 and March 2026, while oral contraceptive consultations doubled from 50,000 to 115,000 over a 12-month period to February 2026. Fierce Healthcare.
+
+**Lung Transplant Preservation Technology**
+NICE recommended XVIVO perfusion system implementation across NHS transplant centres for four-year assessment. The machine preserves donated lungs at body temperature using plasma-mimicking fluid and could rescue approximately 4 in 5 unused lungs, addressing the current 77% discard rate. Newcastle upon Tyne Hospitals NHS Foundation Trust and British Transplantation Society are leading implementation for 170 patients including 6 children waiting for lung transplants. Fierce Healthcare.
+
+**Long COVID Treatment Trial Completion**
+STIMULATE-ICP phase 3 trial completed across 122 primary care networks in England with 1,152 participants through NHS England and Coverscan. All intervention arms showed fatigue improvement of 4.5 points from baseline 35.8, though multi-organ MRI and digital rehabilitation showed no significant additional benefit versus usual care. Nature Medicine.
+
+**Care Service Review Acceleration**
+Deputy Prime Minister Andy Burnham announced acceleration of Louise Casey's National Care Service review from 2028 to within 12 months, committing to backing Casey's recommendations 100 percent. The Guardian.
+
+**Life Expectancy Regional Disparities**
+King's Fund released provisional life expectancy data for England showing widening north-south divide in 2023-25, with regional disparities reaching 3 years between London and north-east, and 10 years between Blackpool and Hart, Hampshire. Overall life expectancy stands at 80 years for men and 84 years for women. The Guardian.
+
+**Cybersecurity Breach**
+Craneware plc, a UK healthtech firm, suffered a cyber attack stealing customer and staff data. The company is investigating the breach scope. Craneware.
+
+**Regulatory Innovation Platform**
+Psyomics secured an Innovate UK loan to expand its regulated platform across NHS trusts. Health Tech World.
+
+**Pharmaceutical Strategy Announcement**
+GlaxoSmithKline announced a three-year strategic plan focused on cost reduction and R&D acceleration under CEO Luke Miels, taking a £1.33 billion charge related to a cough trial failure. Endpoints News.
+
+---
+
+## UNITED STATES
+
+**AI Respiratory Diagnostics Deployment**
+Ardent Health Partners surpassed 1 million patient visits using ambient AI technology for automated clinical documentation. Fierce Healthcare.
+
+**Continuous Glucose Monitoring Monitoring Program**
+FDA named Dexcom as the first participant in the TEMPO program for post-market real-world performance monitoring of continuous glucose monitoring devices. Fierce Healthcare.
+
+**Measles Outbreak Escalation**
+The US surpassed 2025 measles record with 2,318 confirmed cases as of July 2026, exceeding 2,289 cases in 2025 and marking the worst year since 1991. Vaccination coverage has fallen below the 95 percent threshold, with large outbreaks in South Carolina, Utah, and Arizona. The Guardian.
+
+**Cyclospora Outbreak Response Criticism**
+Frank Yiannas, former FDA Deputy Commissioner, accused the Trump administration of catastrophic mismanagement of cyclospora outbreak response, with 4,000+ confirmed cases across nine US states and 7,400 potential cases under investigation. Politico.
+
+**Robotic Surgery System Clearance**
+Johnson & Johnson received FDA 510(k) clearance for the OTTAVA Robotic Surgical System, enabling market entry into the US robotic-assisted surgery market. Digital Health News.
+
+**Tempus AI Acquisition**
+Tempus AI acquired Personalis for $1.5 billion to combine clinical AI with genomic sequencing capabilities for oncology and rare disease applications. VatorNews.
+
+**Health AI Accelerator Launch**
+UCSF Health, Kleiner Perkins, and Doerr Capital launched a health AI accelerator program for early-stage health AI companies. VatorNews.
+
+**Revenue Cycle Management Funding**
+Candid Health raised $120 million Series C funding for its healthcare revenue cycle management and billing automation platform. VatorNews.
+
+**Behavioral Health Outcomes**
+Birches Health virtual behavioral health provider treated 1,305 adults with gambling disorder between June 2024 and April 2026, with 71.7 percent achieving clinically meaningful improvement in gambling symptom severity and median time to improvement of 14 days. JMIR Mental Health.
+
+**Medicaid Record Access Initiative**
+HealthEx and Thrive Mobile partnership enabled Medicaid members to access and share medical records directly via smartphone using secure QR codes, with pilot launch with first health-plan population and broader availability expected early 2027. Fierce Healthcare.
+
+**Operating Room Intelligence Platform**
+VitVio launched Vetro OR Intelligence Platform, a 3D-native AI operating room intelligence platform using multi-camera systems and computer vision for real-time spatial mapping. Fierce Healthcare.
+
+**Revenue Cycle Management Expansion**
+AdvancedMD expanded Waystar RCM capabilities including coverage detection, denial and appeal management, paper-to-electronic EOB conversion and analytics. Fierce Healthcare.
+
+**Mental Health Platform Partnerships**
+Headspace announced four specialty care partnerships with Charlie Health, Cortica, Prosper Health, and Equip for intensive outpatient programs, autism and neurodevelopmental evaluations, telehealth assessments and eating disorder treatment. Fierce Healthcare.
+
+**Health Plan Provider Trust Improvement**
+Aetna released survey results showing improved provider trust scores following mid-2024 strategic pivot. Morning Consult surveyed 723 provider executives, finding average trust score of 6.1 out of 10 (up from 5.4 out of 10 in Q1 2024), with 38 percent of providers rating health plans 8 out of 10 or higher. Fierce Healthcare.
+
+**Perinatal Care Coordination Platform**
+Ouma Health and Millennium Medical Group launched Perinatal Link, a digital health platform connecting community hospitals with perinatal specialists for maternal and neonatal care coordination. Digital Health News.
+
+**Talc Settlement**
+Johnson & Johnson will pay $5.5 billion settlement resolving approximately 76,000 ovarian cancer talc lawsuits, with initial $3 billion payment due 2027 and additional payments in 2028. Fierce Healthcare.
+
+**Youth Mental Healthcare Funding**
+Flourish Health secured $26 million funding to scale intensive youth mental healthcare services including virtual IOPs and crisis intervention. Fierce Healthcare.
+
+**Alcohol Use Disorder Treatment**
+Altimmune announced Phase 2 trial results showing its GLP-1 and glucagon agonist reduced drinking in patients with moderate-to-severe alcohol use disorder. Altimmune.
+
+**Sepsis Diagnostic Deployment**
+Prenosis deployed Sepsis ImmunoScore (FDA De Novo authorized 2024) at Sinai Hospital of Baltimore, part of LifeBridge Health. The tool tested and diagnosed 75 patients over six weeks, with LifeBridge planning expansion across five hospitals. Fierce Healthcare.
+
+**Stem Cell Deficiency Treatment Funding**
+Claris Biotherapeutics raised $118 million Series B led by Samsara BioCapital and Catalio Capital Management, appointing Stephen Brady as CEO and Brian Baum as chief commercial officer. The company will initiate Phase 3 testing for CSB-001 targeting limbal stem cell deficiency in early 2025. STAT News.
+
+**Endometriosis and PCOS Prevalence Data**
+CDC National Center for Health Statistics released 2022-2023 survey data showing 6.2 percent endometriosis diagnosis, 8.7 percent PCOS diagnosis, and 7.8 percent uterine fibroids diagnosis among US women ages 20-49, with PCOS diagnosis lowest in Black women at 4.4 percent. CDC.
+
+**Substance Use and Mental Health Survey**
+SAMHSA released 2025 National Survey on Drug Use and Health showing 56 percent of Americans 12 and older used tobacco, nicotine, alcohol or illicit drugs monthly, with 44 million having substance use disorder and 54.6 million adults (21 percent) having mental illness. SAMHSA.
+
+**Centene Financial Performance**
+Centene Corporation reports Q2 2026 profit of $1.1 billion (versus $253 million loss Q2 2025), raising full-year 2026 earnings guidance to at least $4.80 per share and revenue outlook to $193.5-$197.5 billion. Total membership reached 25.9 million with ACA marketplace enrollment of 3.5 million and medical loss ratio of 89.6 percent. Fierce Healthcare.
+
+**Boston Scientific Guidance Reduction**
+Boston Scientific cut 2026 guidance for second consecutive quarter, reducing net sales growth from 7-8.5 percent to 5.5-6.5 percent and adjusted EPS from $3.34-$3.41 to $3.28-$3.32 due to underperformance in electrophysiology and Watchman left atrial appendage closure devices. Watchman grew only 4.3 percent in Q2 2026 ($507 million) after 29.8 percent growth in 2025 ($1.96 billion annually). MedTech Dive.
+
+**Surgical Data Collection Modernization**
+American College of Surgeons announced collaboration with Arcadia to modernize surgical clinical data collection, connection, analysis and reporting across ACS quality programs and patient registries, connecting hundreds of hospitals and surgical centers. Nordic Capital acquired majority stake in Arcadia in July 2025. MobiHealthNews.
+
+**Biogen Financial Results**
+Biogen reported Q2 2026 revenue of $2.7 billion (3 percent year-over-year increase), beating analyst expectations. Leqembi sales reached $184 million (up 15 percent year-over-year), though company revised FY 2026 non-GAAP EPS guidance to $12-$13 (down from $15.85-$16.85 due to Apellis dilution). BioPharma Dive.
+
+**Medicare Advantage Subsidy Elimination**
+Trump administration decided to end subsidies for private Medicare drug plans (Medicare Advantage), expected to increase premiums for millions of older adults. STAT News.
+
+**Generic Drug Tariff Preparation**
+Teva Pharmaceutical Industries CEO Richard Francis stated the company believes it has sufficient time to prepare for tariffs on generic drugs manufactured outside the United States planned by Trump administration. Endpoints News.
+
+**FDA Advisory Committee Leadership Change**
+Neil Vasan (NYU) completed his term as acting chair of FDA's Oncologic Drugs Advisory Committee. Endpoints News.
+
+**Universal Health Services Guidance Revision**
+Universal Health Services downgraded 2026 financial guidance following Q2 results, citing higher-than-expected uninsured patient volumes. The company revised uncompensated care losses from $75 million to $85 million. Q2 profit reached $358 million on $4.6 billion revenue with adjusted EBITDA of $678 million, and revised 2026 adjusted EBITDA guidance to $2.61-$2.71 billion (down from $2.64-$2.79 billion). Healthcare Dive.
+
+**Humana Medicare Advantage Retreat**
+Humana announced it will exit Medicare Advantage plans in three fewer states and 194 fewer counties in 2026, impacting approximately 600,000 seniors (8 percent of its 7.2 million MA members). Q2 2026 revenue reached $40.9 billion (up 26 percent year-over-year) with Q2 profit of $694 million (up 27 percent year-over-year), though revised 2026 EPS guidance to at least $6.52 (down from $8.36). Healthcare Dive.
+
+**Wellstar Health System Workforce Reduction**
+Wellstar Health System laid off 761 corporate and administrative staff (2 percent of 35,000+ workforce). FY2026 operating margin reached 5.6 percent ($323.2 million operating income). Fierce Healthcare.
+
+**Supply Chain Price Inflation Forecast**
+Vizient released supply chain price inflation forecast: 3.39 percent overall inflation for 2027 (up 0.61 points), with IT hardware and software at 6.29 percent, IT security at 8.5 percent, specialty drugs at 4.04 percent, and self-administered drugs at 3.62 percent. Fierce Healthcare.
+
+**Biotech Merger and Financing**
+Caldera Therapeutics merged with Synlogic and secured $278 million concurrent private financing to advance CLD-423 for inflammatory disease (licensed from Qyuns Therapeutics), with Phase 1 data expected end-2026. BiopharmaDive.
+
+**BTK Inhibitor Acquisition**
+Vidya Therapeutics acquired by Processa Pharmaceuticals with $200 million concurrent private financing. VT-7208 (brain-penetrant BTK inhibitor) approaches Phase 2 for food allergies, chronic spontaneous urticaria, and relapsing multiple sclerosis. BiopharmaDive.
+
+**Angelman Syndrome Drug SPAC Listing**
+Oak Hill Bio going public via SPAC merger on Nasdaq (ticker OAKH) with $100 million concurrent private funding, developing rugonersen (antisense oligonucleotide) for Angelman syndrome licensed from Roche. BiopharmaDive.
+
+**Melanoma Therapy FDA Skepticism**
+Replimune stock fell 40 percent after FDA briefing documents expressed skepticism of RP1 melanoma therapy, with third approval attempt and advisory panel vote scheduled. BiopharmaDive.
+
+**Alzheimer's Treatment Safety Data**
+ProMIS Neurosciences interim safety data showed its Alzheimer's amyloid-targeting treatment with 4.4 percent total ARIA rate (all mild, asymptomatic), zero ARIA-E cases, and all adverse events ARIA-H. STAT News.
+
+**Alcohol Use Disorder
