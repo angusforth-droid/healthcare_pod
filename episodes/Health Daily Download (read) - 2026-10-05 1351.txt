@@ -1,0 +1,178 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of July 21-27, 2026
+
+---
+
+## UNITED STATES
+
+### DIGITAL HEALTH & AI
+
+- **WellSpan Health and Hippocratic AI** launched multi-year partnership to co-develop clinical AI agents for healthcare delivery workflows in Pennsylvania. Fierce Healthcare.
+
+- **Hippocratic AI** acquired Grove AI, a 2024-founded startup developing voice agent technology for clinical trial patient recruitment. MedCity News.
+
+- **Daffodil Health** launched AI-powered platform automating No Surprises Act dispute management, claims review, negotiations, and arbitration workflows for payers. MedCity News.
+
+- **Daffodil Health** launched second AI-powered platform managing Network Service Agreement disputes between payers and providers. Fierce Healthcare.
+
+- **Dario Health** launched integrated GLP-1 management platform combining telehealth, prescription services (semaglutide, tirzepatide), and patient monitoring. Fierce Healthcare.
+
+- **Amae Health** partnered with Google Health to integrate wearable device data into serious mental illness care delivery. Fierce Healthcare.
+
+- **Hinge Health** acquired Cylinder Health for 105 million dollars to expand digital musculoskeletal care platform into gastrointestinal care. Endpoints News.
+
+- **QuantHealth** secured 45 million dollars Series B funding for AI-powered clinical trial simulation platform predicting trial outcomes before patient enrollment. MedCity News.
+
+- **DeepHealth** received FDA clearance for AI tool reading breast ultrasounds and generating automated reports. Healthcare Dive.
+
+- **GE HealthCare** launched Invenia Automated Breast Ultrasound Prime system with integrated AI for supplemental breast cancer screening. MobiHealthNews.
+
+- **CMS** established centralized Office of Health Technology consolidating authority over AI governance, interoperability standards, and claims modernization across approximately 150 million Medicare and Medicaid beneficiaries. MarketScale.
+
+- **Prisma Health** field study evaluated AI-powered clinical decision support system for HIV care with 16 clinicians (March-September 2025); clinicians used familiar clinical indicators as cognitive anchors for AI predictions and identified social determinants of health as underrepresented in AI models. Journal of Medical Internet Research.
+
+- **New York City academic health system** study found clinical decision support systems exhibit disparities in alert distribution and provider response by patient race and sex, indicating both algorithmic and interpersonal bias. medRxiv preprint.
+
+- **Recovery Record** digital intervention platform identified three predictive psychological markers (eating preoccupation, shape/weight preoccupation, fear of losing control) for treatment response in 1,166 participants with bulimia nervosa or binge-eating disorder; 35.2 percent strong responders, 46.4 percent moderate responders, 18.4 percent non-responders. medRxiv preprint.
+
+- **Blaze.tech** secured 8.5 million dollars pre-seed funding to accelerate AI-powered healthcare application development. Global.
+
+- **Schrödinger** CEO Ramy Farid shifted strategy repositioning AI as complementary tool alongside traditional computational chemistry rather than replacement technology in drug discovery. STAT News.
+
+### REGULATORY & POLICY
+
+- **FDA advisory panel** voted 10-3 recommending approval of Replimune's RP1 engineered viral immunotherapy for advanced melanoma. STAT News.
+
+- **FDA** authorized MMI to expand feasibility trial enrollment for Symani robotic microsurgery system restoring lymphatic drainage in Alzheimer's disease patients. MedTech Dive.
+
+- **Samsung Galaxy Ring** received FDA clearance for sleep apnea risk detection feature, launching fall 2025. MobiHealthNews.
+
+- **Trump administration** revised 340B Drug Pricing Program pilot launching January 1, 2027, allowing pharmaceutical companies to provide timely rebates instead of upfront discounts to hospitals and clinics participating in Medicare Drug Price Negotiation Program rounds 1-2. STAT News.
+
+- **HRSA** activated mulligan program allowing 340B covered entities to challenge prior drug pricing determinations; 25 drugs identified as eligible for challenge, effective January 1. Fierce Healthcare.
+
+- **HRSA** renewed push to incorporate drug manufacturer rebates into 340B program pricing structure following failed 2024 attempt; hospital sector opposes. Healthcare Dive.
+
+- **CMS** finalized Inpatient Prospective Payment System rule with base pay increase below proposal but projecting hospital payments hundreds of millions of dollars higher than prior CMS estimate. US.
+
+- **Senate** confirmed Erica Schwartz as CDC director (51-44 vote), ending nearly 12-month vacancy. Endpoints News.
+
+- **Yvette Cooper**, UK Health Secretary, announced root-and-branch reform of maternity standards following multiple maternity scandals. The Guardian.
+
+### LIFE SCIENCES & PHARMA
+
+- **Ratio Therapeutics** closed 70 million dollars Series C funding led by Duquesne Family Office and Bristol Myers Squibb to advance radiopharmaceutical clinical trials. Endpoints News.
+
+- **Amgen** discontinued Phase 1 obesity candidate AMG-513. Endpoints News.
+
+- **Eli Lilly** Q2 2024 earnings beat analyst expectations with tirzepatide products (Mounjaro, Zepbound) accounting for 64 percent of revenue; raised full-year guidance. Endpoints News.
+
+- **Gilead Sciences** Yeztugo (lenacapavir) generated 232 million dollars in Q2 2024 sales, exceeding analyst consensus of 221 million dollars; HIV PrEP franchise exceeds 1 billion dollars. Endpoints News.
+
+- **Novo Nordisk** reported disappointing research results and missed sales targets for Wegovy oral formulation; Eli Lilly's injectable GLP-1 franchise (Mounjaro/Zepbound) exceeded analyst expectations. BiopharmaDive.
+
+- **Expedition Therapeutics** raised 115 million dollars Series B funding for COPD drug candidate sourced from China. BiopharmaDive.
+
+- **Arrowhead Pharmaceuticals** acquired a Priority Review Voucher for 215 million dollars, highest PRV price paid in 2024 to date. Endpoints News.
+
+- **Moderna** delayed norovirus vaccine efficacy readout due to insufficient natural infection events; expanding trial cohort. Endpoints News.
+
+- **Biotechnology companies** lobbying Trump administration to exclude rare disease drugs from Medicare GUARD pilot program; Thomas Hwang (Harvard Medical School) quantified impact as 71 percent reduction in potential savings if exemptions granted. STAT News.
+
+- **AstraZeneca** and Bristol Myers Squibb denied merger discussions contradicting Financial Times reporting; combined valuation would have been approximately 400 billion dollars. STAT News.
+
+### HEALTH SYSTEMS & OPERATIONS
+
+- **Siemens Healthineers** and Cleveland Clinic signed 10-year partnership for imaging and therapeutic technology supply and services. Healthcare Dive.
+
+- **Function Health** closed 450 million dollars growth financing round to scale tech-enabled preventive health platform. Fierce Healthcare.
+
+- **Datavant** conducting strategic review with JPMorgan Chase advising; potential sale, merger, or restructuring of US health data infrastructure company backed by NMC Health. Axios.
+
+- **Complete Health** settled Medicare Advantage fraud allegations with Department of Justice for 14 million dollars over false diagnosis coding submitted to CMS. Healthcare Dive.
+
+- **Sentara Health System** moves to end Anthem insurance contracts in Virginia. Healthcare Dive.
+
+- **Erlanger Health System** joining Prisma Health in Southeast regional consolidation. Fierce Healthcare.
+
+- **TruBridge** acquired; healthcare IT and revenue cycle management company. Fierce Healthcare.
+
+- **Boyd Street Capital** launched HealthTech Platform Fund II with 100 million dollars target for growth-stage healthcare technology investments. PR Newswire.
+
+### PUBLIC HEALTH
+
+- **CDC** expanded US cyclosporiasis outbreak to 15 states with two deaths confirmed in Michigan. Washington Post.
+
+---
+
+## GLOBAL (NON-UK)
+
+### DIGITAL HEALTH & AI
+
+- **H1** partnered with Novo Nordisk on AI models for drug discovery and clinical trial operations. MobiHealthNews.
+
+- **Pathos AI** acquired bispecific antibody-drug conjugate rights from Alphamab and partnered with AstraZeneca on protein degrader for cancer development using AI agents. MedCity News.
+
+- **WHOOP** integrated Natural Cycles fertility tracking technology into wearable platform for women's health monitoring. Global.
+
+- **Genie Health**, Singapore-based startup, launched personal health intelligence platform for consumers and healthcare providers. Singapore.
+
+- **German Heart Center Munich** validated CXR-Age model on 1,269 patients (751 surgical, 518 TAVI); biological age achieved AUC 0.874 for non-TAVI 30-day mortality versus EuroSCORE II 0.785 and AUC 0.952 for TAVI versus 0.745. European Heart Journal: Digital Health.
+
+- **Ten physicians** completed web-based LLM-driven simulation sessions for heart failure palliative care communication; knowledge improved plus 1.7 points, confidence plus 1.2 points. European Heart Journal: Digital Health.
+
+- **SMS intervention group** achieved 74.7 percent high adherence versus 32.7 percent controls in 300 schizophrenia outpatients over 24 weeks. Niger Med J.
+
+- **Machine learning forecasting** across China, Japan, North Korea and two unnamed East Asian countries; China's gout age-standardized disability rate projected to reach 9.3 per 100,000 by 2050; China's RA age-standardized prevalence rate predicted to peak at 131.9 per 100,000. Digital Health.
+
+- **Kaohsiung Medical University** evaluated sequential simulation-based clinical ethics education program for 38 clerkship students; post-intervention ethical knowledge, sensitivity, and decision-making improved across measured domains. Medical Teacher.
+
+### LIFE SCIENCES & PHARMA
+
+- **WHO** recommended lenacapavir (injectable PrEP) for expanded HIV prevention access; Gilead Sciences. The Guardian.
+
+- **Dronabinol** significantly reduced nightmare frequency and intensity versus placebo over 10 weeks in PTSD patients in randomized controlled trial. Nature Medicine.
+
+- **University of Washington** published Phase 1 trial results in Science Translational Medicine demonstrating fecal microbiota transplant capsules improved peanut allergen tolerance in 6 participants, with benefits sustained up to 4 months post-treatment. STAT News.
+
+- **WuXi AppTec** surpassed Lonza in six-month revenue for the first time, despite ongoing Pentagon scrutiny. Endpoints News.
+
+- **HuidaGene** halted communications for 15 months following presentation of early CRISPR gene therapy trial data for Duchenne muscular dystrophy at American Society for Gene and Cell Therapy annual convention; CEO Alvin Luk and CTO TJ Cradick departed. STAT News.
+
+- **Attovia Therapeutics** completed upsized IPO raising 289 million dollars to fund biologic development for immune disorders competing against Sanofi's. (Source incomplete in original data)
+
+### INFRASTRUCTURE & POLICY
+
+- **Hong Kong** established first PIC/S GMP-certified stem cell production facility at Hong Kong Science Park. Asia News Network.
+
+- **European Reference Network for Rare Eye Diseases** published clinical consensus statement on paediatric keratoconus diagnosis, treatment and follow-up care through structured Delphi process with multidisciplinary European expert panel. Ophthalmology and Therapy.
+
+- **Registrar General of India, National COVID Clinical Registry** documented 33.6 million COVID-19 cases and 450,000 deaths across India (March 2020–September 2021); economic loss 195.05 billion INR from mortality, 268.13 billion INR from work absenteeism. Frontiers in Public Health.
+
+- **Manisa City Hospital** (Turkey) retrospective analysis of 5,845 adult ICU patients (June 2024–November 2025) identified systemic barriers to deceased organ donation; 10 brain death cases identified (0.17 percent of ICU admissions), 20 percent organ donation rate. Experimental and Clinical Transplant.
+
+### PUBLIC HEALTH
+
+- **Ebola outbreak** in eastern Democratic Republic of Congo reached 3,802 confirmed cases and 1,707 deaths, fastest-growing outbreak on record. STAT News.
+
+- **Yuvraj Singh** invested in and joined founding team of AI healthtech startup founded by Deepak Sahni (founder of Healthians). Medical Dialogues.
+
+---
+
+## LIFE SCIENCES (RESEARCH & EVIDENCE)
+
+- **Researchers** developed MerMED-FM, a multimodal foundation model for medical imaging trained on 3.3 million plus images across 7 imaging modalities and 10 plus clinical specialties. The Lancet Digital Health.
+
+- **ADQI XXXV consensus conference** published structured recommendations for implementing evidence-based practices in acute kidney injury using implementation science methodology through five workgroups with greater than or equal to 80 percent agreement threshold. Clinical Journal of the American Society of Nephrology.
+
+- **Mixed-methods study** of PalliDoc Mobile app in two German adult specialized outpatient palliative care teams (25 healthcare professionals, March 2022-March 2025) identified 13 digitalization needs; voice control ranked highest priority; AI-assisted documentation raised concerns. JMIR Form Res.
+
+- **Systematic review** of 14 mixed-methods studies identified barriers and facilitators to digital health technology implementation for noncommunicable disease management in rural areas. Journal of Medical Internet Research.
+
+- **Qualitative study** of 2,523 inquiries to Mindhelper.dk (Denmark's digital mental health platform, March 2016–August 2023) identified 17 recurring mental health themes among youth; girls overrepresented. JMIR Human Factors.
+
+- **Participatory co-design** of Edge A-Eye indoor navigation platform for people with visual impairment completed May 2024–December 2025 in Canada involving 12 users with visual impairment, 2 vision rehabilitation specialists, 21 stakeholders; optimized iPhone compatibility, integrated hands-free navigation. JMIR Rehabilitation & Assistive Technology.
+
+- **Scoping review** of 13 studies (2015–2026, 5,596 participants) analyzing wearable devices for comorbid obstructive sleep apnea and hypertension across 9 countries found devices lack standardized reference standards and remain unsuitable for replacing standard diagnostic protocols. JMIR mHealth and uHealth.
+
+- **Systematic review and meta-analysis** of 10 studies (2020–2025) on large language models (GPT-3, GPT-4, ChatG
