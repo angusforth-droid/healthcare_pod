@@ -1,0 +1,140 @@
+# HEALTHCARE & LIFE SCIENCES NEWS BRIEFING
+**Week of August 2026**
+
+---
+
+## UNITED KINGDOM
+
+**Regulatory & Policy**
+
+- NHS England-funded randomized controlled trial of psilocybin-assisted therapy for treatment-resistant major depression (60 participants) showed significant symptom improvement versus placebo with good tolerability. Nature Medicine. August 6, 2026.
+
+- TidalSense raised £14 million to expand five-minute COPD diagnostic test across NHS trusts. FemtechWorld.
+
+- Semble raises £30 million Series B funding to expand connected healthcare platform. UKTN.
+
+- MHRA and NICE jointly exploring regulation of digital mental health technology through Wellcome-funded project; symposium convened to inform regulatory framework development for AI-enabled mental health tools. Digit Health.
+
+- Survey of NHS mental health trusts reveals 70% expect service reductions or closures, over 50% anticipate job losses, over two-thirds planning cuts. The Guardian.
+
+- Royal Devon University Healthcare NHS Foundation Trust suspended maternity services at North Devon District Hospital in Barnstaple due to unsafe staffing levels—consultant rotas 50% short, registrar rotas 40% short—forcing pregnant women to travel 1.5+ hours to Exeter or Taunton; 15,000+ signed petition opposing closure. The Guardian.
+
+- Clarke Carlisle appointed incoming chair of Mind (mental health charity); former Premier League footballer and PFA chair, currently business development executive at Betknowmore (gambling support charity); taking role September 2026. The Guardian.
+
+**Diagnostics & Technology**
+
+- University of Bath analysed 1,923 vapes confiscated from 114 English schools: 13% contained synthetic cannabinoid spice; Wedinos examined 297 cannabis-labelled samples (year to March 2025): 39% contained spice. The Guardian.
+
+---
+
+## GLOBAL (MULTI-COUNTRY & REGIONAL)
+
+**Life Sciences: Oncology & Immunology**
+
+- Roche/Genentech's obinutuzumab β met primary endpoint in BeInmost phase 3 trial for AQP4-IgG-seropositive neuromyelitis optica spectrum disorder, with 4.4% relapse rate versus 45.7% placebo (hazard ratio 0.069, P<0.0001) and 93.1% relative risk reduction over 52 weeks. Nature Medicine.
+
+- Novartis tisagenlecleucel (CD19 CAR T) demonstrated decade-long persistence in 38 adult patients with relapsed/refractory B-cell non-Hodgkin lymphoma, with CAR T cells detectable up to 10.1 years post-infusion in five of eight long-term responders and 10-year lymphoma-free survival of 32% (large B-cell lymphoma) and 47% (follicular lymphoma). Nature.
+
+- Meta-analysis of 42 studies (2018-2024) demonstrates FDA/CE-cleared AI systems for mammography screening achieve pooled AUC 0.89 (95% CI: 0.85-0.92), sensitivity 76.3%, specificity 89.6%; prospective workflow studies show non-inferior cancer detection with significant radiologist workload reduction. European Journal of Radiology.
+
+**Digital Health & AI**
+
+- Digital health interventions reduce heart failure hospitalizations by 27% and all-cause mortality by 14% in low- and middle-income countries; systematic review of 15 RCTs (n=4,568) across Brazil, China, Thailand published in European Heart Journal: Digital Health, August 2026.
+
+- CINEX (Clinical Information Extraction Reporting Guideline) published in Journal of the American Medical Informatics Association; 29-item consensus checklist for standardizing natural language processing and large language model studies in clinical settings, developed through 3-round Delphi process with 20 international experts.
+
+- Robotic total knee arthroplasty achieves 1.1-1.3mm mean absolute error in ligament gap assessment across 672 consecutive procedures and five surgeons. Journal of Robotic Surgery, August 2026.
+
+- OpenAI o4-mini and Google Gemini 2.5 Flash models classify COVID-19 vaccination stance from social media with 81.9% and 79.9% accuracy respectively, but show systematic reasoning failures in 14.9% of dual-misclassified tweets. Journal of Medical Systems, August 2026.
+
+- JARDIN project establishes consensus-based rare disease care pathway framework across 16 European countries through stakeholder workshops (216 participants) and Delphi survey (88 respondents), achieving 100% first-round consensus across seven domains. European Journal of Medical Genetics.
+
+- European Society of Endocrine Surgeons published consensus statements establishing standardized protocols for intraoperative nerve monitoring documentation, interpretation, and reporting in endocrine surgery, addressing substantial heterogeneity in current practice across European centers. British Journal of Surgery, August 2026.
+
+- Global access to different classes of diabetes medicines: a framework for targeted policy actions published by Emory University, Harvard T.H. Chan School of Public Health, University of Cape Town, Indian Council of Medical Research, Heidelberg University. Nature Medicine. 530 million individuals globally have type 2 diabetes; only 1 in 5 achieve glycemic control; economic losses estimated at $10.2 trillion (2020-2050).
+
+---
+
+## UNITED STATES
+
+**Digital Health & AI: Healthcare Systems**
+
+- UnityPoint Health (36-hospital system, Iowa/Illinois/Wisconsin) deploys three AI-driven administrative solutions: ambient scribing, real-time capacity tracking, and AI-powered chart review to reduce clinician administrative burden; Gregory Johnson (Chief Medical Informatics Officer) leads initiative. MedCity News.
+
+- Cleveland Clinic partners with Zipline for drone delivery of medications and supplies to patient homes. HealthcareITNews.
+
+- Millie, tech-enabled women's health company, joins UCSF Health Medical Foundation's clinically integrated network to expand coordinated maternity care; Millie and UCSF Health established clinically integrated care partnership with shared clinical protocols and EHR integration for maternity care coordination, leveraging UCSF's payer contracts for streamlined in-network referrals. MobiHealthNews/FierceHealthcare.
+
+- Atropos Health partners with Health Universe to integrate real-world data into clinical decision support workflow platform. MobiHealthNews.
+
+- Massive Bio designated OpenAI Select Partner within OpenAI Partner Network for oncology AI clinical trial matching. MobiHealthNews.
+
+- HealthSnap raises $25 million senior secured growth financing facility led by Eastward Capital Partners LLC for debt refinancing and AI innovation acceleration. MobiHealthNews.
+
+- Pathway Platform digital health tool improved measurement-based depression care in Illinois primary care: 19% of Pathway participants completed ≥2 PHQ-9 assessments versus 12% controls; PHQ-9 scores at 6 months median 6.5 versus 17.0 in controls. JMIR Form Res.
+
+- University of North Carolina at Chapel Hill conducting three-phase feasibility study of SARHAchat, an AI-enabled conversational health tool for sexual and reproductive health targeting rural young adults aged 18-25 in North and South Carolina; study funded February 2026, Phase 1 interviews underway with 14 enrolled participants, Phase 2 co-design sessions scheduled August-October 2026, Phase 3 pilot recruitment begins January 2027. JMIR Research Protocols, August 2026.
+
+- Lessons from deploying the ChatEHR system at Stanford Medicine. Stanford University School of Medicine, Stanford Healthcare, Nigam H. Shah, Niraj Sehgal, Euan A. Ashley, Michael A. Pfeffer. Deployment and pilot of ChatEHR large language model system in clinical settings; study documents lessons learned from real-world implementation. Nature Medicine.
+
+- UPMC and KLAS Research released study examining AI adoption trends in healthcare organizations and identifying governance barriers preventing wider implementation. Fierce Healthcare.
+
+**Digital Health & AI: Wearables & Monitoring**
+
+- Sighing dynamics identified as digital biomarker for anxiety in wearable respiratory monitoring study. Hexoskin smart shirt, 38 participants (15 with anxiety disorders, 23 healthy controls), 1,279 psychophysiological windows, 79.5% EMA completion rate. JMIR Formative Research. August 2026.
+
+- UK Biobank study published in Journal of Neural Transmission (August 2026) demonstrating wrist-worn accelerometer sensors detected gait abnormalities predictive of Parkinson's disease diagnosis up to 6.8 years before clinical diagnosis in 73,413 participants with 314 developing PD, using Watch Walk algorithm identifying five consistent gait biomarkers.
+
+- Study published in Journal of Vestibular Research (August 2026) assessing sociodemographic bias in 12 instruction-tuned large language models across 2,040,000 responses for emergency department dizziness cases finding Black transgender women received 12.2 percentage points lower mental health referral likelihood and Black patients experiencing homelessness received 9.1 percentage points lower referral likelihood.
+
+- Study published in JHEP Reports (August 2026) of 119 cirrhosis patients using Oura Ring wearable technology analyzing 12,516 sleep episodes over 6 months finding Sleep Regularity Index was strongest mediator (49.9% mediation effect) linking liver disease severity to quality of life impairment.
+
+- Wearable device safety study in eating disorder populations; 30 adults with binge-spectrum eating disorders wearing consumer-grade activity trackers for 28 days showed decreased ED symptoms, not increased; maladaptive exercise episodes reduced by 26.43 episodes (p<0.001); loss-of-control eating episodes decreased (OR=0.96, p=0.014); dietary restraint episodes declined by 7.97 episodes (p=0.001). Digital Health, August 2026.
+
+**Life Sciences: Regulatory Approvals**
+
+- FDA approves Moderna's mRNA influenza vaccine (mFlusiva, first mRNA flu shot licensed), marking expansion of messenger RNA platform beyond COVID-19 for older adult population; approval follows February 2024 refusal-to-file notice that was reversed one week later after public disclosure. STAT News.
+
+- FDA approved mFlusiva, first mRNA seasonal influenza vaccine, following unanimous advisory committee recommendations (9-0 votes) in June 2026 for adults aged 50-64 and 65+; HHS cancelled 22 mRNA vaccine projects worth approximately $500 million on August 5, 2025. STAT News.
+
+- Moderna receives FDA approval for mFLUSIVA mRNA influenza vaccine; CDC ACIP recommendation status remains uncertain pending resolution of litigation preventing committee convening. MedCity News.
+
+- Replimune received FDA approval for Tudriqev (RP1) for melanoma. BiopharmaDive.
+
+- FDA approves Replimune's RP1 (Tudriqev) for advanced melanoma after two previous rejections; accelerated approval granted despite FDA staff concerns about trial design. STAT News.
+
+- Replimune's oncolytic immunotherapy Tudriqev received FDA accelerated approval for advanced melanoma despite staff concerns about trial design; Replimune (biotech), FDA. STAT News.
+
+- FDA granted accelerated approval to Replimune's Tudriqev (oncolytic viral therapy) for advanced melanoma, breaking Iovance Biotherapeutics' monopoly in indication; approval followed initial rejection and resubmission within four months. MedCity News.
+
+**Life Sciences: Clinical Trials & Development**
+
+- Revolution Medicines prepares for FDA and European regulatory decisions on daraxonrasib for metastatic pancreatic cancer; company characterizes therapy as arguably the biopharma industry's most highly anticipated experimental therapy. Endpoints News.
+
+- LifeMine Therapeutics raises $263 million across venture rounds including previously undisclosed $75 million Series D to advance clinical development of novel immunosuppressant positioned as safer alternative to existing transplant rejection therapies. Endpoints News.
+
+- Vedanta Biosciences secures $60 million funding to complete Phase 3 trial of microbiome therapy for C. difficile infection. Endpoints News.
+
+- Tenax Therapeutics Phase 3 study results for oral pulmonary arterial hypertension treatment expected later August 2026. STAT News.
+
+- Phase 1 trial of intracranial B7-H3-targeting CAR-T cell therapy for recurrent glioblastoma demonstrated no dose-limiting toxicity with encouraging clinical benefit signals. Nature Medicine. August 6, 2026.
+
+- Sarepta Therapeutics delays Phase 3 non-ambulatory Elevidys readout; 12-week data now expected later than previously guided year-end timeline. Endpoints News.
+
+- BioMarin discontinued BMN401 development for ENPP1 deficiency following mixed Phase 3 trial results. Endpoints News.
+
+- FDA sets advisory panel for Galleri multicancer screening test. MedTech Dive. September 2025.
+
+- FDA advisory committee meeting scheduled for September to review Grail's early cancer detection blood test following failure to meet primary efficacy endpoint in large UK randomized trial. Endpoints News.
+
+**Life Sciences: M&A & Funding**
+
+- Latigo Biotherapeutics raised $346 million in Nasdaq IPO (ticker: LTGO) to advance LTG-001, a non-opioid pain drug showing 52-minute pain relief onset in Phase 2b versus 83 minutes for opioids, with Phase 3 planned; competitor BlossomHill Therapeutics raised $150 million (ticker: BLSM) for EGFR-mutant lung cancer and AML programs. MedCity News.
+
+- Braveheart Bio raised $382.5 million in Nasdaq IPO (expanded to $439.9 million with options) for BHB-1893, an oral myosin inhibitor licensed from Hengrui Pharma for obstructive hypertrophic cardiomyopathy, with Phase 3 trials starting H2 2026 for obstructive HCM and H1 2027 for non-obstructive HCM; stock closed at $30 versus $18 offering price. MedCity News.
+
+- Hinge Health acquired Cylinder Health for $105 million to expand from musculoskeletal into gastrointestinal disease management, with integrated GI program launching summer 2027; Cylinder has treated 150,000+ people and GI conditions drive $135 billion annual U.S. medical spend. MobiHealthNews/Axios.
+
+- Tarsus Pharmaceuticals acquires Alkeus Pharmaceuticals for $450 million upfront cash to expand ophthalmology pipeline with Phase 3-stage assets. Endpoints News.
+
+- Custom
