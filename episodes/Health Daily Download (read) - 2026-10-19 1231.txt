@@ -1,0 +1,117 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of August 12-18, 2026
+
+---
+
+## UNITED KINGDOM
+
+**Regulatory & Policy**
+- Eli Lilly's Foundayo (orforglipron) received MHRA approval as first European daily oral GLP-1 for obesity and type 2 diabetes; available privately immediately with NHS availability pending NICE evaluation. BBC News.
+
+- NHS England North West expanded mobile cervical screening buses to Lancashire, South Cumbria, and Greater Manchester; 2,700+ women screened across north-west with screening rates fallen to 69% (down 8 percentage points since 2014) and 4 million women in England not up to date. The Guardian.
+
+- UK government established National Maternity and Neonatal Taskforce chaired by Yvette Cooper to implement Amos and Ockenden inquiry recommendations; maternal death rate 20% higher in 2022-2024 than 2009-2011 with caesarean section rates rising from 27% to 45%. The Guardian.
+
+- Hysteroscopy Action campaign secured inclusion in April 2024 Women's Health Strategy requiring informed consent and pain relief choice in outpatient hysteroscopy; 71,000 procedures performed annually in England with 35% of women reporting severe pain (7+/10) versus 2/10 under conscious sedation. The Guardian.
+
+- NHS Blood and Transplant transmitted patient data via unencrypted pagers; NHS England acknowledged breach. BBC News.
+
+---
+
+## UNITED STATES
+
+### DIGITAL HEALTH & AI INFRASTRUCTURE
+
+**Clinical Documentation & Workflow Automation**
+- Ascension Health System expanded AI-powered clinical documentation into post-visit administrative tasks including order entry, billing, and coding; nursing handoff report generation reduced from 60-90 minutes to minutes using AI summarization. MedCity News.
+
+- Doximity reported fiscal 2027 Q1 earnings with 165 health systems as AI clients including Northwestern, Penn Medicine, and University of Michigan; Q1 revenue $156.6 million (up 7% year-over-year); AI prompt volume up 25% quarter-on-quarter and Scribe users grew 10x year-over-year. CNBC.
+
+- PointClickCare launched Vox Advantage, an ambient AI solution natively integrated into its senior care EHR platform for automated clinical documentation. PR Newswire.
+
+- NYU Langone Health and Dana-Farber Cancer Institute launched Solavia Decision Suite, digital oncology clinical decision support tool, commercially available to other health systems following June 2024 pilot. Healthcare Dive.
+
+- Oracle Health launched AI-driven patient portal to general availability in U.S., built on OpenAI foundation models, integrating with Oracle EHR; enables medical record review, provider engagement, appointment scheduling, and AI-generated explanations of diagnoses and lab results with guardrails preventing medical advice. Healthcare Dive.
+
+**Claims & Administrative Automation**
+- Aetna (CVS Health insurance arm) deploying agentic AI across insurance workflows with explicit policy against automated claim denials; AI agents aggregate patient data from multiple EHRs for care management nurses, enabling 90 minutes per day time savings for 12,000+ nurses; 84% of providers surveyed believe AI/agentic AI advances will improve outcomes. MedCity Pivot Podcast.
+
+- Cotiviti published strategic guidance on shifting home health fraud prevention from retrospective audits to proactive prepayment strategies using AI-backed analytics, automated claims-editing, and cross-payer data aggregation. MedCity News.
+
+- Cotiviti launched Proactive COB, an AI-powered coordination of benefits solution identifying multiple insurance plans at member enrollment rather than post-claim, with general availability planned for Q1 2025. MedCity News.
+
+- Assort Health launched Referrals, an AI agent automating patient referral processing, eligibility verification, and provider matching; achieves 79% referral-to-appointment conversion, automates 87% of referrals end-to-end, identifies better-fit providers in 50% of cases; raised $120 million Series C in June 2026 at $1.2 billion valuation; works with Center for Sports Medicine & Orthopaedics (Chattanooga) and several hundred customers. Fierce Healthcare.
+
+**Regulatory Automation & Compliance**
+- Doctronic completed seven-month pilot with Utah Office of AI Policy deploying AI system for automated prescription refills under Utah's regulatory relief program; Phase one results: AI recommended renewals in 72% of cases with 91% physician agreement; 191 commonly prescribed drugs in initial formulary. Fierce Healthcare.
+
+**AI Infrastructure & Partnerships**
+- Bristol Myers Squibb announced expanded partnership with Nvidia to deploy supercomputer infrastructure with DGX SuperPOD and DGX Vera Rubin NVL72 systems delivering 10x greater performance per megawatt; expected deployment Q1 2027. BiopharmaDive.
+
+- Dell Technologies announced partnerships with Eli Lilly & Company for AI drug development acceleration, Beth Israel Lahey Health for precision medicine research computing, University of Pittsburgh Department of Pathology for Computational Pathology and AI Center of Excellence, DispatchHealth for home-based hospital-level care across 20+ U.S. states with projected $1.5 million cost savings over three years, and Boston Children's Hospital for COACH Internship Program providing 90 paid internships. MedTech Dive.
+
+- Coalition for Health AI established Health AI Cybersecurity Work Group comprising nearly 100 industry leaders including Anthropic, OpenAI, Health-ISAC, Censinet, Delaware Valley Community Health, Joint Commission meeting biweekly to develop cybersecurity playbooks and frontier AI cyber-risk assessment tool; deliverables targeted for end-2026; approximately 2,000 practitioners in parallel CHAI generative AI public health initiative. Healthcare IT News.
+
+- OpenAI Foundation committed $100 million to Common Health Coalition's "Breakthroughs to Follow-Through" initiative deploying generative AI tools to improve hepatitis C treatment delivery; initial funding deployed to four states (Alabama, Illinois, Louisiana, Massachusetts); expansion to eight jurisdictions planned within six months; goal to double cure rates in participating jurisdictions within two years; 100,000 academic researchers gaining free access to OpenAI tools through 2027. MobiHealthNews.
+
+**AI Model Performance & Safety**
+- Comparative accuracy study of ten large language models (ChatGPT, Claude, Gemini, DeepSeek, Copilot, Perplexity AI, Meta AI) evaluating inhaler technique counselling for asthma and COPD across ten devices; paid tiers significantly outperformed free tiers with critical errors reduced 24-fold (0.48 to 0.02); Google AI Pro achieved highest accuracy (4.98 ± 0.13); study conducted March 10-17, 2026. Digital Health.
+
+- Scoping review of 201 studies examining large language models for mental health prediction found 81.6% mention bias or clinical utility but only 20.4% address at least 3 of 5 pipeline stages, with majority focusing on depression detection via social media text analysis. JMIR AI.
+
+**Cybersecurity & Data Breaches**
+- University of California San Diego Center for Healthcare Cybersecurity presented findings at DEF CON showing 2021 San Diego ransomware attack on four hospitals caused 48% increase in median waiting-room times, 128% increase in patients leaving without being seen, 50% increase in patients advised to stay who left anyway; 2024 study showed worse cardiac arrest outcomes at hospitals near ransomware-affected facilities; Change Healthcare processed approximately 50% of all U.S. medical claims before its ransomware attack. Healthcare Dive.
+
+- Cook Medical disclosed July 2 cybersecurity incident where employee was deceived by social engineering, inadvertently granting outside parties access to company systems; exposed data included U.S. and Canadian customer contact information, Salesforce communication records, internal business files, employee names, and company email addresses; no evidence of sensitive or protected data access. MedTech Dive.
+
+---
+
+### LIFE SCIENCES & PHARMACEUTICALS
+
+**Oncology**
+- Bristol Myers Squibb granted accelerated approval for iberdomide (Zenbexus) for relapsed or refractory multiple myeloma; 41% achieved MRD-negative status versus 21% with comparator; monthly price $28,000. Endpoints News, MedCity News.
+
+- Akeso Biopharma completed Phase 2 trial of ivonescimab (PD-1/VEGF bispecific antibody) plus paclitaxel/nab-paclitaxel as first-line treatment for advanced triple-negative breast cancer across seven Chinese institutions; 35 evaluable patients achieved 80.0% objective response rate (95% CI: 63.1–91.6) with 58.3% Grade ≥3 adverse events and zero treatment-related deaths. Nature Medicine.
+
+- Tim Donahue and colleagues at UCLA analyzed National Cancer Database records examining diagnostic-to-treatment delays across 2.7 million cancer patients (2012-2023), finding consistent increases in wait times across all six cancer types studied. STAT News.
+
+**Cardiovascular & Metabolic**
+- Tenax Therapeutics reported negative Phase 3 trial results for levosimendag in pulmonary arterial hypertension; LEVEL study failed primary efficacy endpoint with 14 meters improvement versus 10.4 meters placebo; stock fell 84%. STAT News.
+
+- Definium Therapeutics announced positive Phase 3 trial results for DT120, its pharmaceutical-grade LSD candidate in generalized anxiety disorder, reducing anxiety scores by an average of 11.6 points on a 56-point scale at 12 weeks post-single dose, 5.4 points above placebo. BiopharmaDive.
+
+- Definium Therapeutics announced oral LSD candidate met primary endpoints in first of two planned Phase 3 trials for generalized anxiety disorder. Endpoints News.
+
+- Vogenx completed $81 million initial public offering on Nasdaq (ticker: VOGX) on August 12, pricing 6.25 million shares at $13 each, to advance mizagliflozin (oral SGLT1 inhibitor in-licensed from Kissei Pharmaceuticals) for post-bariatric hypoglycemia with Phase 2b testing planned and preliminary results expected in 2027. MedCity News.
+
+- Aetna analysis shows value-based care outperformed fee-for-service on 17 of 20 Medicare Advantage measures in 2023, with 43% higher HbA1C control, 34% higher blood pressure control, 20% higher colorectal cancer screening, 7% fewer hospitalizations, and $315 million in cost savings. Fierce Healthcare.
+
+- Massachusetts General Hospital/Mass General Brigham Health Care System published SAIL study results (June 2023–September 2024): 75 enrolled patients in remote pharmacist- and navigator-led obesity medication management program; researchers include John W Ostrominski, Kavishwar B Wagholikar, Christopher P Cannon, Caroline M Apovian, Benjamin M Scirica; pharmaceutical company disclosures: Novo Nordisk, Eli Lilly, Pfizer, Boehringer Ingelheim, Merck, AstraZeneca, Bristol Myers-Squibb. Obesity Science & Practice.
+
+**Rare Disease & Gene Therapy**
+- Jazz Pharmaceuticals acquiring Actio Biosciences for $820 million upfront plus up to $500 million in milestone payments for ABS-1230, experimental KCNT1-related epilepsy treatment affecting approximately 2,500 U.S. patients. Endpoints News.
+
+- PTC Therapeutics won bankruptcy auction for Sangamo Therapeutics' gene therapy ST-920 (isaralgagene civaparvovec) treating Fabry disease with $111 million upfront bid plus up to $100 million in milestone payments; rolling FDA submission expected Q4 2024; potential launch 2027; approximately 11,000 U.S. Fabry patients. MedCity News.
+
+- Scribe Therapeutics completed initial public offering, first in vivo gene editing company IPO in over two years, raising capital below 2024 median levels after eight years of development on $150 million in funding; lead program targets high cholesterol via epigenetic gene silencing. BioPharma Dive.
+
+- Perceptive Advisors-backed NewCo acquired epilepsy drug candidate from Ovid Therapeutics and Takeda Pharmaceutical after two failed Phase 3 trials approximately 26 months prior. Endpoints News.
+
+**Hematology & Immunology**
+- Silence Therapeutics announced Phase 2 trial results for divesiran in polycythemia vera: 88% clinical response rate (divesiran every 6 or 12 weeks) versus 19% placebo in 48-patient trial. STAT News.
+
+- Silence Therapeutics' divesiran achieved 69% placebo-adjusted response rate in polycythemia vera Phase 2 trial; company raised $175 million in upfront funding. Endpoints News.
+
+- Droplet digital PCR demonstrated superior sensitivity to multiparameter flow cytometry for measurable residual disease monitoring in paediatric fusion gene-positive acute myeloid leukaemia across 116 patients, with ddPCR showing 91.7% five-year event-free survival at MRD <1% versus 41.0% at MRD ≥1% (p<0.001). British Journal of Haematology.
+
+**Supply Chain & Manufacturing**
+- Sanofi issued supply shortage alerts for Myozyme and Nexviazyme (Pompe disease treatments) in U.S. and Europe following FDA warning about manufacturing issues at Waterford, Ireland facility; bottleneck in final manufacturing phase and quality control issues cited. Pharmalot/STAT News.
+
+- FDA rejected ITM Isotope Technologies Munich SE's ITM-11 radiopharmaceutical therapy due to manufacturing defects; candidate showed 23.9 months median progression-free survival in GEP-NET patients versus 14.1 months for everolimus. STAT News.
+
+- EMA withdrew Amgen's Tavneos (iptacopan) from European market following identification of "incorrect and misleading" data in regulatory submission. Endpoints News.
+
+**Safety & Adverse Events**
+- Neurocrine Biosciences' Vykat XR (Prader-Willi syndrome, FDA approved March 2025) linked to 7 patient deaths and 100+ serious adverse events per physician safety alert. STAT News.
+
+- Sionna Therapeutics announced Phase 2 trial failure for SION-719 cystic fibrosis pill as add-on to Vertex's Trikafta; company discontinuing development and implementing cost-preservation measures; stock fell 90%. STAT News.
