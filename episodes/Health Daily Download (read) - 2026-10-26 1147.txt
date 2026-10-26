@@ -1,0 +1,144 @@
+# HEALTHCARE AND LIFE SCIENCES NEWS BRIEFING
+## Week of [Current Week]
+
+---
+
+## UNITED KINGDOM
+
+**Regulatory & Policy**
+- MHRA published guidance clarifying when AI-powered clinical documentation tools become regulated medical devices under Advanced Technology framework, establishing clearer classification thresholds for vendors. Burges Salmon.
+
+- NHS England opened national booking system for flu vaccinations ahead of 1 September rollout, enabling centralized patient scheduling across all regions. NHS England.
+
+- NICE recommended Onswik (Eli Lilly weekly insulin injection) for NHS use in England pending MHRA final approval, reducing annual injections by 86% versus daily alternatives. BBC News.
+
+**Clinical & Public Health**
+- Royal College of Paediatrics and Child Health published systematic review in Archives of Disease in Childhood analyzing 81 studies linking vaping to wheezing, coughing, poor oral/dental health, poor sleep, mental health problems, and eye symptoms, with 19% of UK 11-17 year-olds having tried vaping. BBC News.
+
+- UK government published action plan for unpaid carers in July 2026 identifying 130,000 young carers officially recorded in England and Wales and estimated 1 million carers under 18. BBC News.
+
+- Meta's Ray-Ban AI glasses generating privacy concerns in clinical settings after reported doctor recording patient; already banned in English and Welsh courts. Meta, Ray-Ban.
+
+**Health IT & Digital Health**
+- Radar Healthcare and Cemplicity partnership integrates platforms for NHS quality and patient experience management. Distilled Post.
+
+---
+
+## GLOBAL
+
+**Life Sciences - Drug Development**
+- Argenx announced Phase 3 primary endpoint achievement for Vyvgart Hytrulo in autoimmune myasthenia gravis with 15.4-point greater mean improvement versus placebo on Total Improvement Score at 52 weeks. Endpoints News.
+
+- Merck and Moderna announced Phase 3 trial results for personalized mRNA cancer vaccine combined with Keytruda demonstrating efficacy in slowing melanoma recurrence and metastasis. STAT News.
+
+- Summit Therapeutics and Akeso received regulatory approval in China for ivonescimab (PD-1×VEGF bispecific antibody) for first-line lung cancer treatment. Endpoints News.
+
+- Roche signs exclusive licensing deal with Hanmi Pharm for HM17321, urocortin 2 analog obesity drug: 190 million dollars upfront plus up to 2.3 billion dollars in milestone payments plus royalties; Hanmi completes Phase 1, Roche assumes development outside South Korea. BioPharma Dive.
+
+- GSK and Ionis Pharmaceuticals' Hibsago (antisense oligonucleotide) approved by Japanese regulators for chronic hepatitis B with potential functional cure. BioPharma Dive.
+
+- PwC released market analysis projecting women's oncology sector growth from 65-75 billion dollars (current) to 100-110 billion dollars by 2030; ovarian cancer receives 43,000 dollars NIH funding per death versus 70,000 dollars for breast cancer. FierceHealthcare.
+
+**Life Sciences - Infectious Disease**
+- Merck deployed 70,000 doses Ervebo Ebola vaccine in DRC (20,000 clinical trial, 50,000 frontline workers) as outbreak reached 5,200+ confirmed cases and 2,476 deaths. Merck, Coalition for Epidemic Preparedness Innovations, DRC government.
+
+- FDA Emergency Investigational New Drug authorization granted for MBP134 (monoclonal antibody) combined with remdesivir to treat 39-year-old US healthcare worker with Bundibugyo virus infection; patient achieved full recovery with undetectable viral RNA by day 13; 4,449 confirmed BDBV cases and 2,069 deaths reported as of August 12, 2026. Nature Medicine.
+
+- Five family members (one vaccinated healthcare worker, four unvaccinated children ages 1-7) received investigational MBP134 monoclonal antibody as post-exposure prophylaxis following Bundibugyo ebolavirus exposure under FDA emergency authorization; all remained BDBV-negative throughout 21-day monitoring with no adverse events; BDBV outbreak case-fatality rate 44%. Nature Medicine.
+
+**AI & Digital Health - Clinical Deployment**
+- Abridge expanded AI clinical decision support to 300+ enterprise health systems (Kaiser Permanente, Sutter Health, UNC Health, CHRISTUS Health, Duke Health, UPMC) serving 250+ million patients since April 2024, with monthly active users exceeding 50% of eligible clinicians and query volume tripling in two months; integrated Wolters Kluwer UpToDate. Fierce Healthcare.
+
+- LiON AI system completed single-arm clinical trial (NCT07153783) in 10,333 patients for liver malignancy diagnosis with AUC 0.975 overall and 0.952 in routine settings, identifying 51 previously overlooked lesions including 15 malignancies. Nature Medicine.
+
+- Aevice Health, Nanyang Technological University, and Denka launched Project CALM (Cough Analysis Learning Model) to develop AI models analysing cough sounds as respiratory health indicators using wearable technology. Aevice Health, Nanyang Technological University, Denka.
+
+- Pat AI conversational agent in hybrid parent management training program demonstrated sustained engagement with 88 caregivers of children aged 3-14 years with Net Promoter Scores 77.8-75.0 across 12 weeks. JMIR Formative Research.
+
+**AI & Digital Health - Research**
+- Arya Rao and Marc Succi published JAMA Network Open research evaluating 21 frontier AI models finding greater than 90% diagnostic accuracy with complete case information but less than 80% comprehensive differentials with only initial triage data. STAT News.
+
+- Researchers introduced DDx-PRS in Nature Genetics to distinguish schizophrenia, bipolar disorder, major depressive disorder using training data from 1,048,683 individuals and testing on 11,460. Psychiatric Genomics Consortium.
+
+- Paracelsus 10,000 study in Austria identified correlates of physical activity in 1,173 high cardiovascular risk patients with machine learning models achieving 86% accuracy predicting leisure-time physical activity. PLoS One.
+
+**Funding & M&A**
+- Function Health raised 450 million dollars Series growth funding from General Catalyst; NOWDiagnostics completed 22.5 million dollars Series B and appointed CEO Lisa Nibauer; Wisp acquired TBD Health and partnered with Visby for sexual health diagnostics; global remote diagnostics market projected to reach 653 billion dollars by 2033. MedCity News.
+
+- Aisel Health raised 1.7 million euros in pre-seed funding to develop digital operating system for psychiatric care practices. Tech Funding News.
+
+- Sravathi AI and Mayo Clinic partnered to develop AI-enabled drug candidate for cancer combining Sravathi's AI drug discovery platform with Mayo Clinic's clinical expertise. Sravathi AI, Mayo Clinic.
+
+- Bristol Myers Squibb partnered with Chai Discovery for AI-powered antibody drug discovery. Bristol Myers Squibb, Chai Discovery.
+
+- Eli Lilly partnered with Amplitude Therapeutics for trans-amplifying RNA infectious disease vaccines. Eli Lilly, Amplitude Therapeutics.
+
+- Eli Lilly entered collaboration and licensing agreement with OmniAb for ion channel drug discovery with upfront and milestone payments totaling up to 370 million dollars. Endpoints News.
+
+- Kynexis secured 40 million euros Series A extension led by Novartis Venture Fund for KYN-5356 schizophrenia trials (topline end-2026). Kynexis, Novartis Venture Fund.
+
+- Network Bio raised 50 million dollars for disease-focused AI datasets partnering with Mass General Brigham and University of Pennsylvania. Network Bio, Mass General Brigham, University of Pennsylvania.
+
+- Genentech invested 750 million dollars in new drug delivery device manufacturing facility. Genentech.
+
+---
+
+## UNITED STATES
+
+### DIGITAL HEALTH & AI - CLINICAL DEPLOYMENT
+
+**EHR & Clinical Documentation**
+- Epic Systems restructured leadership following President Sumit Rana's 28-year tenure, distributing responsibilities to Seth Howard (EVP R&D), Mark Lipsky, Erv Walter, and Garrett Adams (SVPs R&D); simultaneously launched Agent Factory (AI agent platform), Cosmos Curiosity (generative AI model trained on 320 million patients and 23 billion medical encounters), and Analyst Build Assistant (AI configuration tool), with Cosmos integration planned March 2027. Epic Systems.
+
+- Epic Systems launched Ergo Visit AI-powered outpatient visit assistant with Ochsner Health implementing on August 3, 2026 across four primary care physicians and five additional physicians outside Ochsner piloting. Healthcare Dive.
+
+- Oracle Health announced expanded clinical AI agent capabilities including automated professional fee coding, AI-powered chart review, and real-time speech-to-text dictation saving physicians over 400,000 hours since 2024 launch. Fierce Healthcare.
+
+- Suki raised 90 million dollars Series E from Healthier Capital, Crosslink Capital, Hercules Capital plus existing investors for ambient clinical intelligence AI for documentation. Fierce Healthcare.
+
+- Cleveland Clinic Foundation scaled ambient AI scribe deployment from Ambience Healthcare across 4,800+ clinicians over 12 months processing 3.5+ million encounters; 60% of clinicians agreed AI tool increased likelihood to remain in practice. Healthcare IT News.
+
+- Oxford Physical Therapy implemented Athelas AI scribing and revenue cycle management platform across 11 locations in February 2026, recovering 250,000 dollars+ in revenue with 0.5% denial rates. Healthcare IT News.
+
+**Prior Authorization & Revenue Cycle**
+- FDA selected Cadence as second participant in TEMPO (Technology-Enabled Meaningful Patient Outcomes) pilot program, exempting its AI-assisted hypertension management software from premarket authorization while enabling Medicare real-world data collection; retrospective analysis of 23,000+ patients showed average blood pressure reduction of 7/5 mm Hg after 30 weeks. MedTechDive.
+
+- FDA selects Limbic and Sondermind as second cohort of TEMPO (Technology-Enabled Meaningful Patient Outcomes) pilot; Limbic deploys Unpacked AI-powered cognitive behavioral therapy via telephone; Sondermind offers smartphone app for anxiety and depression adjunctive treatment; both gain exemption from premarket authorization and access new Medicare outcome-based payment model. MedTech Dive.
+
+- R1 acquiring Humata Health to integrate AI-powered prior authorization capabilities into revenue cycle management platform. Fierce Healthcare.
+
+- Cotiviti outlines strategic framework for healthcare payers to shift from reactive fraud, waste, and abuse detection to proactive prevention; HHS OIG reported 7.13 billion dollars in expected recoveries and receivables in 2024. MedCity News.
+
+**Administrative Automation**
+- Confido Health raised 12.5 million dollars Series A extension led by Z47; agentic AI operating system automating administrative workflows integrating 50+ systems. Fierce Healthcare.
+
+- Readily raised 11 million dollars Series A led by Define Ventures with Y Combinator and California Health Care Foundation Innovation Fund; AI compliance platform connecting regulatory requirements with policies across 46 US states covering 25M+ individuals with 10x revenue growth. Fierce Healthcare.
+
+- Weave survey of 285 employees across dental, specialty medical, optometry and veterinary practices finds 67% spend greater than or equal to 1 hour daily on manual data entry, 60% cite HIPAA/data privacy as leading AI risks, 41% of practices adopted AI workflows with 41% reporting improved productivity and 29% citing reduced staff burnout. Healthcare IT News.
+
+### DIGITAL HEALTH & AI - FUNDING & PARTNERSHIPS
+
+**Care Delivery Platforms**
+- Universal Health Services closed 835 million dollars acquisition of Talkspace at 5.25 dollars per share, retaining Talkspace as wholly owned subsidiary with 6,000 mental health professionals serving 200+ million members. Fierce Healthcare.
+
+- Berry Street merges with Healthify; combined entity operates under Berry Street brand in US and Healthify brand internationally, led by co-CEOs Noah Kotlove and Tushar Vashisht; combines Healthify's AI technology with Berry Street's clinician network and US insurance infrastructure. MobiHealthNews.
+
+- Abby Care raised 82 million dollars Series C led by Transformation Capital with co-investors CVS Health Ventures, Frist Cressey Ventures, Pivotal, Khosla Ventures, Thrive Capital, Sequoia Capital; AI-native home care platform training family caregivers with RN support across 8 US states showing 40%+ fewer hospitalizations in year one. Fierce Healthcare.
+
+- Allswell raised 7 million dollars seed funding from Rethink Impact, Magnify Ventures, Ulu Ventures, Hopelab Ventures; virtual therapy and trauma-informed care for LGBTQ+ patients in DMV area with 77% anxiety improvements and 71% depression improvements after 60 days. Fierce Healthcare.
+
+- Allara raised 30 million dollars funding led by Index Ventures and GV; multidisciplinary virtual care for women's health nationwide expanded to urgent care. Fierce Healthcare.
+
+- Hopscotch raised 53 million dollars in Series D funding led by 8VC and Town Hall Ventures to expand rural Medicare primary care delivery across Southeastern US. Healthcare IT News.
+
+**Diagnostics & Monitoring**
+- Happy Health raised 75 million dollars in Series funding led by ARCH Venture Partners and OpenLoop to expand FDA-cleared smart ring for at-home sleep apnea diagnosis. MedCity News.
+
+- Osteoboost Health completed FDA-cleared wearable device for low bone density screening nationwide launch May 2025 with 4.7 million dollars NIH grants and 15 million dollars private capital including acquisition of digital health platform Wellen. MedCityNews.
+
+- Abbott filed Libre Duo FDA application for dual glucose-ketone continuous monitoring sensor expecting US approval before year-end; CE mark received in Europe with rollout to select European countries underway. MedTech Dive.
+
+- MiniMed begins shipping MiniMed Flex insulin pump combined with Abbott's Instinct sensor (15-day wear, app-controlled) in US following June 2024 launch with Simplera Sync sensor; phased rollout strategy for Type 1 and Type 2 diabetes patients ages 7+. MedTech Dive.
+
+**Rare Disease & Genetic Testing**
+- Probably Genetic raised 12 million dollars Series A led by Threshold with Y Combinator participation; AI platform for genetic testing converting symptoms/
