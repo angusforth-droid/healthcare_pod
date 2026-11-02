@@ -1,0 +1,197 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of May 17–18, 2026
+
+---
+
+## UNITED KINGDOM
+
+**AI Governance**
+- New governance body launched to support safe implementation of artificial intelligence in digital health systems (Health Services Daily)
+
+**Cancer Diagnostics**
+- Oxford University Hospitals NHS Trust implemented robotic technology to accelerate lung cancer diagnosis procedures (Digital Health)
+
+**Primary Care Innovation**
+- Predictive Health launched liver disease case-finding pathway at newly opened Bridgwater Community Diagnostic Centre using predictive analytics to identify at-risk patients in primary care (Building Better Healthcare)
+
+**Service Sustainability Crisis**
+- NHS Alliance warned ADHD and autism service spending in England has become unsustainable, with some areas experiencing tenfold spending increases within single year (The Guardian)
+
+**HealthTech Accelerator**
+- Six startups selected for UK-India HealthTech Accelerator Program providing mentorship, funding support, and access to NHS trusts and Indian health system networks (Medical Buyer)
+
+---
+
+## UNITED STATES
+
+**Digital Health Security**
+- Epic Systems' MyChart patient portal experiencing phishing campaign forcing healthcare organizations to implement stricter identity verification and treat patient portal access as critical security perimeter (MarketScale)
+
+**EHR Deployment**
+- Department of Veterans Affairs deploying Oracle Health electronic health record system to 3 medical centers in Indiana (Healthcare Dive)
+
+**Clinical Documentation AI**
+- Suki launched Suki Dictation, an AI dictation solution natively integrated into Epic and Meditech EHRs, enabling clinicians to generate clinical notes automatically; pilot at Witham Medical Group with Dr. Edward Mintz reported saving 1-2 hours daily on documentation (Fierce Healthcare)
+
+**Conversational Health AI**
+- Fullspan Health's conversational AI agent Healthline AI launched in June and accumulated 1.1 million views and 13,500 daily users by August 18; 75% of users submit queries, 94% of actions involve care pathway navigation or provider finding, 78% positive feedback, zero reported clinical or compliance incidents across 2,800+ diagnostic interactions (Fierce Healthcare)
+
+**Patient Safety Reporting**
+- ECRI Institute expanded patient safety reporting system to include errors and adverse events involving artificial intelligence in healthcare (Fierce Healthcare)
+
+**AI Regulatory Guidance**
+- FDA announced it will issue new guidance on artificial intelligence in healthcare; Epic Systems held annual User Group Meeting (STAT News)
+
+**Health Insurance AI Platform**
+- Staywell.Health announced funding led by Equanimity Investments to build AI-native health insurance distribution platform (ANI News)
+
+**Revenue Cycle AI**
+- Arintra raises $25 million Series B funding (total $51 million) for AI revenue assurance platform targeting healthcare billing and claims processing (MobiHealthNews)
+
+**Quality Measures Development**
+- Komodo Health and National Committee for Quality Assurance announced multiyear collaboration to develop and validate healthcare quality measures leveraging real-world data analytics (MobiHealthNews)
+
+**Cybersecurity Operations**
+- U.S. Department of Justice, Federal Bureau of Investigation, and National Security Agency seized intrusion platforms operated by QTFY, a People's Republic of China-sponsored cyber threat group targeting U.S. critical infrastructure (Healthcare IT News)
+
+**Life Expectancy Improvement**
+- CDC National Center for Health Statistics released 2024 life expectancy data showing US life expectancy reached 79 years at birth, up 0.6 years from 2023 and surpassing pre-pandemic 2019 levels by 0.2 years, driven by declining COVID deaths, unintentional injuries, heart disease, cancer, and homicide deaths (STAT News)
+
+**Measles Deaths**
+- Pennsylvania Department of Health reports two measles-related deaths in Lancaster County, Pennsylvania—first measles deaths in the U.S. in 2025; both deceased individuals were unvaccinated (STAT News)
+
+**GLP-1 Medicare Coverage**
+- Eli Lilly releases efficacy data on Zepbound (tirzepatide) in older adults as Medicare's GLP-1 Bridge program expands coverage for weight management in Medicare beneficiaries (Fierce Healthcare)
+
+**Cardiovascular Drug Approval**
+- Eli Lilly's Mounjaro (tirzepatide) received FDA approval for reducing major adverse cardiovascular events in patients with heart disease (Endpoints News)
+
+**GLP-1 Compounding Restrictions**
+- U.S. Appeals Court upheld FDA determinations ending shortage declarations for Novo Nordisk's Ozempic/Wegovy and Eli Lilly's Mounjaro/Zepbound; rejected Outsourcing Facilities Association legal challenge restricting compounders' mass production of GLP-1 biosimilars (STAT News)
+
+**Alzheimer's Blood Biomarker**
+- FDA cleared Elecsys pTau217 blood test developed by Roche and Eli Lilly for Alzheimer's disease assessment in patients age 55+ with cognitive decline; Labcorp and Quest Diagnostics announced commercial availability; Quest plans nationwide rollout Q4 2026 with expanded AD-Detect panels in 2027 (MedTech Dive)
+
+**Autoimmune Hemolytic Anemia Treatment**
+- FDA approved Johnson & Johnson's Imaavy for warm autoimmune hemolytic anemia in patients aged 12+ currently or previously treated with steroids; approval based on study of 115 adults; disease prevalence 1 in 8,000 people (STAT News Pharmalot)
+
+**Dermatomyositis Treatment**
+- FDA approves Lisraya (brepocitinib) developed by Roivant Sciences subsidiary Priovant Therapeutics for dermatomyositis (STAT News)
+
+**Polycythemia Vera Treatment**
+- FDA approves rusfertide (Mimrylo), developed by Takeda Pharmaceutical and Protagonist Therapeutics, for polycythemia vera; first-in-class hepcidin mimetic (Endpoints News)
+
+**Gastric Cancer Label Expansion**
+- Jazz Pharmaceuticals receives FDA approval for Ziihera (glofitamab) label expansion in frontline gastric cancer, expanding from treatment-resistant to newly diagnosed patient populations (Endpoints News)
+
+**Pancreatic Cancer Treatment**
+- Revolution Medicines receives FDA approval for Rasonque, a pancreatic cancer treatment showing approximately 100% improvement in patient survival metrics (Endpoints Weekly)
+
+**PTSD Digital Intervention Study**
+- Uniformed Services University launched clinical study led by Col. (Ret.) Dr. Michael J. Roy to evaluate Mentaily's AI avatar against the Clinician-Administered PTSD Scale for post-traumatic stress disorder diagnosis (MobiHealthNews)
+
+**Wearable Hypertension Screening**
+- Researchers developed machine learning framework for hypertension screening using photoplethysmography data from wearables, achieving 84.6% accuracy on external validation (European Heart Journal: Digital Health)
+
+**Diabetes Prediction from ECG**
+- Beth Israel Deaconess Medical Center developed and validated AIRE-DM, a convolutional neural network using electrocardiography to predict incident type 2 diabetes; external validation in UK Biobank (65,606 participants) and ELSA-Brasil (13,739 participants) showed C-index 0.625-0.688 (European Heart Journal: Digital Health)
+
+**Stigmatizing Language Detection**
+- Researchers developed and validated LLM-enhanced natural language processing model detecting stigmatizing language in electronic health records of substance use disorder patients; unprofessional language appeared in 72% of SUD notes vs 52% of non-SUD notes and was associated with 1.54x higher odds of behavioral health referral (Digital Health)
+
+**E-Cigarette Approval**
+- Juul Labs received FDA approval to market an updated e-cigarette device with optional age-verification technology (STAT News)
+
+**Medical Device Recall**
+- Medtronic recalls pH monitoring capsule linked to 184 serious injuries; second market withdrawal within two years due to airway obstruction risk (MedTech Dive)
+
+**Health System Investment**
+- Intermountain Health received $25 million investment from Las Vegas Raiders organization (Modern Healthcare)
+
+**Insurance Turnaround**
+- Highmark Health's insurance unit delivered financial turnaround in first half of year, reversing prior period losses (Modern Healthcare)
+
+**Behavioral Health Leadership**
+- Dr. Patrick Fox appointed president of Carelon Behavioral Services, Elevance Health's behavioral health division, effective immediately (Healthcare Dive)
+
+**Medicaid Fraud Lawsuit**
+- Maryland filed a lawsuit against UnitedHealth Group alleging its Optum subsidiary defrauded Maryland Medicaid through a defective computer system (Fierce Healthcare)
+
+**Pharmacy Benefit Manager Lawsuit**
+- Florida Attorney General James Uthmeier sued Express Scripts and Prime Therapeutics alleging illegal price-fixing through their partnership (Fierce Healthcare)
+
+**Rural Health Grants**
+- Centers for Medicare & Medicaid Services awarded Rural Health Transformation Program grants totaling $122 million to Virginia and $93.3 million to Georgia (Fierce Healthcare)
+
+**Women's Health Venture Funding Collapse**
+- Silicon Valley Bank analysis showing women's health venture funding collapsed 37% from $3.2 billion in 2024 to $2 billion in 2025, with sector share of healthcare venture deals falling from 7.4% to 5.7%; biopharma funding specifically dropped 53% from $1.3 billion to $610 million; 18 acquisitions and 14 IPOs in 2025 (BioPharma Dive)
+
+**Biotech Workforce Contraction**
+- Massachusetts biotech workforce declined by 3,600 employees in 2025 to 113,503 from 117,103 in 2024, marking first year-on-year contraction since at least 2002 (3.1% decline); Massachusetts Biotechnology Council attributed downturn to industry headwinds and uncertainty surrounding federal research funding (STAT News)
+
+**Cell Therapy Partnership Termination**
+- Bristol Myers Squibb terminated its partnership with Cellares, a cell therapy contract manufacturing organization; Cellares will undergo restructuring (Endpoints News)
+
+**Patient Engagement Platform Divestiture**
+- Flexpoint Ventures divested patient engagement platform ArtesRx to a consortium including Main, New Mountain Capital, and Marlin Equity (PE Hub)
+
+**Clinical Development AI Infrastructure**
+- Faro AI raised $37.3 million in Series B funding for development of AI agents and clinical development infrastructure (MobiHealthNews)
+
+**Vaccine Litigation Conflict**
+- Four U.S. Senators challenged HHS Secretary Robert F. Kennedy Jr. over conflicting explanations regarding his financial stake disposal in Gardasil HPV vaccine litigation; Merck settled litigation for $50 million in 2026; Senators demanded Kennedy commit to recusing himself from HHS decisions involving Gardasil and vaccine litigation policy (STAT News Pharmalot)
+
+**Women's Health Drug Sales**
+- Astellas Pharma's Veozah generated approximately $300 million sales in 2025 and Bayer's Lynkuet approved in 2024 (BioPharma Dive)
+
+---
+
+## GLOBAL
+
+**Spatial Omics Standardization**
+- SACCELERATOR framework published in Nature Methods by international consortium (Swiss National Science Foundation, NIH/NINDS, Netherlands Organisation for Scientific Research, German Research Foundation) establishing standardized consensus-guided approach for evaluating spatially aware clustering methods in spatial omics research; identified substantial limitations across existing methods and proposed high-entropy region analysis for improved tissue architecture studies (Nature Methods)
+
+**Patient Data Access for Drug Discovery**
+- OmicsBank raised $2.25 million in funding to enable biopharmaceutical companies to access overseas patient data for drug discovery and development (Endpoints News)
+
+**Antibody-Drug Conjugate Licensing**
+- Roche/Genentech licensing agreement with DualityBio: $45 million upfront payment for antibody-drug conjugate development (Endpoints News)
+
+**Personalized mRNA Cancer Vaccine Trial Termination**
+- BioNTech and Genentech terminated Phase 2 trial of personalized mRNA cancer vaccine (Endpoints News)
+
+**ATTR-CM Drug Trial Failure**
+- AstraZeneca and Ionis Pharmaceuticals announced Phase 3 trial failure for experimental ATTR-CM silencer drug (STAT News)
+
+**Cardiovascular Gene Editing Durability**
+- CRISPR Therapeutics presented one-year durability data for lipid-lowering gene editing therapy at European Society of Cardiology annual meeting showing mixed results (Endpoints News)
+
+**Hypertrophic Cardiomyopathy Treatment Data**
+- Cytokinetics presented expanded approval data for Myqorzo at European Society of Cardiology conference (Endpoints News)
+
+**Anti-IL-6 Cardiovascular Trial**
+- Novartis initiates Phase 3 trial of anti-IL-6 antibody for cardiovascular event prevention in patients with elevated inflammatory risk (Endpoints News)
+
+**Left Atrial Appendage Closure Device**
+- Abbott wins CE mark for new left atrial appendage closure device, competing with Boston Scientific's Watchman platform in stroke prevention for atrial fibrillation patients (MedTech Dive)
+
+**Retinal Foundation Model Performance**
+- RETFound, a retina-specific foundation model, outperforms traditional deep-learning models (ResNet50, ViT-Base, SwinV2) in detecting ocular and systemic diseases with limited training data; validated across Singapore, China, India, UK datasets including SEED study, UK Biobank, Beijing Eye Study (The Lancet Digital Health)
+
+**COVID-19 Infodemic Research**
+- WHO-led research quantifies COVID-19 infodemic dynamics across 30 countries using regression modeling integrating epidemic surveillance, vaccination, and social media data (PNAS Nexus)
+
+**Xylitol Cardiovascular Risk Study**
+- Large-scale epidemiological study identifies association between elevated blood xylitol levels and increased cardiovascular risk including stroke, myocardial infarction, and mortality (The Guardian)
+
+**MASLD Trial Correction**
+- Nature Medicine publishes author correction to SYNCHRONIZE-MASLD phase 3 trial paper on survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease (Nature Medicine)
+
+**Pharmaceutical Leadership Appointment**
+- Qiagen appointed Jonathan Pratt as Chief Executive Officer, effective September 1, concluding approximately 10-month CEO search (MedTech Dive)
+
+**Daiichi Sankyo Commercialization Officer**
+- Daiichi Sankyo appointed Ken Keller as Chief Commercialization Officer effective April 1, 2027 (Endpoints News)
+
+**AI Biomaterials Collaboration**
+- Hong Kong Applied Science and Technology Research Institute and Saint Francis
