@@ -1,0 +1,266 @@
+# HEALTHCARE AND LIFE SCIENCES BRIEFING
+## Week of [Current Week]
+
+---
+
+## UNITED KINGDOM
+
+**Digital Health & Healthtech**
+
+- MHRA launched Manchester Health Tech Sandbox for NHS pharmacy businesses to develop and test digital health technologies, providing regulatory pathway for early-stage solutions (Healthcare Dive)
+
+- Scan.com closed $220 million combined financing round ($90 million equity led by Noteus Partners with Aviva, Concord Health Partners, YZR Capital, Oxford Capital; $130 million debt from VerisFi Capital and Atempo Growth) for UK and US medical imaging network expansion (MobiHealthNews)
+
+- UK-India HealthTech Accelerator 2026 selected six health-tech companies as winners for cross-border innovation (BioSpectrum India)
+
+---
+
+## UNITED STATES
+
+**Digital Health & Healthtech**
+
+- OpenAI launched ChatGPT for Healthcare integration with Epic Systems electronic health records, enabling clinicians to import patient data directly into ChatGPT for appointment preparation and longitudinal health pattern analysis (MobiHealthNews)
+
+- Teladoc Health appointed Michael Grasher as Chief Financial Officer (Healthcare Dive)
+
+- K Health targets IPO by 2029 following expansion into clinical operations (Endpoints News)
+
+- Noom partnered with Solera Health to integrate Noom Weight, Diabetes Prevention Program, and no-cost GLP-1 companion app into member benefits platform (Fierce Healthcare)
+
+- General Catalyst invested in or partnered with Summa Health to deploy technology solutions in Ohio (Modern Healthcare)
+
+- LeanTaaS acquired Aidin, a care transition platform, to integrate discharge readiness and post-acute care barrier identification into iQueue for Inpatient Flow platform (MobiHealthNews)
+
+- Fischer Medical Ventures' TMIV Imaging launched Clarion, an AI-powered CT scan system (Digital Health News)
+
+- Jetstream Venture Fund invested in ImageAiD and Moonrise Medical to expand AI healthtech portfolio (Pulse2.com)
+
+- Merge Labs (backed by Sam Altman) and Butterfly Network partnered to develop ultrasound-based brain-computer interfaces (Digital Health News)
+
+- Elucid secured $55 million funding for AI-powered cardiovascular imaging platform (Health Tech World)
+
+- Thyme Care raised $125 million Series E funding at over $2 billion valuation led by Morgan Health with strategic participation from Humana and CVS Health Ventures (MobiHealthNews)
+
+- Mayo Clinic Platform Accelerate announced inaugural participants for multiyear pathway program supporting healthcare innovation companies (Mayo Clinic News Network)
+
+- Hims & Harms expanded telehealth services into Australia, marking first international expansion beyond US market (Fierce Healthcare)
+
+**Health Systems & Operations**
+
+- Sanford Health and Twin Cities health systems closed merger under 10-year state oversight agreement with $600 million investment commitment (Healthcare Dive)
+
+- Adena Health acquired Fairfield Medical Center after OhioHealth's planned acquisition faced federal antitrust scrutiny (Healthcare Dive)
+
+- Mass General Brigham's Medicare Advantage plan terminated network contract with Dana-Farber Cancer Institute effective October 1, affecting approximately 20,500 plan members (STAT News)
+
+- US Congress subpoenaed Oracle Executive Chairman Larry Ellison and CEO Mike Sicilia regarding escalating costs on Department of Veterans Affairs electronic health record modernization contract (Healthcare Dive)
+
+- House VA Committee voted unanimously 19-0 to subpoena Oracle Health executives after VA Electronic Health Record contract cost escalated from $10 billion to $27 billion (170% increase) (MedCity News)
+
+**Pharmaceuticals & Life Sciences**
+
+- Novartis paused rap-cel CAR-T autoimmune trials after three patient deaths from inflammatory reactions; Bristol Myers Squibb halted zola-cel enrollment (STAT News)
+
+- Bristol Myers Squibb paused CAR-T clinical trials for autoimmune diseases in early June following life-threatening adverse events (Pharmalot/Wall Street Journal)
+
+- Alumis' TYK2 inhibitor failed Phase 2b primary endpoint in systemic lupus erythematosus trial (Endpoints News)
+
+- Nine pharma companies—Alcon, Astellas, BeOne, BridgeBio, CSL, Sun Pharma, Kyowa Kirin, Teva, UCB—joined Trump administration drug pricing initiative, bringing total to 26 signatories (STAT News)
+
+- Trump administration announced voluntary drug pricing agreements with nine additional pharmaceutical companies, expanding beyond summer cohort (Endpoints News)
+
+- US House voted 370-48 to pass stopgap government-funding bill temporarily blocking White House proposal to grant political appointees control over federal research grants through December 11 (STAT News)
+
+- Arsenal Biosciences cut majority of staff in second major layoff within 12 months, pivoting to in vivo CAR-T cell therapy (Endpoints News)
+
+- Ultragenyx announced failure of late-stage clinical trial for experimental genetic medicine targeting Angelman syndrome (STAT News)
+
+- Ionis Pharmaceuticals received FDA approval for zilganersen, RNA-based therapy for rare pediatric neurodegenerative Alexander disease (Endpoints News)
+
+- FDA approved zilganersen (Zanvastro), Ionis Pharmaceuticals' first disease-modifying therapy for ultra-rare Alexander disease (MedCity News)
+
+- Novartis pelacarsen failed Phase 3 HORIZON trial for cardiovascular disease; drug reduced Lp(a) biomarker but did not reduce cardiovascular death or major adverse cardiovascular events versus placebo (STAT News)
+
+- ADARx Pharmaceuticals filed for IPO with US Securities and Exchange Commission; company has 3 drugs in clinical development (Endpoints News)
+
+**Medical Devices**
+
+- FDA cleared Stryker's surgical guidance system integrating Apple Vision Pro for operating room use (STAT News)
+
+- Medtronic and Cornerstone Robotics announced strategic partnership to expand global access to robotic-assisted surgery (PR Newswire)
+
+- Medtronic invested approximately $700 million in Cornerstone Robotics and secured distribution rights for the Sentire minimally invasive surgical system in select non-US markets (MobiHealthNews)
+
+- HR HealthCare launched Liv catheter designed for female self-catheterisation (Medical Device Network)
+
+**Policy & Funding**
+
+- HHS awarded $77 million in competitive grants through SAMHSA for substance use prevention, treatment, mental health services, and suicide prevention programs (MedCity News)
+
+**Clinical Research**
+
+- DadBooster randomized controlled trial demonstrated 72% reduction in depression symptoms for fathers with postnatal depression versus 40% in waitlist control (P<.001), with 91% remission rate across 50 Australian fathers (Journal of Medical Internet Research)
+
+- Randomized clinical trial of 1,012 US participants (aged 13-29) testing 15 health warning message designs on social media; all health warnings outperformed neutral control (average differential effects 0.32-0.62) (JAMA Health Forum)
+
+- ECG-CLIP foundation model for electrocardiogram analysis developed and validated by Scripps Health researchers using 1.7 million ECGs from 542,288 patients, achieving 90.8% reduction in training data requirements for cardiovascular disease detection (The Lancet Digital Health)
+
+- University of Miami Sylvester Comprehensive Cancer Center published study in The Lancet Regional Health showing alcohol-related cancer deaths in US more than doubled from 11,361 in 1990 to 23,126 in 2023 (The Lancet Regional Health)
+
+---
+
+## GLOBAL
+
+**Pharmaceuticals & Life Sciences**
+
+- Roche partnered with Simcere Zaiming on trispecific T cell engager with $75 million upfront payment (Endpoints News)
+
+- Novartis Rhapsido Phase 3 multiple sclerosis trial data showed significant annualized relapse rate reduction (Endpoints News)
+
+- GlaxoSmithKline advanced pivotal trial for mRNA seasonal influenza vaccine targeting two viral surface proteins, competing with Moderna's single-protein Spikevax (MedCity News)
+
+- Menarini Group acquired European rights to GLP-1 agonist from Gan & Lee to enter obesity treatment market (Endpoints News)
+
+**Medical Devices**
+
+- Medtronic and Cornerstone Robotics announced strategic partnership to expand global access to robotic-assisted surgery (PR Newswire)
+
+---
+
+## AUSTRALIA
+
+**Digital Health & Healthtech**
+
+- South Australia Health and Central Adelaide Local Health Network deployed cloud-native health informatics system (CCCIS) across 2 ICUs (54 beds, ~5,000 admissions/year) since 2022 using Altera Digital Health Sunrise EMR on Microsoft Azure with Red Hat OpenShift; CODEXA AI-assisted clinical coding achieved 71% pooled F1-score across full case mix; funded approximately AUD $1.84 million through competitive and institutional grants (JMIR Medical Informatics)
+
+- Hims & Harms expanded telehealth services into Australia, marking first international expansion beyond US market (Fierce Healthcare)
+
+**Clinical Research**
+
+- DadBooster randomized controlled trial demonstrated 72% reduction in depression symptoms for fathers with postnatal depression versus 40% in waitlist control (P<.001), with 91% remission rate across 50 Australian fathers (Journal of Medical Internet Research)
+
+---
+
+## DENMARK
+
+**Clinical Research**
+
+- Nationwide registry study of 45,919 atrial fibrillation, 30,482 heart failure, 12,451 pulmonary embolism, and 12,435 acute coronary syndrome patients (2019-2023) found 27.3%-51.7% received partially virtual follow-up with comparable guideline-directed medical therapy initiation to in-person visits; virtual care adoption increased during COVID-19 and remained elevated post-pandemic (Journal of Medical Internet Research)
+
+---
+
+## FINLAND
+
+**Digital Health & Healthtech**
+
+- Oura Health Oy filed for IPO targeting $16 billion+ valuation for AI-powered health platform development (The American Bazaar)
+
+**Clinical Research**
+
+- Finnish Arthroplasty Register completed transition to fully electronic data collection in 2014; registration completeness for knee revisions improved from 73% (2013) to 100% (2016), accuracy of periprosthetic joint infection recording increased from 65% to 98% (Arthroplasty Today)
+
+---
+
+## GERMANY
+
+**Clinical Research**
+
+- IMPULS-A randomised controlled trial launching at National Center for Tumor Diseases Heidelberg to evaluate support programme for 724 cancer survivors aged ≥70 years (BMJ Open)
+
+- University of Cologne initiating controlled before-and-after study (DRKS00034749) evaluating nurse-led intervention with telephone interpreting for 126 cancer patients with migration-related language barriers (BMJ Open)
+
+- PROTECTconfirm randomized clinical trial across 44 secondary schools in Baden-Württemberg demonstrates cognitive behavioral therapy reduces gaming/internet disorder symptoms in high-risk adolescents (n=205) at 12 months versus media literacy control (Modified Video Game Dependency Scale 14.7 vs 17.7; Cohen d=-0.30) (JAMA Network Open)
+
+---
+
+## IRELAND
+
+**Digital Health & Healthtech**
+
+- Cushla and Clirinx merger to create integrated patient data platform for rare disease patients (MedCity News)
+
+---
+
+## INDIA
+
+**Digital Health & Healthtech**
+
+- Medulance raised ₹24 crore funding to expand emergency response network (Inc42)
+
+- Ultrahuman raised $70 million for human-computer interface technology for health applications (Digital Health News)
+
+- Three South Indian medtech startups selected for Israel-based launchpad programme for global expansion (Siliconindia)
+
+---
+
+## KENYA
+
+**Digital Health & Healthtech**
+
+- Kenya accelerated digital health adoption, driving regional demand for AI solutions and hospital management technology across East Africa (The Star)
+
+---
+
+## SOUTH AFRICA
+
+**Digital Health & Healthtech**
+
+- South African pilot implementation of user-centered virtual clinic system across two facilities (Cape Town primary health clinic, Northern Cape occupational health clinic) completed 12 virtual consultations with 2 doctors, 2 nurses, and 12 patients (JMIR Human Factors)
+
+---
+
+## SOUTH KOREA
+
+**Digital Health & Healthtech**
+
+- Novartis Korea announced support programme to help local digital health startups commercialize technologies through Novartis commercial infrastructure and expertise (Seoul Economic Daily)
+
+---
+
+## THAILAND
+
+**Clinical Research**
+
+- Randomised controlled trial of 60 Myanmar migrant workers in Bangkok showed LINE messaging-based self-efficacy intervention produced significant BMI reduction (F(1.711,99.232)=34.846, P<.001) and health-promoting behaviour improvements (F(2,116)=5.309, P=.006) at Week 8 (Health Education Research)
+
+---
+
+## MALAYSIA
+
+**Digital Health & Healthtech**
+
+- Institut Jantung Negara reached HIMSS Electronic Medical Record Adoption Model Stage 7, the highest EHR maturity level (Healthcare IT News)
+
+---
+
+## ETHIOPIA
+
+**Digital Health & Healthtech**
+
+- Wallaga University Comprehensive Specialized Hospital implemented medical record management system using PDSA cycles September-December 2025; medical record retrieval rates improved from 41% to 95%, lost folders declined from 13% to 2%, patient satisfaction increased from 40% to 90% (BMJ Open Quality)
+
+---
+
+## EUROPE (MULTI-COUNTRY)
+
+**Policy & Regulation**
+
+- European Academy of Paediatrics released policy statement calling for harmonised surveillance systems and pan-European digital vaccination record standards across EU member states (The Lancet)
+
+**Clinical Research**
+
+- MULTIR patient organization consortium co-developed six recommendations for ethical artificial intelligence integration in oncology through interviews with 18 patient advocates representing melanoma, bladder, and lung cancer organizations (Journal of Cancer Policy)
+
+---
+
+## CHINA
+
+**Pharmaceuticals & Life Sciences**
+
+- Roche partnered with Simcere Zaiming on trispecific T cell engager with $75 million upfront payment (Endpoints News)
+
+- NeuShen Therapeutics closed Series B funding of $80 million to advance three clinical-stage brain-health candidates (Endpoints News)
+
+**Digital Health & Healthtech**
+
+- Ant Group expanding mobile healthcare services to reach 1 billion users (Healthcare Digital)
